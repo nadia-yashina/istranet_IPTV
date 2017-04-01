@@ -1,0 +1,513 @@
+#EXTM3U 
+#EXTINF:-3 id=vsetv_8 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/pervyy.png,Первый
+http://176.62.191.62:38787/udp/224.1.42.85:5005
+#EXTINF:-3 id=vsetv_9 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/rossiya-1.png,Россия 1
+http://176.62.191.62:38787/udp/224.1.42.158:5000
+#EXTINF:-3 id=vsetv_1077 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/match.png,Матч
+http://176.62.191.62:38787/udp/224.1.42.161:5000
+#EXTINF:-3 id=vsetv_10 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/ntv.png,НТВ
+http://176.62.191.62:38787/udp/224.1.42.163:5000
+#EXTINF:-3 id=vsetv_308 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/pyatyy-kanal.png,Пятый канал
+http://176.62.191.62:38787/udp/224.1.42.167:5000
+#EXTINF:-3 id=vsetv_15 group_id=9 logo=http://176.62.191.107:88/dune/dunelogos/pocciya-k.png,Poccия К
+http://176.62.191.62:38787/udp/224.1.42.160:5000
+#EXTINF:-3 id=vsetv_328 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/rossiya-24.png,Россия 24
+http://176.62.191.62:38787/udp/224.1.42.162:5000
+#EXTINF:-3 id=vsetv_687 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/karusel.png,Карусель
+http://176.62.191.62:38787/udp/224.1.42.165:5000
+#EXTINF:-3 id=vsetv_880 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/otr.png,ОТР
+http://176.62.191.62:38787/udp/224.1.42.61:5005
+#EXTINF:-3 id=vsetv_11 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tv-centr.png,ТВ Центр
+http://176.62.191.62:38787/udp/224.1.42.166:5000
+#EXTINF:-3 id=vsetv_13 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/ren-tv.png,Рен ТВ
+http://176.62.191.62:38787/udp/224.1.42.203:5000
+#EXTINF:-3 id=vsetv_238 group_id=12 logo=http://176.62.191.107:88/dune/dunelogos/spas.png,Спас
+http://176.62.191.62:38787/udp/224.1.42.150:5000
+#EXTINF:-3 id=vsetv_17 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/sts-moskva.png,СТС-Москва
+http://176.62.191.62:38787/udp/224.1.42.145:5000
+#EXTINF:-3 id=vsetv_124 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/domashniy.png,Домашний
+http://176.62.191.62:38787/udp/224.1.42.144:5000
+#EXTINF:-3 id=vsetv_63 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tv3.png,ТВ3
+http://176.62.191.62:38787/udp/224.1.42.82:5002
+#EXTINF:-3 id=vsetv_48 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/pyatnica.png,Пятница
+http://176.62.191.62:38787/udp/224.1.42.207:5000
+#EXTINF:-3 id=vsetv_232 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/zvezda.png,Звезда
+http://176.62.191.62:38787/udp/224.1.42.213:5000
+#EXTINF:-3 id=vsetv_176 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/mir.png,Мир
+http://176.62.191.62:38787/udp/224.1.42.79:5000
+#EXTINF:-3 id=vsetv_14 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tht.png,THT
+http://176.62.191.62:38787/udp/224.1.42.204:5000
+#EXTINF:-3 id=vsetv_808 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/muz-tv.png,Муз ТВ
+http://176.62.191.62:38787/udp/224.1.42.32:5005
+#EXTINF:-3 id=vsetv_49 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/yutv.png,ЮТВ
+http://176.62.191.62:38787/udp/224.1.42.178:5000
+#EXTINF:-3 id=vsetv_100 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/istranettv.png,IstranetTV
+http://176.62.191.62:38787/udp/224.1.42.200:5000
+#EXTINF:-3 id=vsetv_908 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/mtv-russia.png,Mtv-russia
+http://176.62.191.62:38787/udp/224.1.42.29:5002
+#EXTINF:-3 id=vsetv_56 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/che.png,Че
+http://176.62.191.62:38787/udp/224.1.42.164:5000
+#EXTINF:-3 id=vsetv_341 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/2x2.png,2x2
+http://176.62.191.62:38787/udp/224.1.42.149:5000
+#EXTINF:-3 id=vsetv_89 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/disney.png,Disney
+http://176.62.191.62:38787/udp/224.1.42.177:5000
+#EXTINF:-3 id=vsetv_952 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/stc-love.png,СTC-love
+http://176.62.191.62:38787/udp/224.1.42.131:5000
+#EXTINF:-3 id=vsetv_ group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/7tv.png,7тв
+http://176.62.191.62:38787/udp/224.1.42.91:5005
+#EXTINF:-3 id=vsetv_681 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/8-kanal.png,8 канал
+http://176.62.191.62:38787/udp/224.1.41.13:5005
+#EXTINF:-3 id=vsetv_838 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/mir24.png,Мир24
+http://176.62.191.62:38787/udp/224.1.42.78:5000
+#EXTINF:-3 id=vsetv_637 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/strana.png,Страна
+http://176.62.191.62:38787/udp/224.1.41.165:5005
+#EXTINF:-3 id=vsetv_653 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/360-podmoskov-e.png,360 Подмосковье
+http://176.62.191.62:38787/udp/224.1.41.35:5005
+#EXTINF:-3 id=vsetv_123 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/moskva24.png,Москва24
+http://176.62.191.62:38787/udp/224.1.42.224:5000
+#EXTINF:-3 id=vsetv_733 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/moskva-doverie.png,Москва Доверие
+http://176.62.191.62:38787/udp/224.1.42.225:5000
+#EXTINF:-3 id=vsetv_433 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/sarafan.png,Сарафан
+http://176.62.191.62:38787/udp/224.1.42.168:5005
+#EXTINF:-3 id=vsetv_967 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/vmesterf.png,ВместеРФ
+http://176.62.191.62:38787/udp/224.1.42.9:5005
+#EXTINF:-3 id=vsetv_1039 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/ldpr-live.png,ЛДПР-live
+http://176.62.191.62:38787/udp/224.1.41.24:5005
+#EXTINF:-3 id=vsetv_675 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/dozhd.png,Дождь
+http://176.62.191.62:38787/udp/224.1.42.124:5003
+#EXTINF:-3 id=vsetv_491 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tro-soyuz.png,ТРО Союз
+http://176.62.191.62:38787/udp/224.1.42.80:5000
+#EXTINF:-3 id=vsetv_ group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/prodvizhenie.png,Продвижение
+http://176.62.191.62:38787/udp/224.1.42.38:5005
+#EXTINF:-3 id=vsetv_1011 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tochkatv.png,ТочкаТВ
+http://176.62.191.62:38787/udp/224.1.42.222:5000
+#EXTINF:-3 id=vsetv_ group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/otkrytyy-mir.png,Открытый Мир
+http://176.62.191.62:38787/udp/224.1.42.39:5005
+#EXTINF:-3 id=vsetv_ group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/central-noe-tv.png,Центральное ТВ
+http://176.62.191.62:38787/udp/224.1.42.120:5001
+#EXTINF:-3 id=vsetv_542 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/pervyy-4.png,Первый (+4)
+http://176.62.191.62:38787/udp/224.1.42.34:5005
+#EXTINF:-3 id=vsetv_237 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tvc-mir.png,ТВЦ-мир
+http://176.62.191.62:38787/udp/224.1.42.122:5000
+#EXTINF:-3 id=vsetv_545 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/ntv-2.png,НТВ (+2)
+http://176.62.191.62:38787/udp/224.1.42.201:5000
+#EXTINF:-3 id=vsetv_549 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/rossiya1-4.png,Россия1(+4)
+http://176.62.191.62:38787/udp/224.1.41.30:5005
+#EXTINF:-3 id=vsetv_646 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/disney-7.png,Disney+7
+http://176.62.191.62:38787/udp/224.1.41.122:5005
+#EXTINF:-3 id=vsetv_595 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/match-nash-sport.png,Матч! Наш спорт
+http://176.62.191.62:38787/udp/224.1.42.68:5005
+#EXTINF:-3 id=vsetv_537 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/che-7.png,Че+7
+http://176.62.191.62:38787/udp/224.1.42.126:5005
+#EXTINF:-3 id=vsetv_667 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/match-arena.png,Матч! Арена
+http://176.62.191.62:38787/udp/224.1.42.67:5005
+#EXTINF:-3 id=vsetv_539 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/sts-4.png,СТС+4
+http://176.62.191.62:38787/udp/224.1.42.60:5005
+#EXTINF:-3 id=vsetv_508 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/sts-7.png,СТС+7
+http://176.62.191.62:38787/udp/224.1.42.125:5005
+#EXTINF:-3 id=vsetv_711 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/match-igra.png,Матч! Игра
+http://176.62.191.62:38787/udp/224.1.42.69:5005
+#EXTINF:-3 id=vsetv_563 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/domashniy-7.png,Домашний+7
+http://176.62.191.62:38787/udp/224.1.41.127:5005
+#EXTINF:-3 id=vsetv_556 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tnt-2.png,ТНТ+2
+http://176.62.191.62:38787/udp/224.1.42.205:5000
+#EXTINF:-3 id=vsetv_767 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tnt-3test0.png,ТНТ+3test0
+udp://@224.1.40.33:5005
+#EXTINF:-3 id=vsetv_557 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tnt-4.png,ТНТ(+4)
+http://176.62.191.62:38787/udp/224.1.42.173:5000
+#EXTINF:-3 id=vsetv_570 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/rentv-2.png,РенТВ(+2)
+http://176.62.191.62:38787/udp/224.1.42.202:5000
+#EXTINF:-3 id=vsetv_571 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/rentv-4.png,РенТВ(+4)
+http://176.62.191.62:38787/udp/224.1.42.208:5000
+#EXTINF:-3 id=vsetv_572 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/rentv-7.png,РенТВ(+7)
+http://176.62.191.62:38787/udp/224.1.41.131:5005
+#EXTINF:-3 id=vsetv_723 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/yutv-7.png,ЮТВ+7
+http://176.62.191.62:38787/udp/224.1.41.123:5005
+#EXTINF:-3 id=vsetv_809 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tnt4-2.png,ТНТ4 (+2)
+http://176.62.191.62:38787/udp/224.1.42.59:5000
+#EXTINF:-3 id=vsetv_529 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/mir-3.png,Мир(+3)
+http://176.62.191.62:38787/udp/224.1.42.74:5000
+#EXTINF:-3 id=vsetv_8 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/pervyy-hd.png,Первый(HD)
+http://176.62.191.62:38787/udp/224.1.42.22:5005
+#EXTINF:-3 id=vsetv_841 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/rossiya_1-hd.png,Россия_1(HD)
+http://176.62.191.62:38787/udp/224.1.42.21:5005
+#EXTINF:-3 id=vsetv_1090 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/machthd.png,МачтHD
+http://176.62.191.62:38787/udp/224.1.42.175:5005
+#EXTINF:-3 id=vsetv_604 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/khl-hd.png,КХЛ(HD)
+http://176.62.191.62:38787/udp/224.1.42.192:5005
+#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/wdr-de-hd.png,WDR de(HD)
+http://176.62.191.62:38787/udp/224.1.42.194:5005
+#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/super-tennis.png,Super Tennis
+http://176.62.191.62:38787/udp/224.1.42.12:5005
+#EXTINF:-3 id=vsetv_653 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/360-podmoskov-e-360-hd.png,360 Подмосковье-360(hd)
+http://176.62.191.62:38787/udp/224.1.42.155:5005
+#EXTINF:-3 id=vsetv_965 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/mir-hd.png,Мир(HD)
+http://176.62.191.62:38787/udp/224.1.41.26:5005
+#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/russianmusicbox-hd.png,RussianMusicBox HD
+http://176.62.191.62:38787/udp/224.1.42.115:5005
+#EXTINF:-3 id=vsetv_582 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/c-music-hd.png,C-music(HD)
+http://176.62.191.62:38787/udp/224.1.42.40:5001
+#EXTINF:-3 id=vsetv_672 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/mezzo-hd.png,Mezzo (hd)
+http://176.62.191.62:38787/udp/224.1.42.41:5001
+#EXTINF:-3 id=vsetv_1102 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/zhivayapriroda-hd.png,ЖиваяПрирода (hd)
+http://176.62.191.62:38787/udp/224.1.42.71:5001
+#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/slow-hd.png,Slow (hd)
+http://176.62.191.62:38787/udp/224.1.42.101:5005
+#EXTINF:-3 id=vsetv_86 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/fashion-hd.png,Fashion(HD)
+http://176.62.191.62:38787/udp/224.1.42.152:5005
+#EXTINF:-3 id=vsetv_900 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/rtg-hd.png,RTG(HD)
+http://176.62.191.62:38787/udp/224.1.42.90:5005
+#EXTINF:-3 id=vsetv_939 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/animal-planet-hd.png,Animal Planet(hd)
+http://176.62.191.62:38787/udp/224.1.42.62:5005
+#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/cgtn-documentary-hd.png,CGTN Documentary (hd)
+http://176.62.191.62:38787/udp/224.1.42.76:5005
+#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/cgtn-news-hd.png,CGTN news (hd)
+http://176.62.191.62:38787/udp/224.1.42.75:5005
+#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/cctv-4-hd.png,CCTV 4(HD)
+http://176.62.191.62:38787/udp/224.1.42.77:5005
+#EXTINF:-3 id=vsetv_780 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/mgm-hd.png,MGM (hd)
+http://176.62.191.62:38787/udp/224.1.42.64:5005
+#EXTINF:-3 id=vsetv_783 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/sony-hd.png,Sony (hd)
+http://176.62.191.62:38787/udp/224.1.42.176:5005
+#EXTINF:-3 id=vsetv_814 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/tv1000-premiumhd.png,TV1000 PremiumHD
+http://176.62.191.62:38787/udp/224.1.42.35:5005
+#EXTINF:-3 id=vsetv_816 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/tv1000-megahithd.png,TV1000 MegahitHD
+http://176.62.191.62:38787/udp/224.1.42.36:5005
+#EXTINF:-3 id=vsetv_817 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/tv1000-comedyhd.png,TV1000 ComedyHD
+http://176.62.191.62:38787/udp/224.1.42.37:5005
+#EXTINF:-3 id=vsetv_929 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/englishclub-hd.png,EnglishClub(HD)
+http://176.62.191.62:38787/udp/224.1.41.48:5005
+#EXTINF:-3 id=vsetv_1117 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/kino-hd.png,Кино (hd)
+http://176.62.191.62:38787/udp/224.1.42.100:5005
+#EXTINF:-3 id=vsetv_690 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/travel-hd.png,Travel (hd)
+http://176.62.191.62:38787/udp/224.1.41.33:5005
+#EXTINF:-3 id=vsetv_801 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/outdoor-hd.png,Outdoor (hd)
+http://176.62.191.62:38787/udp/224.1.42.128:5005
+#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/kbs-hd.png,KBS (hd)
+http://176.62.191.62:38787/udp/224.1.42.14:5005
+#EXTINF:-3 id=vsetv_961 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/rt-d-hd-rus.png,RT-Д(HD),(rus)
+http://176.62.191.62:38787/udp/224.1.42.65:5000
+#EXTINF:-3 id=vsetv_851 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/rt-hd-eng.png,RT(HD) (eng)
+http://176.62.191.62:38787/udp/224.1.42.10:5005
+#EXTINF:-3 id=vsetv_788 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/rt-d-hd-eng.png,RT-Д(HD) (eng)
+http://176.62.191.62:38787/udp/224.1.42.11:5005
+#EXTINF:-3 id=vsetv_46 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/bbc-world-eng-hd.png,BBC World(eng),(hd)
+http://176.62.191.62:38787/udp/224.1.42.135:5001
+#EXTINF:-3 id=vsetv_789 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/nhk-world-eng-hd.png,NHK World (eng), (hd)
+http://176.62.191.62:38787/udp/224.1.42.132:5001
+#EXTINF:-3 id=vsetv_240 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/aljazeera-english-hd.png,Aljazeera English(hd)
+http://176.62.191.62:38787/udp/224.1.42.151:5000
+#EXTINF:-3 id=vsetv_604 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/khl.png,КХЛ
+http://176.62.191.62:38787/udp/224.1.42.98:5005
+#EXTINF:-3 id=vsetv_310 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/boec.png,Боец
+http://176.62.191.62:38787/udp/224.1.42.133:5000
+#EXTINF:-3 id=vsetv_99 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/extrimesports.png,ExtrimeSports
+http://176.62.191.62:38787/udp/224.1.41.39:5005
+#EXTINF:-3 id=vsetv_440 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/futbol.png,Футбол
+http://176.62.191.62:38787/udp/224.1.42.129:5005
+#EXTINF:-3 id=vsetv_1062 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/bokstv.png,БоксТВ
+http://176.62.191.62:38787/udp/224.1.42.180:5005
+#EXTINF:-3 id=vsetv_36 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/eurosport.png,Eurosport
+http://176.62.191.62:38787/udp/224.1.41.22:5005
+#EXTINF:-3 id=vsetv_229 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/eurosport2.png,Eurosport2
+http://176.62.191.62:38787/udp/224.1.41.21:5005
+#EXTINF:-3 id=vsetv_605 group_id=9 logo=http://176.62.191.107:88/dune/dunelogos/rtg.png,RTG
+http://176.62.191.62:38787/udp/224.1.41.144:5005
+#EXTINF:-3 id=vsetv_690 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/travel.png,Travel
+http://176.62.191.62:38787/udp/224.1.42.190:5005
+#EXTINF:-3 id=vsetv_38 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/discovery.png,Discovery
+http://176.62.191.62:38787/udp/224.1.42.73:5001
+#EXTINF:-3 id=vsetv_41 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/discovery-science.png,Discovery Science
+http://176.62.191.62:38787/udp/224.1.42.25:5005
+#EXTINF:-3 id=vsetv_1061 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/discovery-dtx.png,Discovery DTX
+http://176.62.191.62:38787/udp/224.1.41.31:5005
+#EXTINF:-3 id=vsetv_691 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/discovery-tlc.png,Discovery TLC
+http://176.62.191.62:38787/udp/224.1.42.31:5002
+#EXTINF:-3 id=vsetv_943 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/discovery-id.png,Discovery ID
+http://176.62.191.62:38787/udp/224.1.42.30:5001
+#EXTINF:-3 id=vsetv_902 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/history.png,History
+http://176.62.191.62:38787/udp/224.1.42.99:5005
+#EXTINF:-3 id=vsetv_484 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/animal-planet.png,Animal PLanet
+http://176.62.191.62:38787/udp/224.1.41.164:5005
+#EXTINF:-3 id=vsetv_651 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/viasat-da-vinchi.png,Viasat Da Vinchi
+http://176.62.191.62:38787/udp/224.1.41.60:5005
+#EXTINF:-3 id=vsetv_152 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/viasat-explorer.png,Viasat Explorer
+http://176.62.191.62:38787/udp/224.1.41.64:5005
+#EXTINF:-3 id=vsetv_175 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/viasat-history.png,Viasat History
+http://176.62.191.62:38787/udp/224.1.41.65:5005
+#EXTINF:-3 id=vsetv_652 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/viasat-nature.png,Viasat Nature
+http://176.62.191.62:38787/udp/224.1.41.66:5005
+#EXTINF:-3 id=vsetv_332 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/viasat-sport.png,Viasat Sport
+http://176.62.191.62:38787/udp/224.1.41.67:5005
+#EXTINF:-3 id=vsetv_879 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/istoriya.png,История
+http://176.62.191.62:38787/udp/224.1.41.166:5005
+#EXTINF:-3 id=vsetv_381 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/24-tehno.png,24 техно
+http://176.62.191.62:38787/udp/224.1.42.170:5005
+#EXTINF:-3 id=vsetv_263 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/24-dok.png,24 док
+http://176.62.191.62:38787/udp/224.1.42.189:5005
+#EXTINF:-3 id=vsetv_712 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/nauka-2-0.png,Наука 2.0
+http://176.62.191.62:38787/udp/224.1.41.177:5005
+#EXTINF:-3 id=vsetv_639 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/moya-planeta.png,Моя планета
+http://176.62.191.62:38787/udp/224.1.41.178:5005
+#EXTINF:-3 id=vsetv_583 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/galaxy.png,Galaxy
+http://176.62.191.62:38787/udp/224.1.42.148:5005
+#EXTINF:-3 id=vsetv_414 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/okean.png,Океан
+http://176.62.191.62:38787/udp/224.1.41.150:5005
+#EXTINF:-3 id=vsetv_934 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/morskoy.png,Морской
+http://176.62.191.62:38787/udp/224.1.42.155:5005
+#EXTINF:-3 id=vsetv_649 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/uspeh.png,Успех
+http://176.62.191.62:38787/udp/224.1.42.23:5005
+#EXTINF:-3 id=vsetv_1022 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/mir-uvlecheniy.png,Мир увлечений
+http://176.62.191.62:38787/udp/224.1.42.147:5005
+#EXTINF:-3 id=vsetv_741 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/nanotv.png,НаноТВ
+http://176.62.191.62:38787/udp/224.1.42.81:5005
+#EXTINF:-3 id=vsetv_648 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/muzhskoy.png,Мужской
+http://176.62.191.62:38787/udp/224.1.42.83:5005
+#EXTINF:-3 id=vsetv_924 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/avto24.png,Авто24
+http://176.62.191.62:38787/udp/224.1.42.184:5005
+#EXTINF:-3 id=vsetv_647 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/zagorodnaya-zhizn.png,Загородная жизнь
+http://176.62.191.62:38787/udp/224.1.42.84:5005
+#EXTINF:-3 id=vsetv_1179 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/bober.png,Бобер
+http://176.62.191.62:38787/udp/224.1.41.142:5005
+#EXTINF:-3 id=vsetv_406 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/fineliving.png,FineLiving
+http://176.62.191.62:38787/udp/224.1.42.159:5005
+#EXTINF:-3 id=vsetv_1026 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/zhivaya-planeta.png,Живая Планета
+http://176.62.191.62:38787/udp/224.1.42.171:5005
+#EXTINF:-3 id=vsetv_331 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/zoopark.png,Зоопарк
+http://176.62.191.62:38787/udp/224.1.42.141:5005
+#EXTINF:-3 id=vsetv_243 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/ohota-i-rybalka.png,Охота и рыбалка
+http://176.62.191.62:38787/udp/224.1.42.146:5005
+#EXTINF:-3 id=vsetv_351 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/park-razvlecheniy.png,Парк Развлечений
+http://176.62.191.62:38787/udp/224.1.42.174:5005
+#EXTINF:-3 id=vsetv_1114 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/kaleydoskop.png,Калейдоскоп
+http://176.62.191.62:38787/udp/224.1.41.163:5005
+#EXTINF:-3 id=vsetv_350 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/sovsek.png,СовСек
+http://176.62.191.62:38787/udp/224.1.42.187:5005
+#EXTINF:-3 id=vsetv_721 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/agrotv.png,АгроТВ
+http://176.62.191.62:38787/udp/224.1.41.45:5005
+#EXTINF:-3 id=vsetv_1119 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/gameshow.png,GameShow
+http://176.62.191.62:38787/udp/224.1.41.27:5005
+#EXTINF:-3 id=vsetv_ group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/hl.png,HL
+http://176.62.191.62:38787/udp/224.1.42.18:5005
+#EXTINF:-3 id=vsetv_1181 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/globalstar.png,GlobalStar
+http://176.62.191.62:38787/udp/224.1.42.19:5005
+#EXTINF:-3 id=vsetv_415 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/telekafe.png,Телекафе
+http://176.62.191.62:38787/udp/224.1.42.169:5005
+#EXTINF:-3 id=vsetv_86 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/fashion.png,Fashion 
+http://176.62.191.62:38787/udp/224.1.42.121:5005
+#EXTINF:-3 id=vsetv_946 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/luxury-world.png,Luxury World
+http://176.62.191.62:38787/udp/224.1.42.72:5001
+#EXTINF:-3 id=vsetv_1005 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/foodnetwork.png,FoodNetwork
+http://176.62.191.62:38787/udp/224.1.42.157:5005
+#EXTINF:-3 id=vsetv_829 group_id=9 logo=http://176.62.191.107:88/dune/dunelogos/teatr.png,Театр
+http://176.62.191.62:38787/udp/224.1.42.93:5005
+#EXTINF:-3 id=vsetv_303 group_id=9 logo=http://176.62.191.107:88/dune/dunelogos/nostal-giya.png,Ностальгия
+http://176.62.191.62:38787/udp/224.1.41.36:5005
+#EXTINF:-3 id=vsetv_458 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/tv-1000-action.png,TV 1000 Action
+http://176.62.191.62:38787/udp/224.1.41.62:5005
+#EXTINF:-3 id=vsetv_107 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/tv1000.png,TV1000
+http://176.62.191.62:38787/udp/224.1.41.63:5005
+#EXTINF:-3 id=vsetv_255 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/tv1000-russkoe-kino.png,TV1000 Русское кино
+http://176.62.191.62:38787/udp/224.1.41.61:5005
+#EXTINF:-3 id=vsetv_895 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/amedia-i.png,Amedia I
+http://176.62.191.62:38787/udp/224.1.42.63:5005
+#EXTINF:-3 id=vsetv_727 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/amedia-ii.png,Amedia II
+http://176.62.191.62:38787/udp/224.1.41.37:5005
+#EXTINF:-3 id=vsetv_935 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/paramount.png,Paramount
+http://176.62.191.62:38787/udp/224.1.41.162:5005
+#EXTINF:-3 id=vsetv_403 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/sony-scifi.png,Sony SciFi
+http://176.62.191.62:38787/udp/224.1.42.70:5005
+#EXTINF:-3 id=vsetv_525 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/sony.png,Sony
+http://176.62.191.62:38787/udp/224.1.42.172:5005
+#EXTINF:-3 id=vsetv_68 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/tv-21.png,ТВ-21
+http://176.62.191.62:38787/udp/224.1.42.179:5005
+#EXTINF:-3 id=vsetv_ group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/horoshee-kino.png,Хорошее Кино
+http://176.62.191.62:38787/udp/224.1.41.20:5005
+#EXTINF:-3 id=vsetv_526 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/lyubimoe-kino.png,Любимое Кино
+http://176.62.191.62:38787/udp/224.1.41.161:5005
+#EXTINF:-3 id=vsetv_329 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/nst-strashnoe.png,НСТ (страшное)
+http://176.62.191.62:38787/udp/224.1.42.181:5005
+#EXTINF:-3 id=vsetv_487 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/evrokino.png,ЕвроКино
+http://176.62.191.62:38787/udp/224.1.42.48:5001
+#EXTINF:-3 id=vsetv_327 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/illyuzion.png,Иллюзион+
+http://176.62.191.62:38787/udp/224.1.42.47:5001
+#EXTINF:-3 id=vsetv_177 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/illyuzion.png,Иллюзион
+http://176.62.191.62:38787/udp/224.1.42.46:5001
+#EXTINF:-3 id=vsetv_ group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/spike.png,Spike
+http://176.62.191.62:38787/udp/224.1.41.44:5005
+#EXTINF:-3 id=vsetv_442 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/zeetv.png,ZeeTV
+http://176.62.191.62:38787/udp/224.1.42.191:5005
+#EXTINF:-3 id=vsetv_812 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/russkiy-bestseler.png,Русский Бестселер
+http://176.62.191.62:38787/udp/224.1.41.41:5005
+#EXTINF:-3 id=vsetv_757 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/russkiy-roman.png,Русский роман
+http://176.62.191.62:38787/udp/224.1.41.40:5005
+#EXTINF:-3 id=vsetv_942 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/russkiy-detektiv.png,Русский Детектив
+http://176.62.191.62:38787/udp/224.1.41.92:5005
+#EXTINF:-3 id=vsetv_637 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/mir-seriala.png,Мир Сериала
+http://176.62.191.62:38787/udp/224.1.41.151:5005
+#EXTINF:-3 id=vsetv_770 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/paramount-comedy.png,Paramount Comedy
+http://176.62.191.62:38787/udp/224.1.41.149:5005
+#EXTINF:-3 id=vsetv_441 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/yumor-tv.png,Юмор ТВ
+http://176.62.191.62:38787/udp/224.1.41.124:5005
+#EXTINF:-3 id=vsetv_476 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/tnt-comedy.png,ТНТ-Comedy
+http://176.62.191.62:38787/udp/224.1.42.20:5003
+#EXTINF:-3 id=vsetv_962 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/mul-t.png,Мульт
+http://176.62.191.62:38787/udp/224.1.41.23:5005
+#EXTINF:-3 id=vsetv_ group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/pingvin-lolo.png,Пингвин Лоло
+http://176.62.191.62:38787/udp/224.1.41.32:5005
+#EXTINF:-3 id=vsetv_45 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/nickelodeon.png,Nickelodeon
+http://176.62.191.62:38787/udp/224.1.42.42:5005
+#EXTINF:-3 id=vsetv_ group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/nickjr.png,NickJr
+http://176.62.191.62:38787/udp/224.1.41.25:5005
+#EXTINF:-3 id=vsetv_286 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/mul-timaniya.png,Мультимания
+http://176.62.191.62:38787/udp/224.1.42.97:5005
+#EXTINF:-3 id=vsetv_1059 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/ani.png,Ani
+http://176.62.191.62:38787/udp/224.1.41.173:5005
+#EXTINF:-3 id=vsetv_246 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/detskiy.png,Детский
+http://176.62.191.62:38787/udp/224.1.42.140:5005
+#EXTINF:-3 id=vsetv_31 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/detskiy-mir.png,Детский мир
+http://176.62.191.62:38787/udp/224.1.41.34:5005
+#EXTINF:-3 id=vsetv_215 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/sinergiya.png,Синергия
+http://176.62.191.62:38787/udp/224.1.42.114:5005
+#EXTINF:-3 id=vsetv_728 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/ege-tv.png,Егэ-ТВ
+http://176.62.191.62:38787/udp/224.1.41.25:5005
+#EXTINF:-3 id=vsetv_596 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/gulli.png,Gulli
+http://176.62.191.62:38787/udp/224.1.41.11:5005
+#EXTINF:-3 id=vsetv_597 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/tiji.png,TiJi
+http://176.62.191.62:38787/udp/224.1.41.12:5005
+#EXTINF:-3 id=vsetv_394 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/mama.png,Мама
+http://176.62.191.62:38787/udp/224.1.42.182:5005
+#EXTINF:-3 id=vsetv_ group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/noisetv.png,NoiseTV
+http://176.62.191.62:38787/udp/224.1.42.154:5005
+#EXTINF:-3 id=vsetv_ group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/slowtv.png,SlowTV
+http://176.62.191.62:38787/udp/224.1.41.158:5005
+#EXTINF:-3 id=vsetv_221 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/mtv-hits.png,MTV hits
+http://176.62.191.62:38787/udp/224.1.41.38:5005
+#EXTINF:-3 id=vsetv_ group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/nashe-tv.png,Наше-ТВ
+http://176.62.191.62:38787/udp/224.1.41.43:5005
+#EXTINF:-3 id=vsetv_ group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/freccia-tv.png,Freccia TV
+http://176.62.191.62:38787/udp/224.1.42.112:5000
+#EXTINF:-3 id=vsetv_227 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/vh1-classic.png,VH1 Classic
+http://176.62.191.62:38787/udp/224.1.41.10:5005
+#EXTINF:-3 id=vsetv_682 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/evropa.png,Европа+
+http://176.62.191.62:38787/udp/224.1.42.188:5005
+#EXTINF:-3 id=vsetv_862 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/dangetv.png,DangeTV
+http://176.62.191.62:38787/udp/224.1.42.142:5005
+#EXTINF:-3 id=vsetv_1003 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/topsong.png,TopSong
+http://176.62.191.62:38787/udp/224.1.42.143:5005
+#EXTINF:-3 id=vsetv_409 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/bridge-tv.png,Bridge TV
+http://176.62.191.62:38787/udp/224.1.41.145:5005
+#EXTINF:-3 id=vsetv_668 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/rusong.png,RUsong
+http://176.62.191.62:38787/udp/224.1.42.53:5005
+#EXTINF:-3 id=vsetv_334 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/ru-tv.png,RU TV
+http://176.62.191.62:38787/udp/224.1.42.226:5000
+#EXTINF:-3 id=vsetv_ group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/rtl-102-5.png,RTL 102.5
+http://176.62.191.62:38787/udp/224.1.42.113:5005
+#EXTINF:-3 id=vsetv_719 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/shanson.png,Шансон
+http://176.62.191.62:38787/udp/224.1.42.130:5005
+#EXTINF:-3 id=vsetv_412 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/russian-musicbox.png,Russian MusicBox
+http://176.62.191.62:38787/udp/224.1.41.120:5005
+#EXTINF:-3 id=vsetv_411 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/musicbox.png,MusicBox
+http://176.62.191.62:38787/udp/224.1.41.121:5005
+#EXTINF:-3 id=vsetv_ group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/tmb.png,ТМБ
+http://176.62.191.62:38787/udp/224.1.42.52:5005
+#EXTINF:-3 id=vsetv_909 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/9-volna.png,9 Волна
+http://176.62.191.62:38787/udp/224.1.41.167:5005
+#EXTINF:-3 id=vsetv_882 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/meydan.png,Мэйдан
+http://176.62.191.62:38787/udp/224.1.42.153:5005
+#EXTINF:-3 id=vsetv_987 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/tugantel.png,ТуганТел
+http://176.62.191.62:38787/udp/224.1.42.183:5005
+#EXTINF:-3 id=vsetv_ group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/skynews.png,SkyNews
+http://176.62.191.62:38787/udp/224.1.42.193:5005
+#EXTINF:-3 id=vsetv_70 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/cnbsnews-eng.png,CNBSNews(eng)
+http://176.62.191.62:38787/udp/224.1.41.80:5005
+#EXTINF:-3 id=vsetv_46 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/bbc-world-news-eng.png,BBC World News(eng)
+http://176.62.191.62:38787/udp/224.1.41.81:5005
+#EXTINF:-3 id=vsetv_47 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/cnn-international.png,CNN International
+http://176.62.191.62:38787/udp/224.1.41.16:5005
+#EXTINF:-3 id=vsetv_90 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/bloomberg.png,Bloomberg
+http://176.62.191.62:38787/udp/224.1.41.82:5005
+#EXTINF:-3 id=vsetv_240 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/al-jazeera-en.png,Al-Jazeera(en)
+http://176.62.191.62:38787/udp/224.1.41.17:5005
+#EXTINF:-3 id=vsetv_84 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/deutsche-welle-europe.png,Deutsche Welle (Europe)
+http://176.62.191.62:38787/udp/224.1.41.18:5005
+#EXTINF:-3 id=vsetv_1063 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/deutsche-welle-deutsch.png,Deutsche Welle (Deutsch)
+http://176.62.191.62:38787/udp/224.1.42.127:5000
+#EXTINF:-3 id=vsetv_ group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/canal-24-horas-sp.png,Canal 24 Horas(sp)
+http://176.62.191.62:38787/udp/224.1.41.19:5005
+#EXTINF:-3 id=vsetv_37 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/euronews.png,EuroNews
+http://176.62.191.62:38787/udp/224.1.42.24:5004
+#EXTINF:-3 id=vsetv_ group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/lifenews.png,LifeNews
+http://176.62.191.62:38787/udp/224.1.41.42:5005
+#EXTINF:-3 id=vsetv_146 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/rbk.png,Рбк
+http://176.62.191.62:38787/udp/224.1.41.28:5005
+#EXTINF:-3 id=vsetv_235 group_id=12 logo=http://176.62.191.107:88/dune/dunelogos/soyuz.png,Союз
+http://176.62.191.62:38787/udp/224.1.41.14:5005
+#EXTINF:-3 id=vsetv_ group_id=12 logo=http://176.62.191.107:88/dune/dunelogos/car-grad.png,Царь Град
+http://176.62.191.62:38787/udp/224.1.42.185:5005
+#EXTINF:-3 id=vsetv_ group_id=12 logo=http://176.62.191.107:88/dune/dunelogos/muz-soyuz.png,Муз Союз
+http://176.62.191.62:38787/udp/224.1.41.133:5005
+#EXTINF:-3 id=vsetv_ group_id=12 logo=http://176.62.191.107:88/dune/dunelogos/3-angela.png,3 Ангела
+http://176.62.191.62:38787/udp/224.1.41.46:5005
+#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/omsk.png,Омск
+http://176.62.191.62:38787/udp/224.1.42.96:5005
+#EXTINF:-3 id=vsetv_ group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/rubl.png,Рубль
+http://176.62.191.62:38787/udp/224.1.42.186:5005
+#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/mir-belogor-ya.png,Мир Белогорья
+http://176.62.191.62:38787/udp/224.1.42.50:5005
+#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/katun-24.png,Катунь24
+http://176.62.191.62:38787/udp/224.1.42.51:5005
+#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/enisey.png,Енисей
+http://176.62.191.62:38787/udp/224.1.42.54:5005
+#EXTINF:-3 id=vsetv_1033 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/shant-tv.png,Shant TV
+http://176.62.191.62:38787/udp/224.1.42.156:5005
+#EXTINF:-3 id=vsetv_145 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/tnv-tatarstan.png,ТНВ-Татарстан
+http://176.62.191.62:38787/udp/224.1.41.160:5005
+#EXTINF:-3 id=vsetv_899 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/ots.png,ОТС
+http://176.62.191.62:38787/udp/224.1.41.47:5005
+#EXTINF:-3 id=vsetv_1122 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/kuray.png,Курай
+http://176.62.191.62:38787/udp/224.1.42.94:5005
+#EXTINF:-3 id=vsetv_272 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/bst.png,БСТ
+http://176.62.191.62:38787/udp/224.1.42.95:5005
+#EXTINF:-3 id=vsetv_231 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/belarus-24-by.png,Беларусь24(by)
+http://176.62.191.62:38787/udp/224.1.41.69:5005
+#EXTINF:-3 id=vsetv_4 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/inter.png,Интер
+http://176.62.191.62:38787/udp/224.1.41.29:5005
+#EXTINF:-3 id=vsetv_212 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/ntn.png,НТН
+http://176.62.191.62:38787/udp/224.1.42.102:5000
+#EXTINF:-3 id=vsetv_369 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/k1.png,к1
+http://176.62.191.62:38787/udp/224.1.42.103:5000
+#EXTINF:-3 id=vsetv_370 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/k2.png,к2
+http://176.62.191.62:38787/udp/224.1.42.107:5000
+#EXTINF:-3 id=vsetv_234 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/mega.png,Мега
+http://176.62.191.62:38787/udp/224.1.42.104:5000
+#EXTINF:-3 id=vsetv_751 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/chernomorskaya-ua.png,Черноморская(ua)
+http://176.62.191.62:38787/udp/224.1.42.110:5000
+#EXTINF:-3 id=vsetv_92 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/enterfilm.png,EnterFilm
+http://176.62.191.62:38787/udp/224.1.42.106:5000
+#EXTINF:-3 id=vsetv_353 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/zoom.png,Zoom
+http://176.62.191.62:38787/udp/224.1.42.105:5000
+#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/planeta-ua.png,Планета(ua)
+http://176.62.191.62:38787/udp/224.1.42.109:5000
+#EXTINF:-3 id=vsetv_27 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/piksel.png,Пиксель
+http://176.62.191.62:38787/udp/224.1.42.108:5000
+#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/lrt-lithuania-lt.png,Lrt-Lithuania(lt)
+http://176.62.191.62:38787/udp/224.1.42.123:5000
+#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/interaz-test.png,InterAZ(test)
+http://176.62.191.62:38787/udp/224.1.41.73:5005
+#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/tve-internacional-sp.png,TVE Internacional(sp)
+http://176.62.191.62:38787/udp/224.1.41.15:5005
+#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/3-sat-de.png,3-sat(de)
+http://176.62.191.62:38787/udp/224.1.41.52:5005
+#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/zdf-de.png,ZDF(de)
+http://176.62.191.62:38787/udp/224.1.41.51:5005
+#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/zdf-info-de.png,Zdf-info(de)
+http://176.62.191.62:38787/udp/224.1.41.54:5005
+#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/zdf-neo-de.png,Zdf-neo(de)
+http://176.62.191.62:38787/udp/224.1.41.55:5005
+#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/krym-24.png,Крым 24
+http://176.62.191.62:38787/udp/224.1.42.56:5002
+#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/kika-de.png,Kika(de)
+http://176.62.191.62:38787/udp/224.1.41.53:5005
+#EXTINF:-3 id=vsetv_ group_id=15 logo=http://176.62.191.107:88/dune/dunelogos/dop-kanal.png,доп канал
+udp://@224.1.42.200:5007
