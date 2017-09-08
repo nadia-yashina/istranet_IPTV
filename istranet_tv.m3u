@@ -1,611 +1,1559 @@
-#EXTM3U 
-#EXTINF:-3 id=vsetv_8 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/pervyy.png,Первый
-http://176.62.191.62:38787/udp/224.1.42.85:5005
-#EXTINF:-3 id=vsetv_9 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/rossiya-1.png,Россия 1
-http://176.62.191.62:38787/udp/224.1.42.158:5000
-#EXTINF:-3 id=vsetv_1077 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/match.png,Матч
-http://176.62.191.62:38787/udp/224.1.42.161:5000
-#EXTINF:-3 id=vsetv_10 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/ntv.png,НТВ
-http://176.62.191.62:38787/udp/224.1.42.163:5000
-#EXTINF:-3 id=vsetv_308 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/pyatyy-kanal.png,Пятый канал
-http://176.62.191.62:38787/udp/224.1.42.167:5000
-#EXTINF:-3 id=vsetv_15 group_id=9 logo=http://176.62.191.107:88/dune/dunelogos/pocciya-k.png,Poccия К
-http://176.62.191.62:38787/udp/224.1.42.160:5000
-#EXTINF:-3 id=vsetv_328 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/rossiya-24.png,Россия 24
-http://176.62.191.62:38787/udp/224.1.42.162:5000
-#EXTINF:-3 id=vsetv_687 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/karusel.png,Карусель
-http://176.62.191.62:38787/udp/224.1.42.165:5000
-#EXTINF:-3 id=vsetv_880 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/otr.png,ОТР
-http://176.62.191.62:38787/udp/224.1.42.61:5005
-#EXTINF:-3 id=vsetv_11 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tv-centr.png,ТВ Центр
-http://176.62.191.62:38787/udp/224.1.42.166:5000
-#EXTINF:-3 id=vsetv_13 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/ren-tv.png,Рен ТВ
-http://176.62.191.62:38787/udp/224.1.42.203:5000
-#EXTINF:-3 id=vsetv_238 group_id=12 logo=http://176.62.191.107:88/dune/dunelogos/spas.png,Спас
-http://176.62.191.62:38787/udp/224.1.42.150:5000
-#EXTINF:-3 id=vsetv_17 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/sts-moskva.png,СТС-Москва
-http://176.62.191.62:38787/udp/224.1.42.145:5000
-#EXTINF:-3 id=vsetv_124 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/domashniy.png,Домашний
-http://176.62.191.62:38787/udp/224.1.42.144:5000
-#EXTINF:-3 id=vsetv_63 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tv3.png,ТВ3
-http://176.62.191.62:38787/udp/224.1.42.82:5002
-#EXTINF:-3 id=vsetv_48 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/pyatnica.png,Пятница
-http://176.62.191.62:38787/udp/224.1.42.207:5000
-#EXTINF:-3 id=vsetv_232 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/zvezda.png,Звезда
-http://176.62.191.62:38787/udp/224.1.42.213:5000
-#EXTINF:-3 id=vsetv_176 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/mir.png,Мир
-http://176.62.191.62:38787/udp/224.1.42.79:5000
-#EXTINF:-3 id=vsetv_14 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tht.png,THT
-http://176.62.191.62:38787/udp/224.1.42.204:5000
-#EXTINF:-3 id=vsetv_808 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/muz-tv.png,Муз ТВ
-http://176.62.191.62:38787/udp/224.1.42.32:5005
-#EXTINF:-3 id=vsetv_653 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/360-podmoskov-e.png,360 Подмосковье
-http://176.62.191.62:38787/udp/224.1.41.35:5005
-#EXTINF:-3 id=vsetv_100 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/istranettv.png,IstranetTV
-http://176.62.191.62:38787/udp/224.1.42.200:5000
-#EXTINF:-3 id=vsetv_908 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/mtv-russia.png,Mtv-russia
-http://176.62.191.62:38787/udp/224.1.42.29:5002
-#EXTINF:-3 id=vsetv_56 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/che.png,Че
-http://176.62.191.62:38787/udp/224.1.42.164:5000
-#EXTINF:-3 id=vsetv_341 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/2x2.png,2x2
-http://176.62.191.62:38787/udp/224.1.42.149:5000
-#EXTINF:-3 id=vsetv_89 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/disney.png,Disney
-http://176.62.191.62:38787/udp/224.1.42.177:5000
-#EXTINF:-3 id=vsetv_952 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/stc-love.png,СTC-love
-http://176.62.191.62:38787/udp/224.1.42.131:5000
-#EXTINF:-3 id=vsetv_ group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/7tv.png,7тв
-http://176.62.191.62:38787/udp/224.1.42.91:5005
-#EXTINF:-3 id=vsetv_681 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/8-kanal.png,8 канал
-http://176.62.191.62:38787/udp/224.1.41.13:5005
-#EXTINF:-3 id=vsetv_838 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/mir24.png,Мир24
-http://176.62.191.62:38787/udp/224.1.42.78:5000
-#EXTINF:-3 id=vsetv_637 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/strana.png,Страна
-http://176.62.191.62:38787/udp/224.1.41.165:5005
-#EXTINF:-3 id=vsetv_49 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/yutv.png,ЮТВ
-http://176.62.191.62:38787/udp/224.1.42.178:5000
-#EXTINF:-3 id=vsetv_123 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/moskva24.png,Москва24
-http://176.62.191.62:38787/udp/224.1.42.224:5000
-#EXTINF:-3 id=vsetv_733 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/moskva-doverie.png,Москва Доверие
-http://176.62.191.62:38787/udp/224.1.42.225:5000
-#EXTINF:-3 id=vsetv_433 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/sarafan.png,Сарафан
-http://176.62.191.62:38787/udp/224.1.42.168:5005
-#EXTINF:-3 id=vsetv_967 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/vmesterf.png,ВместеРФ
-http://176.62.191.62:38787/udp/224.1.42.9:5005
-#EXTINF:-3 id=vsetv_1039 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/ldpr-live.png,ЛДПР-live
-http://176.62.191.62:38787/udp/224.1.41.24:5005
-#EXTINF:-3 id=vsetv_675 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/dozhd.png,Дождь
-http://176.62.191.62:38787/udp/224.1.42.124:5003
-#EXTINF:-3 id=vsetv_491 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tro-soyuz.png,ТРО Союз
-http://176.62.191.62:38787/udp/224.1.42.80:5000
-#EXTINF:-3 id=vsetv_ group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/prodvizhenie.png,Продвижение
-http://176.62.191.62:38787/udp/224.1.42.38:5005
-#EXTINF:-3 id=vsetv_1011 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tochkatv.png,ТочкаТВ
-http://176.62.191.62:38787/udp/224.1.42.222:5000
-#EXTINF:-3 id=vsetv_ group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/otkrytyy-mir.png,Открытый Мир
-http://176.62.191.62:38787/udp/224.1.42.39:5005
-#EXTINF:-3 id=vsetv_ group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/central-noe-tv.png,Центральное ТВ
-http://176.62.191.62:38787/udp/224.1.42.120:5001
-#EXTINF:-3 id=vsetv_542 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/pervyy-4.png,Первый (+4)
-http://176.62.191.62:38787/udp/224.1.42.34:5005
-#EXTINF:-3 id=vsetv_237 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tvc-mir.png,ТВЦ-мир
-http://176.62.191.62:38787/udp/224.1.42.122:5000
-#EXTINF:-3 id=vsetv_82 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/ntv-mir.png,НТВ-мир
-http://176.62.191.62:38787/udp/224.1.41.68:5005
-#EXTINF:-3 id=vsetv_545 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/ntv-2.png,НТВ (+2)
-http://176.62.191.62:38787/udp/224.1.42.201:5000
-#EXTINF:-3 id=vsetv_98 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/rtr-planeta.png,РТР-планета
-http://176.62.191.62:38787/udp/224.1.41.59:5005
-#EXTINF:-3 id=vsetv_549 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/rossiya1-4.png,Россия1(+4)
-http://176.62.191.62:38787/udp/224.1.41.30:5005
-#EXTINF:-3 id=vsetv_730 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/karusel-3.png,Карусель+3
-http://176.62.191.62:38787/udp/224.1.41.86:5005
-#EXTINF:-3 id=vsetv_646 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/disney-7.png,Disney+7
-http://176.62.191.62:38787/udp/224.1.41.122:5005
-#EXTINF:-3 id=vsetv_595 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/match-nash-sport.png,Матч! Наш спорт
-http://176.62.191.62:38787/udp/224.1.42.68:5005
-#EXTINF:-3 id=vsetv_537 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/che-7.png,Че+7
-http://176.62.191.62:38787/udp/224.1.42.126:5005
-#EXTINF:-3 id=vsetv_667 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/match-arena.png,Матч! Арена
-http://176.62.191.62:38787/udp/224.1.42.67:5005
-#EXTINF:-3 id=vsetv_758 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/sts-mir.png,СТС-мир
-http://176.62.191.62:38787/udp/224.1.41.58:5005
-#EXTINF:-3 id=vsetv_539 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/sts-4.png,СТС+4
-http://176.62.191.62:38787/udp/224.1.42.60:5005
-#EXTINF:-3 id=vsetv_508 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/sts-7.png,СТС+7
-http://176.62.191.62:38787/udp/224.1.42.125:5005
-#EXTINF:-3 id=vsetv_711 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/match-igra.png,Матч! Игра
-http://176.62.191.62:38787/udp/224.1.42.69:5005
-#EXTINF:-3 id=vsetv_563 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/domashniy-7.png,Домашний+7
-http://176.62.191.62:38787/udp/224.1.41.127:5005
-#EXTINF:-3 id=vsetv_991 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tnt-mir.png,ТНТ-мир
-http://176.62.191.62:38787/udp/224.1.41.56:5005
-#EXTINF:-3 id=vsetv_556 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tnt-2.png,ТНТ+2
-http://176.62.191.62:38787/udp/224.1.42.205:5000
-#EXTINF:-3 id=vsetv_767 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tnt-3test0.png,ТНТ+3test0
-udp://@224.1.40.33:5005
-#EXTINF:-3 id=vsetv_557 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tnt-4.png,ТНТ(+4)
-http://176.62.191.62:38787/udp/224.1.42.173:5000
-#EXTINF:-3 id=vsetv_570 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/rentv-2.png,РенТВ(+2)
-http://176.62.191.62:38787/udp/224.1.42.202:5000
-#EXTINF:-3 id=vsetv_571 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/rentv-4.png,РенТВ(+4)
-http://176.62.191.62:38787/udp/224.1.42.208:5000
-#EXTINF:-3 id=vsetv_572 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/rentv-7.png,РенТВ(+7)
-http://176.62.191.62:38787/udp/224.1.41.131:5005
-#EXTINF:-3 id=vsetv_723 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/yutv-7.png,ЮТВ+7
-http://176.62.191.62:38787/udp/224.1.41.123:5005
-#EXTINF:-3 id=vsetv_809 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/tnt4-2.png,ТНТ4 (+2)
-http://176.62.191.62:38787/udp/224.1.42.59:5000
-#EXTINF:-3 id=vsetv_529 group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/mir-3.png,Мир(+3)
-http://176.62.191.62:38787/udp/224.1.42.74:5000
-#EXTINF:-3 id=vsetv_8 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/pervyy-hd.png,Первый(HD)
-http://176.62.191.62:38787/udp/224.1.42.22:5005
-#EXTINF:-3 id=vsetv_841 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/rossiya_1-hd.png,Россия_1(HD)
-http://176.62.191.62:38787/udp/224.1.42.21:5005
-#EXTINF:-3 id=vsetv_1090 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/machthd.png,МачтHD
-http://176.62.191.62:38787/udp/224.1.42.175:5005
-#EXTINF:-3 id=vsetv_604 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/khl-hd.png,КХЛ(HD)
-http://176.62.191.62:38787/udp/224.1.42.192:5005
-#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/wdr-de-hd.png,WDR de(HD)
-http://176.62.191.62:38787/udp/224.1.42.194:5005
-#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/super-tennis.png,Super Tennis
-http://176.62.191.62:38787/udp/224.1.42.12:5005
-#EXTINF:-3 id=vsetv_653 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/360-podmoskov-e-360-hd.png,360 Подмосковье-360(hd)
-http://176.62.191.62:38787/udp/224.1.42.155:5005
-#EXTINF:-3 id=vsetv_965 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/mir-hd.png,Мир(HD)
-http://176.62.191.62:38787/udp/224.1.41.26:5005
-#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/russianmusicbox-hd.png,RussianMusicBox HD
-http://176.62.191.62:38787/udp/224.1.42.115:5005
-#EXTINF:-3 id=vsetv_582 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/c-music-hd.png,C-music(HD)
-http://176.62.191.62:38787/udp/224.1.42.40:5001
-#EXTINF:-3 id=vsetv_672 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/mezzo-hd.png,Mezzo (hd)
-http://176.62.191.62:38787/udp/224.1.42.41:5001
-#EXTINF:-3 id=vsetv_1102 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/zhivayapriroda-hd.png,ЖиваяПрирода (hd)
-http://176.62.191.62:38787/udp/224.1.42.71:5001
-#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/slow-hd.png,Slow (hd)
-http://176.62.191.62:38787/udp/224.1.42.101:5005
-#EXTINF:-3 id=vsetv_86 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/fashion-hd.png,Fashion(HD)
-http://176.62.191.62:38787/udp/224.1.42.152:5005
-#EXTINF:-3 id=vsetv_900 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/rtg-hd.png,RTG(HD)
-http://176.62.191.62:38787/udp/224.1.42.90:5005
-#EXTINF:-3 id=vsetv_939 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/animal-planet-hd.png,Animal Planet(hd)
-http://176.62.191.62:38787/udp/224.1.42.62:5005
-#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/cgtn-documentary-hd.png,CGTN Documentary (hd)
-http://176.62.191.62:38787/udp/224.1.42.76:5005
-#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/cgtn-news-hd.png,CGTN news (hd)
-http://176.62.191.62:38787/udp/224.1.42.75:5005
-#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/cctv-4-hd.png,CCTV 4(HD)
-http://176.62.191.62:38787/udp/224.1.42.77:5005
-#EXTINF:-3 id=vsetv_780 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/mgm-hd.png,MGM (hd)
-http://176.62.191.62:38787/udp/224.1.42.64:5005
-#EXTINF:-3 id=vsetv_783 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/sony-hd.png,Sony (hd)
-http://176.62.191.62:38787/udp/224.1.42.176:5005
-#EXTINF:-3 id=vsetv_814 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/tv1000-premiumhd.png,TV1000 PremiumHD
-http://176.62.191.62:38787/udp/224.1.42.35:5005
-#EXTINF:-3 id=vsetv_816 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/tv1000-megahithd.png,TV1000 MegahitHD
-http://176.62.191.62:38787/udp/224.1.42.36:5005
-#EXTINF:-3 id=vsetv_817 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/tv1000-comedyhd.png,TV1000 ComedyHD
-http://176.62.191.62:38787/udp/224.1.42.37:5005
-#EXTINF:-3 id=vsetv_929 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/englishclub-hd.png,EnglishClub(HD)
-http://176.62.191.62:38787/udp/224.1.41.48:5005
-#EXTINF:-3 id=vsetv_1117 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/kino-hd.png,Кино (hd)
-http://176.62.191.62:38787/udp/224.1.42.100:5005
-#EXTINF:-3 id=vsetv_690 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/travel-hd.png,Travel (hd)
-http://176.62.191.62:38787/udp/224.1.41.33:5005
-#EXTINF:-3 id=vsetv_801 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/outdoor-hd.png,Outdoor (hd)
-http://176.62.191.62:38787/udp/224.1.42.128:5005
-#EXTINF:-3 id=vsetv_ group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/kbs-hd.png,KBS (hd)
-http://176.62.191.62:38787/udp/224.1.42.14:5005
-#EXTINF:-3 id=vsetv_961 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/rt-d-hd-rus.png,RT-Д(HD),(rus)
-http://176.62.191.62:38787/udp/224.1.42.65:5000
-#EXTINF:-3 id=vsetv_851 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/rt-hd-eng.png,RT(HD) (eng)
-http://176.62.191.62:38787/udp/224.1.42.10:5005
-#EXTINF:-3 id=vsetv_788 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/rt-d-hd-eng.png,RT-Д(HD) (eng)
-http://176.62.191.62:38787/udp/224.1.42.11:5005
-#EXTINF:-3 id=vsetv_46 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/bbc-world-eng-hd.png,BBC World(eng),(hd)
-http://176.62.191.62:38787/udp/224.1.42.135:5001
-#EXTINF:-3 id=vsetv_789 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/nhk-world-eng-hd.png,NHK World (eng), (hd)
-http://176.62.191.62:38787/udp/224.1.42.132:5001
-#EXTINF:-3 id=vsetv_240 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/aljazeera-english-hd.png,Aljazeera English(hd)
-http://176.62.191.62:38787/udp/224.1.42.151:5000
-#EXTINF:-3 id=vsetv_241 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/drayv.png,Драйв
-http://176.62.191.62:38787/udp/224.1.41.110:5005
-#EXTINF:-3 id=vsetv_243 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/ohota-i-rybalka.png,Охота и рыбалка
-http://176.62.191.62:38787/udp/224.1.41.111:5005
-#EXTINF:-3 id=vsetv_244 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/retro.png,Ретро
-http://176.62.191.62:38787/udp/224.1.41.112:5005
-#EXTINF:-3 id=vsetv_242 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/zdorovoetv.png,ЗдоровоеТВ
-http://176.62.191.62:38787/udp/224.1.41.113:5005
-#EXTINF:-3 id=vsetv_305 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/usad-ba.png,Усадьба
-http://176.62.191.62:38787/udp/224.1.41.114:5005
-#EXTINF:-3 id=vsetv_601 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/domashnie-zhivotnye.png,Домашние животные
-http://176.62.191.62:38787/udp/224.1.41.115:5005
-#EXTINF:-3 id=vsetv_603 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/voprosy-i-otvety.png,Вопросы и ответы
-http://176.62.191.62:38787/udp/224.1.41.116:5005
-#EXTINF:-3 id=vsetv_602 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/psihologiya-21.png,Психология 21
-http://176.62.191.62:38787/udp/224.1.41.117:5005
-#EXTINF:-3 id=vsetv_998 group_id=13 logo=http://176.62.191.107:88/dune/dunelogos/filmbox.png,Filmbox
-http://176.62.191.62:38787/udp/224.1.41.105:5005
-#EXTINF:-3 id=vsetv_997 group_id=13 logo=http://176.62.191.107:88/dune/dunelogos/filmbox-arthouse.png,Filmbox Arthouse
-http://176.62.191.62:38787/udp/224.1.41.100:5005
-#EXTINF:-3 id=vsetv_993 group_id=13 logo=http://176.62.191.107:88/dune/dunelogos/docubox.png,DocuBox
-http://176.62.191.62:38787/udp/224.1.41.101:5005
-#EXTINF:-3 id=vsetv_994 group_id=13 logo=http://176.62.191.107:88/dune/dunelogos/fast-funbox.png,Fast&FunBox
-http://176.62.191.62:38787/udp/224.1.41.103:5005
-#EXTINF:-3 id=vsetv_995 group_id=13 logo=http://176.62.191.107:88/dune/dunelogos/fightbox.png,Fightbox
-http://176.62.191.62:38787/udp/224.1.41.104:5005
-#EXTINF:-3 id=vsetv_996 group_id=13 logo=http://176.62.191.107:88/dune/dunelogos/fashionbox.png,Fashionbox
-http://176.62.191.62:38787/udp/224.1.41.102:5005
-#EXTINF:-3 id=vsetv_604 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/khl.png,КХЛ
-http://176.62.191.62:38787/udp/224.1.42.98:5005
-#EXTINF:-3 id=vsetv_310 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/boec.png,Боец
-http://176.62.191.62:38787/udp/224.1.42.133:5000
-#EXTINF:-3 id=vsetv_99 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/extrimesports.png,ExtrimeSports
-http://176.62.191.62:38787/udp/224.1.41.39:5005
-#EXTINF:-3 id=vsetv_440 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/futbol.png,Футбол
-http://176.62.191.62:38787/udp/224.1.42.129:5005
-#EXTINF:-3 id=vsetv_1062 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/bokstv.png,БоксТВ
-http://176.62.191.62:38787/udp/224.1.42.180:5005
-#EXTINF:-3 id=vsetv_36 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/eurosport.png,Eurosport
-http://176.62.191.62:38787/udp/224.1.41.22:5005
-#EXTINF:-3 id=vsetv_229 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/eurosport2.png,Eurosport2
-http://176.62.191.62:38787/udp/224.1.41.21:5005
-#EXTINF:-3 id=vsetv_605 group_id=9 logo=http://176.62.191.107:88/dune/dunelogos/rtg.png,RTG
-http://176.62.191.62:38787/udp/224.1.41.144:5005
-#EXTINF:-3 id=vsetv_ group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/poehali.png,Поехали
-http://176.62.191.62:38787/udp/224.1.41.85:5005
-#EXTINF:-3 id=vsetv_690 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/travel.png,Travel
-http://176.62.191.62:38787/udp/224.1.42.190:5005
-#EXTINF:-3 id=vsetv_38 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/discovery.png,Discovery
-http://176.62.191.62:38787/udp/224.1.42.73:5001
-#EXTINF:-3 id=vsetv_41 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/discovery-science.png,Discovery Science
-http://176.62.191.62:38787/udp/224.1.42.25:5005
-#EXTINF:-3 id=vsetv_1061 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/discovery-dtx.png,Discovery DTX
-http://176.62.191.62:38787/udp/224.1.41.31:5005
-#EXTINF:-3 id=vsetv_691 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/discovery-tlc.png,Discovery TLC
-http://176.62.191.62:38787/udp/224.1.42.31:5002
-#EXTINF:-3 id=vsetv_943 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/discovery-id.png,Discovery ID
-http://176.62.191.62:38787/udp/224.1.42.30:5001
-#EXTINF:-3 id=vsetv_902 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/history.png,History
-http://176.62.191.62:38787/udp/224.1.42.99:5005
-#EXTINF:-3 id=vsetv_484 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/animal-planet.png,Animal PLanet
-http://176.62.191.62:38787/udp/224.1.41.164:5005
-#EXTINF:-3 id=vsetv_651 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/viasat-da-vinchi.png,Viasat Da Vinchi
-http://176.62.191.62:38787/udp/224.1.41.60:5005
-#EXTINF:-3 id=vsetv_152 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/viasat-explorer.png,Viasat Explorer
-http://176.62.191.62:38787/udp/224.1.41.64:5005
-#EXTINF:-3 id=vsetv_175 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/viasat-history.png,Viasat History
-http://176.62.191.62:38787/udp/224.1.41.65:5005
-#EXTINF:-3 id=vsetv_652 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/viasat-nature.png,Viasat Nature
-http://176.62.191.62:38787/udp/224.1.41.66:5005
-#EXTINF:-3 id=vsetv_332 group_id=6 logo=http://176.62.191.107:88/dune/dunelogos/viasat-sport.png,Viasat Sport
-http://176.62.191.62:38787/udp/224.1.41.67:5005
-#EXTINF:-3 id=vsetv_879 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/istoriya.png,История
-http://176.62.191.62:38787/udp/224.1.41.166:5005
-#EXTINF:-3 id=vsetv_381 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/24-tehno.png,24 техно
-http://176.62.191.62:38787/udp/224.1.42.170:5005
-#EXTINF:-3 id=vsetv_263 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/24-dok.png,24 док
-http://176.62.191.62:38787/udp/224.1.42.189:5005
-#EXTINF:-3 id=vsetv_712 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/nauka-2-0.png,Наука 2.0
-http://176.62.191.62:38787/udp/224.1.41.177:5005
-#EXTINF:-3 id=vsetv_639 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/moya-planeta.png,Моя планета
-http://176.62.191.62:38787/udp/224.1.41.178:5005
-#EXTINF:-3 id=vsetv_583 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/galaxy.png,Galaxy
-http://176.62.191.62:38787/udp/224.1.42.148:5005
-#EXTINF:-3 id=vsetv_414 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/okean.png,Океан
-http://176.62.191.62:38787/udp/224.1.41.150:5005
-#EXTINF:-3 id=vsetv_934 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/morskoy.png,Морской
-http://176.62.191.62:38787/udp/224.1.42.155:5005
-#EXTINF:-3 id=vsetv_649 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/uspeh.png,Успех
-http://176.62.191.62:38787/udp/224.1.42.23:5005
-#EXTINF:-3 id=vsetv_1022 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/mir-uvlecheniy.png,Мир увлечений
-http://176.62.191.62:38787/udp/224.1.42.147:5005
-#EXTINF:-3 id=vsetv_741 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/nanotv.png,НаноТВ
-http://176.62.191.62:38787/udp/224.1.42.81:5005
-#EXTINF:-3 id=vsetv_648 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/muzhskoy.png,Мужской
-http://176.62.191.62:38787/udp/224.1.42.83:5005
-#EXTINF:-3 id=vsetv_924 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/avto24.png,Авто24
-http://176.62.191.62:38787/udp/224.1.42.184:5005
-#EXTINF:-3 id=vsetv_647 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/zagorodnaya-zhizn.png,Загородная жизнь
-http://176.62.191.62:38787/udp/224.1.42.84:5005
-#EXTINF:-3 id=vsetv_1179 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/bober.png,Бобер
-http://176.62.191.62:38787/udp/224.1.41.142:5005
-#EXTINF:-3 id=vsetv_406 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/fineliving.png,FineLiving
-http://176.62.191.62:38787/udp/224.1.42.159:5005
-#EXTINF:-3 id=vsetv_1026 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/zhivaya-planeta.png,Живая Планета
-http://176.62.191.62:38787/udp/224.1.42.171:5005
-#EXTINF:-3 id=vsetv_331 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/zoopark.png,Зоопарк
-http://176.62.191.62:38787/udp/224.1.42.141:5005
-#EXTINF:-3 id=vsetv_ group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/dialogi-o-rybalke.png,Диалоги о рыбалке
-http://176.62.191.62:38787/udp/224.1.41.96:5005
-#EXTINF:-3 id=vsetv_243 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/ohota-i-rybalka.png,Охота и рыбалка
-http://176.62.191.62:38787/udp/224.1.42.146:5005
-#EXTINF:-3 id=vsetv_351 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/park-razvlecheniy.png,Парк Развлечений
-http://176.62.191.62:38787/udp/224.1.42.174:5005
-#EXTINF:-3 id=vsetv_1114 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/kaleydoskop.png,Калейдоскоп
-http://176.62.191.62:38787/udp/224.1.41.163:5005
-#EXTINF:-3 id=vsetv_350 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/sovsek.png,СовСек
-http://176.62.191.62:38787/udp/224.1.42.187:5005
-#EXTINF:-3 id=vsetv_721 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/agrotv.png,АгроТВ
-http://176.62.191.62:38787/udp/224.1.41.45:5005
-#EXTINF:-3 id=vsetv_1119 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/gameshow.png,GameShow
-http://176.62.191.62:38787/udp/224.1.41.27:5005
-#EXTINF:-3 id=vsetv_ group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/hl.png,HL
-http://176.62.191.62:38787/udp/224.1.42.18:5005
-#EXTINF:-3 id=vsetv_1181 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/globalstar.png,GlobalStar
-http://176.62.191.62:38787/udp/224.1.42.19:5005
-#EXTINF:-3 id=vsetv_415 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/telekafe.png,Телекафе
-http://176.62.191.62:38787/udp/224.1.42.169:5005
-#EXTINF:-3 id=vsetv_86 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/fashion.png,Fashion 
-http://176.62.191.62:38787/udp/224.1.42.121:5005
-#EXTINF:-3 id=vsetv_946 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/luxury-world.png,Luxury World
-http://176.62.191.62:38787/udp/224.1.42.72:5001
-#EXTINF:-3 id=vsetv_1005 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/foodnetwork.png,FoodNetwork
-http://176.62.191.62:38787/udp/224.1.42.157:5005
-#EXTINF:-3 id=vsetv_829 group_id=9 logo=http://176.62.191.107:88/dune/dunelogos/teatr.png,Театр
-http://176.62.191.62:38787/udp/224.1.42.93:5005
-#EXTINF:-3 id=vsetv_1149 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/terra.png,Терра
-http://176.62.191.62:38787/udp/224.1.41.136:5005
-#EXTINF:-3 id=vsetv_1178 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/fauna.png,Фауна
-http://176.62.191.62:38787/udp/224.1.41.138:5005
-#EXTINF:-3 id=vsetv_1139 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/epoha.png,Эпоха
-http://176.62.191.62:38787/udp/224.1.41.135:5005
-#EXTINF:-3 id=vsetv_1177 group_id=5 logo=http://176.62.191.107:88/dune/dunelogos/nauka-ukr.png,Наука(укр)
-http://176.62.191.62:38787/udp/224.1.41.137:5005
-#EXTINF:-3 id=vsetv_1080 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/dacha.png,Дача
-http://176.62.191.62:38787/udp/224.1.41.134:5005
-#EXTINF:-3 id=vsetv_945 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/trofey.png,Трофей
-http://176.62.191.62:38787/udp/224.1.41.125:5005
-#EXTINF:-3 id=vsetv_303 group_id=9 logo=http://176.62.191.107:88/dune/dunelogos/nostal-giya.png,Ностальгия
-http://176.62.191.62:38787/udp/224.1.41.36:5005
-#EXTINF:-3 id=vsetv_458 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/tv-1000-action.png,TV 1000 Action
-http://176.62.191.62:38787/udp/224.1.41.62:5005
-#EXTINF:-3 id=vsetv_107 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/tv1000.png,TV1000
-http://176.62.191.62:38787/udp/224.1.41.63:5005
-#EXTINF:-3 id=vsetv_255 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/tv1000-russkoe-kino.png,TV1000 Русское кино
-http://176.62.191.62:38787/udp/224.1.41.61:5005
-#EXTINF:-3 id=vsetv_895 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/amedia-i.png,Amedia I
-http://176.62.191.62:38787/udp/224.1.42.63:5005
-#EXTINF:-3 id=vsetv_727 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/amedia-ii.png,Amedia II
-http://176.62.191.62:38787/udp/224.1.41.37:5005
-#EXTINF:-3 id=vsetv_935 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/paramount.png,Paramount
-http://176.62.191.62:38787/udp/224.1.41.162:5005
-#EXTINF:-3 id=vsetv_403 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/sony-scifi.png,Sony SciFi
-http://176.62.191.62:38787/udp/224.1.42.70:5005
-#EXTINF:-3 id=vsetv_525 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/sony.png,Sony
-http://176.62.191.62:38787/udp/224.1.42.172:5005
-#EXTINF:-3 id=vsetv_413 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/fox.png,Fox
-http://176.62.191.62:38787/udp/224.1.41.71:5005
-#EXTINF:-3 id=vsetv_432 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/fox-life.png,Fox life
-http://176.62.191.62:38787/udp/224.1.41.72:5005
-#EXTINF:-3 id=vsetv_68 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/tv-21.png,ТВ-21
-http://176.62.191.62:38787/udp/224.1.42.179:5005
-#EXTINF:-3 id=vsetv_ group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/horoshee-kino.png,Хорошее Кино
-http://176.62.191.62:38787/udp/224.1.41.20:5005
-#EXTINF:-3 id=vsetv_526 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/lyubimoe-kino.png,Любимое Кино
-http://176.62.191.62:38787/udp/224.1.41.161:5005
-#EXTINF:-3 id=vsetv_329 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/nst-strashnoe.png,НСТ (страшное)
-http://176.62.191.62:38787/udp/224.1.42.181:5005
-#EXTINF:-3 id=vsetv_487 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/evrokino.png,ЕвроКино
-http://176.62.191.62:38787/udp/224.1.42.48:5001
-#EXTINF:-3 id=vsetv_327 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/illyuzion.png,Иллюзион+
-http://176.62.191.62:38787/udp/224.1.42.47:5001
-#EXTINF:-3 id=vsetv_177 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/illyuzion.png,Иллюзион
-http://176.62.191.62:38787/udp/224.1.42.46:5001
-#EXTINF:-3 id=vsetv_ group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/spike.png,Spike
-http://176.62.191.62:38787/udp/224.1.41.44:5005
-#EXTINF:-3 id=vsetv_442 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/zeetv.png,ZeeTV
-http://176.62.191.62:38787/udp/224.1.42.191:5005
-#EXTINF:-3 id=vsetv_812 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/russkiy-bestseler.png,Русский Бестселер
-http://176.62.191.62:38787/udp/224.1.41.41:5005
-#EXTINF:-3 id=vsetv_1051 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/russkiy-bestseller-mir.png,Русский бестселлер Мир
-http://176.62.191.62:38787/udp/224.1.41.50:5005
-#EXTINF:-3 id=vsetv_757 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/russkiy-roman.png,Русский роман
-http://176.62.191.62:38787/udp/224.1.41.40:5005
-#EXTINF:-3 id=vsetv_942 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/russkiy-detektiv.png,Русский Детектив
-http://176.62.191.62:38787/udp/224.1.41.92:5005
-#EXTINF:-3 id=vsetv_637 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/mir-seriala.png,Мир Сериала
-http://176.62.191.62:38787/udp/224.1.41.151:5005
-#EXTINF:-3 id=vsetv_770 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/paramount-comedy.png,Paramount Comedy
-http://176.62.191.62:38787/udp/224.1.41.149:5005
-#EXTINF:-3 id=vsetv_1073 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/drama.png,Драма
-http://176.62.191.62:38787/udp/224.1.41.139:5005
-#EXTINF:-3 id=vsetv_1219 group_id=4 logo=http://176.62.191.107:88/dune/dunelogos/bolt.png,Болт
-http://176.62.191.62:38787/udp/224.1.41.140:5005
-#EXTINF:-3 id=vsetv_441 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/yumor-tv.png,Юмор ТВ
-http://176.62.191.62:38787/udp/224.1.41.124:5005
-#EXTINF:-3 id=vsetv_476 group_id=2 logo=http://176.62.191.107:88/dune/dunelogos/tnt-comedy.png,ТНТ-Comedy
-http://176.62.191.62:38787/udp/224.1.42.20:5003
-#EXTINF:-3 id=vsetv_1145 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/tlum-hd.png,Тлум (HD)
-http://176.62.191.62:38787/udp/224.1.41.70:5005
-#EXTINF:-3 id=vsetv_962 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/mul-t.png,Мульт
-http://176.62.191.62:38787/udp/224.1.41.23:5005
-#EXTINF:-3 id=vsetv_ group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/pingvin-lolo.png,Пингвин Лоло
-http://176.62.191.62:38787/udp/224.1.41.32:5005
-#EXTINF:-3 id=vsetv_54 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/cartoon-network.png,Cartoon Network
-http://176.62.191.62:38787/udp/224.1.41.97:5005
-#EXTINF:-3 id=vsetv_45 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/nickelodeon.png,Nickelodeon
-http://176.62.191.62:38787/udp/224.1.42.42:5005
-#EXTINF:-3 id=vsetv_ group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/nickjr.png,NickJr
-http://176.62.191.62:38787/udp/224.1.41.25:5005
-#EXTINF:-3 id=vsetv_286 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/mul-timaniya.png,Мультимания
-http://176.62.191.62:38787/udp/224.1.42.97:5005
-#EXTINF:-3 id=vsetv_1059 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/ani.png,Ani
-http://176.62.191.62:38787/udp/224.1.41.173:5005
-#EXTINF:-3 id=vsetv_246 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/detskiy.png,Детский
-http://176.62.191.62:38787/udp/224.1.42.140:5005
-#EXTINF:-3 id=vsetv_31 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/detskiy-mir.png,Детский мир
-http://176.62.191.62:38787/udp/224.1.41.34:5005
-#EXTINF:-3 id=vsetv_215 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/sinergiya.png,Синергия
-http://176.62.191.62:38787/udp/224.1.42.114:5005
-#EXTINF:-3 id=vsetv_728 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/ege-tv.png,Егэ-ТВ
-http://176.62.191.62:38787/udp/224.1.41.25:5005
-#EXTINF:-3 id=vsetv_596 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/gulli.png,Gulli
-http://176.62.191.62:38787/udp/224.1.41.11:5005
-#EXTINF:-3 id=vsetv_597 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/tiji.png,TiJi
-http://176.62.191.62:38787/udp/224.1.41.12:5005
-#EXTINF:-3 id=vsetv_394 group_id=3 logo=http://176.62.191.107:88/dune/dunelogos/mama.png,Мама
-http://176.62.191.62:38787/udp/224.1.42.182:5005
-#EXTINF:-3 id=vsetv_ group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/noisetv.png,NoiseTV
-http://176.62.191.62:38787/udp/224.1.42.154:5005
-#EXTINF:-3 id=vsetv_ group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/slowtv.png,SlowTV
-http://176.62.191.62:38787/udp/224.1.41.158:5005
-#EXTINF:-3 id=vsetv_221 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/mtv-hits.png,MTV hits
-http://176.62.191.62:38787/udp/224.1.41.38:5005
-#EXTINF:-3 id=vsetv_ group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/nashe-tv.png,Наше-ТВ
-http://176.62.191.62:38787/udp/224.1.41.43:5005
-#EXTINF:-3 id=vsetv_ group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/freccia-tv-hd.png,Freccia TV (hd)
-http://176.62.191.62:38787/udp/224.1.42.112:5000
-#EXTINF:-3 id=vsetv_ group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/clubbing-tv-hd.png,Clubbing TV (hd)
-http://176.62.191.62:38787/udp/224.1.41.83:5005
-#EXTINF:-3 id=vsetv_227 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/vh1-classic.png,VH1 Classic
-http://176.62.191.62:38787/udp/224.1.41.10:5005
-#EXTINF:-3 id=vsetv_682 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/evropa.png,Европа+
-http://176.62.191.62:38787/udp/224.1.41.93:5005
-#EXTINF:-3 id=vsetv_ group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/tnt-music.png,ТНТ-music
-http://176.62.191.62:38787/udp/224.1.42.188:5005
-#EXTINF:-3 id=vsetv_862 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/dangetv.png,DangeTV
-http://176.62.191.62:38787/udp/224.1.42.142:5005
-#EXTINF:-3 id=vsetv_1003 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/topsong.png,TopSong
-http://176.62.191.62:38787/udp/224.1.42.143:5005
-#EXTINF:-3 id=vsetv_409 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/bridge-tv.png,Bridge TV
-http://176.62.191.62:38787/udp/224.1.41.145:5005
-#EXTINF:-3 id=vsetv_668 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/rusong.png,RUsong
-http://176.62.191.62:38787/udp/224.1.42.53:5005
-#EXTINF:-3 id=vsetv_334 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/ru-tv.png,RU TV
-http://176.62.191.62:38787/udp/224.1.42.226:5000
-#EXTINF:-3 id=vsetv_ group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/rtl-102-5.png,RTL 102.5
-http://176.62.191.62:38787/udp/224.1.42.113:5005
-#EXTINF:-3 id=vsetv_719 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/shanson.png,Шансон
-http://176.62.191.62:38787/udp/224.1.42.130:5005
-#EXTINF:-3 id=vsetv_412 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/russian-musicbox.png,Russian MusicBox
-http://176.62.191.62:38787/udp/224.1.41.120:5005
-#EXTINF:-3 id=vsetv_411 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/musicbox.png,MusicBox
-http://176.62.191.62:38787/udp/224.1.41.121:5005
-#EXTINF:-3 id=vsetv_ group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/tmb.png,ТМБ
-http://176.62.191.62:38787/udp/224.1.42.52:5005
-#EXTINF:-3 id=vsetv_909 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/9-volna.png,9 Волна
-http://176.62.191.62:38787/udp/224.1.41.167:5005
-#EXTINF:-3 id=vsetv_882 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/meydan.png,Мэйдан
-http://176.62.191.62:38787/udp/224.1.42.153:5005
-#EXTINF:-3 id=vsetv_987 group_id=7 logo=http://176.62.191.107:88/dune/dunelogos/tugantel.png,ТуганТел
-http://176.62.191.62:38787/udp/224.1.42.183:5005
-#EXTINF:-3 id=vsetv_ group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/skynews.png,SkyNews
-http://176.62.191.62:38787/udp/224.1.42.193:5005
-#EXTINF:-3 id=vsetv_70 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/cnbsnews-eng.png,CNBSNews(eng)
-http://176.62.191.62:38787/udp/224.1.41.80:5005
-#EXTINF:-3 id=vsetv_46 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/bbc-world-news-eng.png,BBC World News(eng)
-http://176.62.191.62:38787/udp/224.1.41.81:5005
-#EXTINF:-3 id=vsetv_47 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/cnn-international.png,CNN International
-http://176.62.191.62:38787/udp/224.1.41.16:5005
-#EXTINF:-3 id=vsetv_90 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/bloomberg.png,Bloomberg
-http://176.62.191.62:38787/udp/224.1.41.82:5005
-#EXTINF:-3 id=vsetv_240 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/al-jazeera-en.png,Al-Jazeera(en)
-http://176.62.191.62:38787/udp/224.1.41.17:5005
-#EXTINF:-3 id=vsetv_84 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/deutsche-welle-europe.png,Deutsche Welle (Europe)
-http://176.62.191.62:38787/udp/224.1.41.18:5005
-#EXTINF:-3 id=vsetv_1063 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/deutsche-welle-deutsch.png,Deutsche Welle (Deutsch)
-http://176.62.191.62:38787/udp/224.1.42.127:5000
-#EXTINF:-3 id=vsetv_ group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/i24news-hd.png,i24News HD
-http://176.62.191.62:38787/udp/224.1.41.84:5005
-#EXTINF:-3 id=vsetv_ group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/canal-24-horas-sp.png,Canal 24 Horas(sp)
-http://176.62.191.62:38787/udp/224.1.41.19:5005
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/2m-monde-ar.png,2M Monde(ar)
-http://176.62.191.62:38787/udp/224.1.41.57:5005
-#EXTINF:-3 id=vsetv_37 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/euronews.png,EuroNews
-http://176.62.191.62:38787/udp/224.1.42.24:5004
-#EXTINF:-3 id=vsetv_37 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/euronews-it.png,Euronews (it)
-http://176.62.191.62:38787/udp/224.1.41.88:5005
-#EXTINF:-3 id=vsetv_37 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/euronews-gr.png,Euronews (gr)
-http://176.62.191.62:38787/udp/224.1.41.89:5005
-#EXTINF:-3 id=vsetv_ group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/lifenews.png,LifeNews
-http://176.62.191.62:38787/udp/224.1.41.42:5005
-#EXTINF:-3 id=vsetv_146 group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/rbk.png,Рбк
-http://176.62.191.62:38787/udp/224.1.41.28:5005
-#EXTINF:-3 id=vsetv_235 group_id=12 logo=http://176.62.191.107:88/dune/dunelogos/soyuz.png,Союз
-http://176.62.191.62:38787/udp/224.1.41.14:5005
-#EXTINF:-3 id=vsetv_ group_id=12 logo=http://176.62.191.107:88/dune/dunelogos/car-grad.png,Царь Град
-http://176.62.191.62:38787/udp/224.1.42.185:5005
-#EXTINF:-3 id=vsetv_ group_id=12 logo=http://176.62.191.107:88/dune/dunelogos/muz-soyuz.png,Муз Союз
-http://176.62.191.62:38787/udp/224.1.41.133:5005
-#EXTINF:-3 id=vsetv_ group_id=12 logo=http://176.62.191.107:88/dune/dunelogos/3-angela.png,3 Ангела
-http://176.62.191.62:38787/udp/224.1.41.46:5005
-#EXTINF:-3 id=vsetv_ group_id=12 logo=http://176.62.191.107:88/dune/dunelogos/telepace-hd.png,Telepace HD
-http://176.62.191.62:38787/udp/224.1.42.13:5005
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/omsk.png,Омск
-http://176.62.191.62:38787/udp/224.1.42.96:5005
-#EXTINF:-3 id=vsetv_1160 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/kriktv.png,КрикТВ
-http://176.62.191.62:38787/udp/224.1.41.94:5005
-#EXTINF:-3 id=vsetv_ group_id=8 logo=http://176.62.191.107:88/dune/dunelogos/rubl.png,Рубль
-http://176.62.191.62:38787/udp/224.1.42.186:5005
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/mir-belogor-ya.png,Мир Белогорья
-http://176.62.191.62:38787/udp/224.1.42.50:5005
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/katun-24.png,Катунь24
-http://176.62.191.62:38787/udp/224.1.42.51:5005
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/enisey.png,Енисей
-http://176.62.191.62:38787/udp/224.1.42.54:5005
-#EXTINF:-3 id=vsetv_1033 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/shant-tv.png,Shant TV
-http://176.62.191.62:38787/udp/224.1.42.156:5005
-#EXTINF:-3 id=vsetv_145 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/tnv-tatarstan.png,ТНВ-Татарстан
-http://176.62.191.62:38787/udp/224.1.41.160:5005
-#EXTINF:-3 id=vsetv_899 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/ots.png,ОТС
-http://176.62.191.62:38787/udp/224.1.41.47:5005
-#EXTINF:-3 id=vsetv_1122 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/kuray.png,Курай
-http://176.62.191.62:38787/udp/224.1.42.94:5005
-#EXTINF:-3 id=vsetv_272 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/bst.png,БСТ
-http://176.62.191.62:38787/udp/224.1.42.95:5005
-#EXTINF:-3 id=vsetv_231 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/belarus-24-by.png,Беларусь24(by)
-http://176.62.191.62:38787/udp/224.1.41.69:5005
-#EXTINF:-3 id=vsetv_4 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/inter.png,Интер
-http://176.62.191.62:38787/udp/224.1.41.29:5005
-#EXTINF:-3 id=vsetv_212 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/ntn.png,НТН
-http://176.62.191.62:38787/udp/224.1.42.102:5000
-#EXTINF:-3 id=vsetv_369 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/k1.png,к1
-http://176.62.191.62:38787/udp/224.1.42.103:5000
-#EXTINF:-3 id=vsetv_370 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/k2.png,к2
-http://176.62.191.62:38787/udp/224.1.42.107:5000
-#EXTINF:-3 id=vsetv_234 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/mega.png,Мега
-http://176.62.191.62:38787/udp/224.1.42.104:5000
-#EXTINF:-3 id=vsetv_748 group_id=14 logo=http://176.62.191.107:88/dune/dunelogos/x-sporthd-ua.png,X-sportHD (ua)
-http://176.62.191.62:38787/udp/224.1.41.49:5005
-#EXTINF:-3 id=vsetv_75 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/kiev.png,Киев
-http://176.62.191.62:38787/udp/224.1.41.141:5005
-#EXTINF:-3 id=vsetv_751 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/chernomorskaya-ua.png,Черноморская(ua)
-http://176.62.191.62:38787/udp/224.1.42.110:5000
-#EXTINF:-3 id=vsetv_92 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/enterfilm.png,EnterFilm
-http://176.62.191.62:38787/udp/224.1.42.106:5000
-#EXTINF:-3 id=vsetv_353 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/zoom.png,Zoom
-http://176.62.191.62:38787/udp/224.1.42.105:5000
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/gorizont.png,Горизонт
-http://176.62.191.62:38787/udp/224.1.42.109:5000
-#EXTINF:-3 id=vsetv_27 group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/piksel.png,Пиксель
-http://176.62.191.62:38787/udp/224.1.42.108:5000
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/lrt-lithuania-lt.png,Lrt-Lithuania(lt)
-http://176.62.191.62:38787/udp/224.1.42.123:5000
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/interaz.png,InterAZ
-http://176.62.191.62:38787/udp/224.1.41.73:5005
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/armenia-1.png,Armenia 1 
-http://176.62.191.62:38787/udp/224.1.41.126:5005
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/armenia-tv-europe.png,Armenia TV Europe
-http://176.62.191.62:38787/udp/224.1.41.132:5005
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/ert-world.png,ERT world
-http://176.62.191.62:38787/udp/224.1.42.106:5005
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/tve-internacional-sp.png,TVE Internacional(sp)
-http://176.62.191.62:38787/udp/224.1.41.15:5005
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/3-sat-de.png,3-sat(de)
-http://176.62.191.62:38787/udp/224.1.41.52:5005
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/zdf-de.png,ZDF(de)
-http://176.62.191.62:38787/udp/224.1.41.51:5005
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/zdf-info-de.png,Zdf-info(de)
-http://176.62.191.62:38787/udp/224.1.41.54:5005
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/zdf-neo-de.png,Zdf-neo(de)
-http://176.62.191.62:38787/udp/224.1.41.55:5005
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/krym-24.png,Крым 24
-http://176.62.191.62:38787/udp/224.1.42.56:5002
-#EXTINF:-3 id=vsetv_ group_id=1 logo=http://176.62.191.107:88/dune/dunelogos/1-krym.png,1 Крым
-http://176.62.191.62:38787/udp/224.1.41.87:5005
-#EXTINF:-3 id=vsetv_ group_id=11 logo=http://176.62.191.107:88/dune/dunelogos/kika-de.png,Kika(de)
-http://176.62.191.62:38787/udp/224.1.41.53:5005
-#EXTINF:-3 id=vsetv_ group_id=15 logo=http://176.62.191.107:88/dune/dunelogos/dop-kanal.png,доп канал
-udp://@224.1.42.200:5007
-#EXTINF:-3 id=vsetv_ group_id=15 logo=http://176.62.191.107:88/dune/dunelogos/istranet-info.png,Истранет info
-http://176.62.191.62:38787/udp/224.1.40.34:5005
+#EXTM3U
+#EXTINF:0 audio-track="rus",1+1 [ua KHR]
+http://langamepp.com/chtst/3141DE429842ADC11B28C7705765F0E10072EA75AD71D1F030199C05360E98936C
+#EXTINF:0 audio-track="rus",1HD [ru +3 NT]
+http://langamepp.com/chtst/2DD46BA3D78F1D2A00DF3311376500681CE75F94E2BC611B68BB6863424E33065989
+#EXTINF:0 audio-track="rus",1HD [ru AI]
+http://langamepp.com/chtst/A6DEAA3E2057FF3C80C6ACD72C9CB85997ED9E091564830DE8A2F7A559FDD104
+#EXTINF:0 audio-track="rus",1HD [ru LNT]
+http://langamepp.com/chtst/7024FC47B31971B3F8A4C42F09C497AF4117C870862A0D8290C09F5D7CA8F9DB2D
+#EXTINF:0 audio-track="rus",24 Док
+http://langamepp.com/chtst/A242EDC399ECFF19B3ABF1DF47A938B79371D9F4ACDF832B877B450FF97982
+#EXTINF:0 audio-track="rus",24 Док [ru +3 NT]
+http://langamepp.com/chtst/CD34FE814E6F344613F9761CBD0DCB60FC07CAB67B5C48742729C2CC03DD713BBF41D5B2201B69
+#EXTINF:0 audio-track="rus",24 Док [ru DS]
+http://langamepp.com/chtst/4FB823E9A4220257CDF336149D6ECB6A7E8B17DE91117E65F92382C423BE71313DCD479AF9
+#EXTINF:0 audio-track="rus",24 Техно [ru DS]
+http://langamepp.com/chtst/A3C9EBF13820374B19AD67D6BB32360A92FADFC60D134B792D7CE5060EE3B3DA1E1955AA4A55533844
+#EXTINF:0 audio-track="rus",2х2 [ru +3 NT]
+http://langamepp.com/chtst/EA59F38E7BF6E648E91C5C868B27F12EDB6AC7B94EC59A7A38996EDDF952DA1D842DAE
+#EXTINF:0 audio-track="rus",2х2 [ru AI]
+http://langamepp.com/chtst/F0DC1F28FC56731504DAECBF0C22C9F6C1EF2B1FC9650F27D55FDEE47E57A89FAD
+#EXTINF:0 audio-track="rus",2х2 [ru DS]
+http://langamepp.com/chtst/7CBD85F7B36B409C879C2312C41440B44D8EB1C086583CAE56191149B66124C721
+#EXTINF:0 audio-track="rus",2х2 [ru LNT]
+http://langamepp.com/chtst/F05FDDEDB65002BA2BEE793711422E8DC16CE9DA83637E88FA6B4B6C633742E38402
+#EXTINF:0 audio-track="rus",317 - В гостях у сказки
+http://langamepp.com/chtst/FFB384B21EC44FA56172B82586F8D976CE80B0852BF73396504595F534286AA6416205639C15C074E4A33BF4072863A64F633362A414F7
+#EXTINF:0 audio-track="rus",360° Подмосковье HD [ru DS]
+http://langamepp.com/chtst/58B6630E0766C832544169658397F283698557393255B4016271ABD55328223D8802B3B2D7D819B384FBB9DB5325230F88030B6A5C14BD56271C
+#EXTINF:0 audio-track="rus",360° Подмосковье HD [ru LNT]
+http://langamepp.com/chtst/4A7735683B840E9CF6C6C17CBE9BF3167B44015F0EB772AFC0F603CC6E2423A89AC3E5D4EB3ADF1D267C11C26E29229A9AC25D0C60F67BF098B29C
+#EXTINF:0 audio-track="rus",365 Дней [ru +3 NT]
+http://langamepp.com/chtst/51562458BCEC8A112DF476B18B6934D66065106F89DFF6221BC1A6055BD4E46381EF7F2AC9C7B97F59A9
+#EXTINF:0 audio-track="rus",365 дней [ru AI]
+http://langamepp.com/chtst/E0693E1BEE4CB8E4127961D11454E766D15A0A2CDB7FC4D7244CB165C4E937D330D065699B2DD1B9
+#EXTINF:0 audio-track="rus",49 канал [ru +3 NT]
+http://langamepp.com/chtst/AA0CBE67F84978263DEED7C8570B9E379B3F8A50CD7A0412043E6D18E7DB23E71ADC053C8A3C5315539A8A
+#EXTINF:0 audio-track="rus",5 канал
+http://langamepp.com/chtst/74DD5362290B473C84A80D99FCF4FFA645EE67551C383B095412DD292C492F16A466
+#EXTINF:0 audio-track="rus",5 канал [ru +3 NT]
+http://langamepp.com/chtst/00BD0DF906851F4374F60CCB01AA0375318E39CE33B66376A44CDC7BD117D3C5D006568B73AE2C2D00AB
+#EXTINF:0 audio-track="rus",5 канал [ru AI]
+http://langamepp.com/chtst/8756D8B1611FEDE5C7FA7EC3EE7D69EFB665EC86542C91D01740AE733EC0B95F57ED83C3147E84B8
+#EXTINF:0 audio-track="rus",5 канал [ru LNT]
+http://langamepp.com/chtst/3B77E841FC078570FD913CFE3B3F73C30A44DC76C934F9452D2BEC4EEB82A373EBCCB333896BEB04A0
+#EXTINF:0 audio-track="rus",5 КАНАЛ [ru ZTN]
+http://langamepp.com/chtst/954B74F66A61DB315B5AF449D75E3812A47840C15F52A7048BE024F907E3E8A245F02F841F1BAF5F06
+#EXTINF:0 audio-track="rus",7 Рен
+http://langamepp.com/chtst/D52054D127D942246A7E22A5BD966852E41360E612EA3E13BBFEF2106D2B
+#EXTINF:0 audio-track="rus",8 канал
+http://langamepp.com/chtst/E1DC484C3D237D987D72E255D01A67A5D0EF7C7B081001A0ADC832E500A7B7153167
+#EXTINF:0 audio-track="rus",8 канал [ru +3 NT]
+http://langamepp.com/chtst/3BBB766294B887FE36A9A4F33F0C45210A884255A18BFBC6E6137443EFB19591EB002D10E193B49042F4
+#EXTINF:0 audio-track="rus",8 канал [ru AI]
+http://langamepp.com/chtst/E98D6D26B1EABF2E5CA1832CBBEBD1F6D8BE591184D9C3168C1B539C6B56014639363654C48BD673
+#EXTINF:0 audio-track="rus",Amedia 1 [ru +3 NT]
+http://langamepp.com/chtst/A648593B00E0393789DD2AC9EA70EAD3977B6D0C35D34556E4B84EA08B41B1A1D3636A5574BD
+#EXTINF:0 audio-track="rus",Amedia 1 [ru AI]
+http://langamepp.com/chtst/FD57F9AE41B8DD9E5960CA154B9C0BF2CC64CD99748BA1FF3405AE7C2AAD5080883690F3
+#EXTINF:0 audio-track="rus",Amedia 1 [ru DS]
+http://langamepp.com/chtst/E4642DE444661BCE4446972EB68101B3D55719D3715567AF2923F347D7B05AC191005EB9
+#EXTINF:0 audio-track="rus",Amedia 2 [ru AI]
+http://langamepp.com/chtst/D8FA6219B33FB70C9F8221EB1E2DDD02E9C9562E860CCB6DF2E745827F1F8670AD9B0B44
+#EXTINF:0 audio-track="rus",Amedia Hit [ru DS]
+http://langamepp.com/chtst/910AE6D67002A4B4483BE2FEBCE3B194A039D2E14531D8D5255E8697DD8BD8E0CA7893B2035F
+#EXTINF:0 audio-track="rus",A Media Hit HD [ru +3 NT]
+http://langamepp.com/chtst/DE13AD9152659DF2E7BFDD05ECBA077DEF2099A66756E1938ADAB96C8DD26E09B677F6E3274EAE9C93E2
+#EXTINF:0 audio-track="rus",Amedia Premium [ru DS]
+http://langamepp.com/chtst/C4ED5334EFF7E93732CB35EEAFE7828DF5DE6703DAC495565FAE5187CE97F0E8A9842659B4859C534196
+#EXTINF:0 audio-track="rus",Amedia Premium HD [ru +3 NT]
+http://langamepp.com/chtst/FA301E4D95BB3F7C7A1C8166D688E49ACB032A7AA088431D1779E50FB7F896FF97596B20FDDF640E0F37B208A2D5
+#EXTINF:0 audio-track="rus",Amedia Premium HD [ru AI]
+http://langamepp.com/chtst/7537CE652FB79C6183D25032B9D2BFB34404FA521A84E000EEB7345BD8A2CDD6185EBB0847D3C713F6B3396F
+#EXTINF:0 audio-track="rus",Ani [ru +3 NT]
+http://langamepp.com/chtst/02DD0097983F13135B9479311C5DCB9233EE34A0AD0C6F7235FD22436976F8FC7680
+#EXTINF:0 audio-track="rus",Ani [ru AI]
+http://langamepp.com/chtst/959AF7C4519325D46575061E48C5D24AA4A9C3F364A059B50B1C5D6C3DA4BB17
+#EXTINF:0 audio-track="rus",Animal Family HD [ru +3 NT]
+http://langamepp.com/chtst/A2D2E23B12F54E6D8AC79FA6256A38BA93E1D60C27C6320CE4AEF2C7490C59D7CBBE9B5376AE3C18A1F4F1D278
+#EXTINF:0 audio-track="rus",Animal Planet [ru +3 NT]
+http://langamepp.com/chtst/042F7E56C3A32A2819314761F619AB99351C4A61F690564977582A009A69C7F86A4A0A0DB1D6011B77451A
+#EXTINF:0 audio-track="rus",Animal Planet [ru AI]
+http://langamepp.com/chtst/EB8DD4FD83226B0DE90AB30E74ECC879DABEE0CAB611176C8763DE6F189CA41885E8A0A6F1570A64B4
+#EXTINF:0 audio-track="rus",Animal Planet HD [ru +3 NT]
+http://langamepp.com/chtst/1B46CFDEEAF907032A4E6421670FBA522A75FBE9DFCA7B62442709400B7FD6337523BBB68EA27576017D0A553A
+#EXTINF:0 audio-track="rus",Arirang [ru +3 NT]
+http://langamepp.com/chtst/9D8E5020B0BB2D99C5E0A839CC70B2E8ACBD6417858851F8B789DA58A217E99AE8A5634EC4E6
+#EXTINF:0 audio-track="rus",Arm 1 [ru +3 NT]
+http://langamepp.com/chtst/B781C6A17BCDA4A51B08C6821780D5B486B2F2964EFED8C46965F7D965F5FE87D9F59B
+#EXTINF:0 audio-track="rus",BBC World News [ru +3 NT]
+http://langamepp.com/chtst/0E25D4BEE00158A5E200DEAE709196273F16E089D53224C78063A9C102FDF2496B52A7E5927473968C7483
+#EXTINF:0 audio-track="rus",BBC World News [ru AI]
+http://langamepp.com/chtst/125DC88D2A6C334674F9C88C7A9D4088236EFCBA1F5F4F24169ABFE308F124E6772ABBD65819522F29
+#EXTINF:0 audio-track="rus",Bollywood [ru DS]
+http://langamepp.com/chtst/C21547A2169F47F89F26A70FB73D37C9F326739523AC3B9AF04ACB76C05258AD996732C665C2
+#EXTINF:0 audio-track="rus",Bonum TV [hu HLS]
+http://langamepp.com/chtst/9AFF57C56C8A0BE083D36CFD71AD8633ABCC63F259B97782ECBD199005DBDD5BEF973BB631
+#EXTINF:0 audio-track="rus",Brazzers (Для взрослых) [ru +3 NT]
+http://langamepp.com/chtst/C2CDD6D86C1DD10B43781AFAB551C450F3FEE2EF592EAD6931196080D023B77812790663BD9201B993CFCB7A65EF15D112760753BD98F850310D31C9DB2599
+#EXTINF:0 audio-track="rus",Bridge TV
+http://langamepp.com/chtst/511B15BDA5209D28F30A2664B7AC98796028218A9013E14A81634203D2D8EE
+#EXTINF:0 audio-track="rus",Bridge TV [ru +3 NT]
+http://langamepp.com/chtst/796E51E58B22F0CF9A0AC9505C8DA0AD485D65D2BE118CADE863AD3739F9D6F60B1B7AD6E556AD
+#EXTINF:0 audio-track="rus",Bridge TV [ru AI]
+http://langamepp.com/chtst/A8B56A4DD50776C8119C2DC848C541C199865E7AE0340AAA63F549AF2DB1379ADAC00B2488
+#EXTINF:0 audio-track="rus",Bridge TV [ru DS]
+http://langamepp.com/chtst/3393A6BEB5968D50A057A0FCE440A98D02A0928980A5F132D23EC49B8134DFD641E6C2CDE8
+#EXTINF:0 audio-track="rus",Bridge TV [ru LNT]
+http://langamepp.com/chtst/F513DACA1B50922CECBFF5348436F5B7C420EEFD2E63EE4E9ED69153E14283EC8766B6A46F0D
+#EXTINF:0 audio-track="rus",Bridge TV classic [ru AI]
+http://langamepp.com/chtst/C99B767F3103CFD25A6FCE3FAF78CCA4F8A842480430B3B02806AA58CA0CBAC7A5FA050C586094A02F0EA762
+#EXTINF:0 audio-track="rus",Candyman (Для взрослых) [ru +3 NT]
+http://langamepp.com/chtst/8BA66EA6F700D3E3C0C81844FE0DFCC8BA955A91C233AF80A1A67C3D936C92E05B12BE1D268F0351107FC9C42EB32D495B1DBF2D2685FAB8B2BD33779079A1
+#EXTINF:0 audio-track="rus",Cartoon Network [ru +3 NT]
+http://langamepp.com/chtst/A97247DA7516ACD0857B0F34F3DBD87E984173ED4025D0B3E4097B5B9CB5B61BDD0528A81E4DDEA5AE486140AE
+#EXTINF:0 audio-track="rus",Cartoon Network [ru AI]
+http://langamepp.com/chtst/8146257846F85C06C0744BBE8147862AB075114F73CB2065A1063FD1EE29E84FF5314A0A2DA32E73A11D16
+#EXTINF:0 audio-track="rus",CKAT THT [ru DS]
+http://langamepp.com/chtst/B9CD052EE3B1FE682C0D9C1FE8749E6A88FE3119D682820B476CE86B8000C518CCA97673
+#EXTINF:0 audio-track="rus",CTC Love [ru DS]
+http://langamepp.com/chtst/BAC3E201BB3E077BB252393499C05E528BF0D6368E0D7B18C631555BEFA50520CFA7915C
+#EXTINF:0 audio-track="rus",Dance TV [ru AI]
+http://langamepp.com/chtst/8D638171157FD9418D766175EAFFDFA5BC50B546204CA525EC1802109E8984D7F802E82C
+#EXTINF:0 audio-track="rus",Dance TV [ru LNT]
+http://langamepp.com/chtst/C2C2A67D00ADF8B30031E799F145EC7FF3F1924A359E84D7615F84FC8533B70DB7AEC8095D
+#EXTINF:0 audio-track="rus",Dange [ru +3 NT]
+http://langamepp.com/chtst/A96DF0BEECC9FF793F60EF2A5FCECF21985EC489D9FA831D5E0E884F04BCBA0A9A0384E3
+#EXTINF:0 audio-track="rus",Da Vinci [ru +3 NT]
+http://langamepp.com/chtst/90759E9122964422C82BBCB970A83819A146AAA617A53846A95DD5D713C1636BE55EADFF56CB
+#EXTINF:0 audio-track="rus",Deutsche Welle
+http://langamepp.com/chtst/1528D701F2D77B31376A5B97382AB8C9241BE336C7E40755521F2FE45B42DDBE7044BB64
+#EXTINF:0 audio-track="rus",Deutsche Welle [ru AI]
+http://langamepp.com/chtst/9F575AC2ED9EE4B5C9A06F3948A7535DAE646EF5D8AD98D1ACD51B4A2BCF362AFA3B36A7B6EC91D4A0FD
+#EXTINF:0 audio-track="rus",Deutsche Welle [ua KHR]
+http://langamepp.com/chtst/D02A5FC201DAF339444FD07C79884519E1196BF534E98F5D213AA40F1AE0206EB54633A75AAF92522C3D8D
+#EXTINF:0 audio-track="rus",Discovery Channel
+http://langamepp.com/chtst/DF9FDBCD3DBF820660F140A899930669EEACEFFA088CFE62098223C7EFF67410BCF7BAA353DAEE
+#EXTINF:0 audio-track="rus",Discovery Channel [ru +3 NT]
+http://langamepp.com/chtst/BD652BBF3F1EF8836DC8FFE7504500308C561F880A2D84E704BB9C8826207249DE0D4AD1517B94D81FBDD4D43E315D
+#EXTINF:0 audio-track="rus",Discovery Channel [ru AI]
+http://langamepp.com/chtst/E4DBFD229A7F28FA7168A30AFBA973B9D5E8C915AF4C549E181BC0658DCC01C087B39C4CF41A44A1031DC263A6
+#EXTINF:0 audio-track="rus",Discovery Channel HD [ru +3 NT]
+http://langamepp.com/chtst/0E9E784DBC70D02A38CF11881411B8F93FAD4C7A8943AC4E51BC72E76274CA806DF61923D215BC425C9463FD3F22D68D53
+#EXTINF:0 audio-track="rus",Discovery Science [ru +3 NT]
+http://langamepp.com/chtst/ECB51B86354381A6AC24B0A7CD2360DBDD862FB10070FDC2C557D3C8BB4612A29FD672E35B20E4FDDE519B94A3573D
+#EXTINF:0 audio-track="rus",Disney Channel (+4)
+http://langamepp.com/chtst/C1D8287D48F8A780C7B809DCC9C1D5B5F0EB1C4A7DCBDBE4AECB67B9B0A2BDD4AFB64D1160D393A9
+#EXTINF:0 audio-track="rus",DTX [ru +3 NT]
+http://langamepp.com/chtst/77F03CAC33BD52DFE10287AE25E789E646C3089B068E2EBB957ADCDC50CCBA8803AD
+#EXTINF:0 audio-track="rus",ENGLISH CLUB TV
+http://langamepp.com/chtst/C0B16308A90B8970C3924C8D532142CAF182573F9C38F515ADF520E4204921A6B5D3177E
+#EXTINF:0 audio-track="rus",ENGLISH CLUB TV [ru +3 NT]
+http://langamepp.com/chtst/117E76453BC8241CCAABCAEF9353D553204D42720EFB5879A4CCA686E03BB63F641C023360BA5137F9C5BEB2
+#EXTINF:0 audio-track="rus",ENGLISH CLUB TV [ru DS]
+http://langamepp.com/chtst/04395BAD44E41E07766A94CA8CD7949D350A6F9A71D76262180DF8A3FFBFF7F1715B2FDB1F966B630537
+#EXTINF:0 audio-track="rus",Eureka HD [ru +3 NT]
+http://langamepp.com/chtst/550BE291D307AD9EB2788D45CB6398D06438D6A6E634D1FBC70AE82EAA0BFC8B277EC9A2BD73F0
+#EXTINF:0 audio-track="rus",Euronews
+http://langamepp.com/chtst/9CF47DE0D89BE74F067C199253AD2FA8ADC749D7EDA89B2A730E76FC36DA5C
+#EXTINF:0 audio-track="rus",Euronews [ru +3 NT]
+http://langamepp.com/chtst/B812398C19E72ACB5FB7112A1AA9FAB689210DBB2CD456AE2AC57E447FDE89EDCA6712BF779377
+#EXTINF:0 audio-track="rus",Euronews [ru AI]
+http://langamepp.com/chtst/9D789676137EC519FADEAB4D8BDBF544AC4BA241264DB97C8FACC423EEAC861FEF0DF71F4E
+#EXTINF:0 audio-track="rus",Euronews [ru LNT]
+http://langamepp.com/chtst/ED2FD00616FAD175B1E29FCC8C9A8229DC1CE43123C9AD10C490F0A2E9EDF1729F5ABC6862A7
+#EXTINF:0 audio-track="rus",EUROPA PLUS TV [ru +3 NT]
+http://langamepp.com/chtst/12199F2597643F9142EADECEC5D312B2232AAB12A25743F43798B1BEA4A37EC7616DE97EE51114A22C9E83
+#EXTINF:0 audio-track="rus",EUROPA PLUS TV [ru AI]
+http://langamepp.com/chtst/02E2B818DC8A8D8D6C2D59F8C7DC22D933D18C2FE9B9F1E8195F3688A6AC4EAC7196CE43AEFFECE431
+#EXTINF:0 audio-track="rus",EUROPA PLUS TV [ru DS]
+http://langamepp.com/chtst/F5C1FE8C263D1D6828FB36EDCE48A0D1C4F2CABB130E610D5D89599DAF38CCA486B588D75448791B75
+#EXTINF:0 audio-track="rus",EUROPA PLUS TV [ru LNT]
+http://langamepp.com/chtst/2A58E906E277944FA4ED476BC96944BE1B6BDD31D744E82AD19F281BA81928CB592C9F5D9002F821D0B0
+#EXTINF:0 audio-track="rus",Eurosport 1
+http://langamepp.com/chtst/2B424A518067B9A862F09531383502631A717E66B554C5CD1782FA42485A70171A
+#EXTINF:0 audio-track="rus",Eurosport 1 [ru +3 NT]
+http://langamepp.com/chtst/8EEB697062FDBF06EB0771B470B5739BBFD85D4757CEC3639E751EC700DA01EFBFB01B0549CED172B6
+#EXTINF:0 audio-track="rus",Eurosport 1 HD [ru +3 NT]
+http://langamepp.com/chtst/F8BDEC7825A6208796B5B8CEEBBA3179C98ED84F10955CE2E3C7D7BD9BD5430DC9D5882357D30BB4F8C1E5
+#EXTINF:0 audio-track="rus",Eurosport 2
+http://langamepp.com/chtst/A69BE90898A90F83B080382036ABBC2E97A8DD3FAD9A73E6C5F2575346C4CE5A94
+#EXTINF:0 audio-track="rus",Eurosport 2 [ru +3 NT]
+http://langamepp.com/chtst/68A8A68D4EC615E47BCDB36688E4DF2E599B92BA7BF569810EBFDC15F88BAD5A5AF3D4F865F57B9026
+#EXTINF:0 audio-track="rus",Eurosport 2 HD [ru +3 NT]
+http://langamepp.com/chtst/7FC9361872459B22C6D342FC7EFE2AE74EFA022F4776E747B3A12D8F0E9158934DA152430030B011A8A71F
+#EXTINF:0 audio-track="rus",Extreme Sports [ru +3 NT]
+http://langamepp.com/chtst/A7D074F59689DA11578D78DF71570DF196E340C2A3BAA6742FF90ABA1C327E81C8A20086CDFBAF3A64E30C82
+#EXTINF:0 audio-track="rus",Extreme Sports [ru DS]
+http://langamepp.com/chtst/2043099289A4B44F78F74BF6F575DD9C11703DA5BC97C82A008339939810AEEC4F317DE1D2D6C12B0BAA
+#EXTINF:0 audio-track="rus",Fashion [ru DS]
+http://langamepp.com/chtst/455292DBDB6CEC32F964116ABC1E5BDC7461A6ECEE5F905498177903D37000AE3036E186
+#EXTINF:0 audio-track="rus",Fashion One HD [ru +3 NT]
+http://langamepp.com/chtst/62646FEB09233A811A857710FA55AC3F53575BDC3C1046E77BF61F79953BC351070C0BB07B5611B274F12A
+#EXTINF:0 audio-track="rus",Fashion One HD [ru AI]
+http://langamepp.com/chtst/A73E1A82AA06B5A36BC60E27E5690347960D2EB59F35C9C50AB5664E8A076C29C2567ED9D873D4CA36
+#EXTINF:0 audio-track="rus",Fashion One HD [ru DS]
+http://langamepp.com/chtst/CE7232D7966C58B0F1CFC0EB246D2ACBFF4106E0A35F24D690BCA8824B0345A5AB1A568CE4193CC3AC
+#EXTINF:0 audio-track="rus",Food Network
+http://langamepp.com/chtst/AB444E564A03F9B5C907DCAE71E0F53F9A777A617F3085D3A668B8C014948250D92F
+#EXTINF:0 audio-track="rus",Fox [ru +3 NT]
+http://langamepp.com/chtst/522716E8936E99843D596F62C6992D72631422DFA65DE5E252213410B3B21E1C267A
+#EXTINF:0 audio-track="rus",FOX [ru DS]
+http://langamepp.com/chtst/DD7BC8287EC1DD48C9BAF63A9AEC79ECEC48FC1F4BF2A12EA6C2AD48EF880AB1
+#EXTINF:0 audio-track="rus",FOX [ru LNT]
+http://langamepp.com/chtst/138FD5A7FD6E2B3AC79B9C8E34CA001222BCE190C85D575CA8E3C7FC41A66E664E
+#EXTINF:0 audio-track="rus",Fox HD [ru +3 NT]
+http://langamepp.com/chtst/45C83AC489170C52D1028C6BEE05580274FB0EF3BC247034BE7AE40FB5772D2976A64E99
+#EXTINF:0 audio-track="rus",Fox HD [ru AI]
+http://langamepp.com/chtst/942DA9919BD4CC626F68F0A432F0B678A51E9DA6AEE7B004001098C06982C319FD70
+#EXTINF:0 audio-track="rus",Fox Life [ru +3 NT]
+http://langamepp.com/chtst/B8F03C42074894D94A214439269C3BBB89C30875327BE8BF2559285040F960C9CDDB0F2C7315
+#EXTINF:0 audio-track="rus",Fox Life [ru AI]
+http://langamepp.com/chtst/C9E44C64B818C72881B7CCB3A8822B60F8D778538D2BBB4EEECFA0DACEE77012BC852539
+#EXTINF:0 audio-track="rus",FOX Life [ru LNT]
+http://langamepp.com/chtst/7267A279AF3752FA5897337E336E39FD4354964E9A042E9C37EF5F17550B628F070BCC0DF2
+#EXTINF:0 audio-track="rus",Fox Life HD [ru +3 NT]
+http://langamepp.com/chtst/5286610A9E28321FE0FED38880FEE8F263B5553DAB1B4E798F86BFE1E69B809609F41421AD464642
+#EXTINF:0 audio-track="rus",Fox Life HD [ru AI]
+http://langamepp.com/chtst/668B6C15C2BE0F1A55429889B0D2860257B85822F78D737C3A3AF4E0D6B7EE663DF91974ABE3
+#EXTINF:0 audio-track="rus",France24
+http://langamepp.com/chtst/58E70DF6103F16F03EE978BEE760B14D69D439C1250C6A964C8816DD825285
+#EXTINF:0 audio-track="rus",France24 [ru AI]
+http://langamepp.com/chtst/EB1D63ADDB72C731B560BA653240688ADA2E579AEE41BB57C701D40657725CD1996802C486
+#EXTINF:0 audio-track="rus",Galaxy [ru DS]
+http://langamepp.com/chtst/27758037B49627F27F9FB1670062B4EB1646B40081A55B951EF3D01F7939C69E4306DD
+#EXTINF:0 audio-track="rus",Game Show [ru +3 NT]
+http://langamepp.com/chtst/7F17995A8A608B3FC045A4F2850C7CAD4E24AD6DBF53F758A128C181ED630BF60D62B269E414D6
+#EXTINF:0 audio-track="rus",Gid HD [ru ZTN]
+http://langamepp.com/chtst/81FDE436930C2813ABD97AAB3B2E97BAB0CED001A63F5474C2BD12CF605CE2C0F593B9
+#EXTINF:0 audio-track="rus",Ginger HD [ru +3 NT]
+http://langamepp.com/chtst/463015D090A00F51E6B3436BC0C01841770321E7A59373368FDD240EB2A87C1A34453EE3FED452
+#EXTINF:0 audio-track="rus",Globalstar Tv [ru AI]
+http://langamepp.com/chtst/BDFD775009A063B479DD60B50CF76F528CCE43673C931FD315B202D460841B33CF89010B7BD502DD24
+#EXTINF:0 audio-track="rus",Handycam 4K UHD [ru +3 NT]
+http://langamepp.com/chtst/278422B72531080BE44C76A40C8FE6C916B7168010027463852212DD6FEE8BFD4CF14AD37E437D20D72202F9
+#EXTINF:0 audio-track="rus",Hard Life [ru AI]
+http://langamepp.com/chtst/8C5D1995FD7D49775AA92C66A09BB8C7BD6E2DA2C84E351F3BDB480AC9FDDD9CFE2878FCA0
+#EXTINF:0 audio-track="rus",Hope TV [ru HLS]
+http://langamepp.com/chtst/20DA7F450B8750F0D3C694DF557AA8E111E94B723EB42C98BCB6F1AB2321DA9448B60C18
+#EXTINF:0 audio-track="rus",Hustler (Для взрослых) [ru +3 NT]
+http://langamepp.com/chtst/D8C276D53FC04C996978000A14B8D134E9F142E20AF330F11C0B746671CAF9E46C12CD04B010FE49DEA980DAAA6950E46313FD04BAE917EB1C53336460E5
+#EXTINF:0 audio-track="rus",Hustler HD (Для взрослых) [ru +3 NT]
+http://langamepp.com/chtst/9350799ED8C98EAB8F238BE59D33C675A2634DA9EDFAF2C3FA50FF89F841AE11BB80CD4E6318017B3DF33C341DE378A41280C24F53180B82D451FECEAE5DB228
+#EXTINF:0 audio-track="rus",ICTV [ua KHR]
+http://langamepp.com/chtst/F53D4B34FD97CE6610CE702486425819C40E7F03C8A4B20F73BA067FF32333718760
+#EXTINF:0 audio-track="rus",IDX [ru +3 NT]
+http://langamepp.com/chtst/92D1B86A9A46162969A10E07D4D57CCAA3E28C5DAF756A400DD95575A1FE4FA4E68C
+#EXTINF:0 audio-track="rus",Inter [ru +3 NT]
+http://langamepp.com/chtst/12C7FE0F5FCC756F9AE6932128EB3ABA23F4CA386AFF0906F492F65373994F9121A98A52
+#EXTINF:0 audio-track="rus",Jim Jam [ru +3 NT]
+http://langamepp.com/chtst/BCF22556393B7FA2DC8EA9B063267A758DC111610C0803C8B5E3C3D10E7D080097C14B2264
+#EXTINF:0 audio-track="rus",JimJam [ru DS]
+http://langamepp.com/chtst/ED79844C45F9BBE0DF4E0107393BC2F5DC4AB07B70CAC78AB6236B665460B080890AD9
+#EXTINF:0 audio-track="rus",LaTele [ch HLS]
+http://langamepp.com/chtst/2EE74B6722CB09FE59B3AEBCD92931C61FD47F5017F8759238C7CBD0BC7252AE468B383A
+#EXTINF:0 audio-track="rus",Life 78 [ru AI]
+http://langamepp.com/chtst/A2B513E7AECEC78E1DC8955604574C32938627D09BFDBBE274AEF0613C0C3E47C3DC4E
+#EXTINF:0 audio-track="rus",Life78 [ru ZTN]
+http://langamepp.com/chtst/3E97996062A25EBB550D772E36A8F5D80FA4AD57579122D73C6B12190EF387AD44E3F73D
+#EXTINF:0 audio-track="rus",Life News [ru AI]
+http://langamepp.com/chtst/5D08BF0CD6879AF34F2F4A53879685C56C3B8B3BE3B4E69F26492F3DE2E1F69E2F7DDE658B
+#EXTINF:0 audio-track="rus",Luxury World [ru AI]
+http://langamepp.com/chtst/2D1E2690C1844B1691C345C76B3A9FC91C2D12A7F4B7377AE4BB30B5124DF0BB417A7DE2B4E5224B
+#EXTINF:0 audio-track="rus",MB-SAMARA-SC [ru AI]
+http://langamepp.com/chtst/425FD518E66F0C359E568925EC0EEB19736CE12FD35C7058FC7BFA44816F99786F2CB643941A6D5CC3
+#EXTINF:0 audio-track="rus",MCM Top
+http://langamepp.com/chtst/2D11A9EE95F50427B849EE23838EECC51C229DD9A0C6784ADB249A4CF3
+#EXTINF:0 audio-track="rus",MCM Top [ru LNT]
+http://langamepp.com/chtst/EDC1DED330EA08CF4091F42CA0DF45CDDCF2EAE405D974A223FC8043D08437B881AFAA8E
+#EXTINF:0 audio-track="rus",Mezzo Live HD [ru +3 NT]
+http://langamepp.com/chtst/F0EFBB86E4BFAD9C099BBF8C29AC5216C1DC8FB1D18CD1F16CE1C5E345C52473988BE0F491949EF27DC6
+#EXTINF:0 audio-track="rus",MTV Dance [ru +3 NT]
+http://langamepp.com/chtst/6D30E99E1AF26D5A8361862341CBF0315C03DDA92FC11137F717E2422FA8956A1F45C2AD748630
+#EXTINF:0 audio-track="rus",MTV Dance [ru DS]
+http://langamepp.com/chtst/BAABB79E6B643A7400FA0029A65240138B9883A95E574619748C6448C8312548C8DED3ED36
+#EXTINF:0 audio-track="rus",MTV Hits [ru +3 NT]
+http://langamepp.com/chtst/8229B19C1B1EF69F807CC2C148B3F202B31A85AB2E2D8AF2F40AAAA83CC0A970F70282F26F43
+#EXTINF:0 audio-track="rus",MTV Hits [ru DS]
+http://langamepp.com/chtst/5EAAA1C90EDB3D0ED53E387B90788F136F9995FE3BE84163A1485012E40BD4612BCED294
+#EXTINF:0 audio-track="rus",MTV Live HD [ru +3 NT]
+http://langamepp.com/chtst/A140AFBD5FA65CDF221EA06AD1926D3090739B8A6A9520B25668CC03A7F70554FA32DA966CC82882
+#EXTINF:0 audio-track="rus",MTV Live HD [ru AI]
+http://langamepp.com/chtst/3C0EF94BE93759BF75913A0509C918AB0D3DCD7CDC0425D201E7566C7FAC70CF677C8C2A806A
+#EXTINF:0 audio-track="rus",MTV Rocks [ru DS]
+http://langamepp.com/chtst/0AC868696EC44890E2E8FBB47A68E4B73BFB5C5E5BF734FD969E89DB190397EC78BD0C1A33
+#EXTINF:0 audio-track="rus",MTV Russia [ru +3 NT]
+http://langamepp.com/chtst/76DD025F145B1E89ED598FF622A7A12C47EE3668216862E4992FFD8351D4C84D2DAF777427356AD4
+#EXTINF:0 audio-track="rus",MUSIC BOX TV
+http://langamepp.com/chtst/6F0995DDCDDD6EB0C5696440D148F7475E3AA1EAF8EE12DDB01A0D23B3278F3319
+#EXTINF:0 audio-track="rus",Music Box TV [ru +3 NT]
+http://langamepp.com/chtst/25F9A63A54C5C3411E523840FAD96D6914CA920D61F6BF2C6B21512398B6151D53A2D44F7FF6AD3543
+#EXTINF:0 audio-track="rus",Music Box TV [ru AI]
+http://langamepp.com/chtst/E30247B0E0B560A51EC4E5EF0CDC3632D2317387D5861CC86BB78C8C6EB34E46955935C581DC3D
+#EXTINF:0 audio-track="rus",Music Box TV [ru HLS]
+http://langamepp.com/chtst/D5DC6C2AA12F6BBF82A3007C7D6DE560E4EF581D941C17D2F7D0691F1F029D14A3871E5FC94318E2
+#EXTINF:0 audio-track="rus",Muzic 1 [ru DS]
+http://langamepp.com/chtst/6F2C104FE171F5FF35DAEE42B724748C5E1F2478D442899240A08721867F06F90B5F4D
+#EXTINF:0 audio-track="rus",Myzen HD [ru +3 NT]
+http://langamepp.com/chtst/01E0B6A20F226291C5620D42CFF3A23E30D382953A111EFCBC18682CA797F94C74CB85CC7B7F
+#EXTINF:0 audio-track="rus",Nano TV [ru AI]
+http://langamepp.com/chtst/1FB38E01248300595DEF9B14130FA1142E80BA3611B07C373C81F4606554D3617EDAD3
+#EXTINF:0 audio-track="rus",Nat Geo Wild [ru +3 NT]
+http://langamepp.com/chtst/EF57B7FF7919903F7B9E814A912488B0DE6483C84C2AEC511AEAE62FFE53E1DC8B0CC58A522AFE4B26
+#EXTINF:0 audio-track="rus",Nat Geo Wild HD [ru +3 NT]
+http://langamepp.com/chtst/D716B1FB99B254F7A1F00BB4FFACC9EFE62585CCAC812899C0846CD190DBA083B37ED5A0EBC77FC4CF8456
+#EXTINF:0 audio-track="rus",National Geographic
+http://langamepp.com/chtst/0480EE7D997EBC141C3E5EAD62E65E3935B3DA4AAC4DC07A7D4A37C20C87325E61EF890FF80ED47D7F
+#EXTINF:0 audio-track="rus",National Geographic [ru +3 NT]
+http://langamepp.com/chtst/FD0F3496C1888D627899177845E06749CC3C00A1F4BBF10C19ED7E172B810B2E986053E4A0F8E50B1BC2650D6ED3093DA0
+#EXTINF:0 audio-track="rus",National Geographic [ru DS]
+http://langamepp.com/chtst/6055C7F9D3830DF0C16B9D2351FB5C4E5166F3CEE6B0719EA01FF44C3F9A3029053AA08BB2F36599A230EF56358801
+#EXTINF:0 audio-track="rus",National Geographic [ru LNT]
+http://langamepp.com/chtst/0B90E5CC19722F910B46095126709A863AA3D1FB2C4153FF6A32603E4811F6E16EFF82BE780247F8681D7B244A1EEEDB
+#EXTINF:0 audio-track="rus",National Geographic HD [ru +3 NT]
+http://langamepp.com/chtst/C5617F99E58C89A6F726CA482226972DF4524BAED0BFF5C89652A3274C47FB4AA00E18EB84FCE1CF944EAE135053BC1EAB1522
+#EXTINF:0 audio-track="rus",News One [ua KHR]
+http://langamepp.com/chtst/B77CF9D0EE2861FA6E6B4B94DBE51AA1864FCDE7DB1B1D940B1C38FBB58041D4D61791A2B3
+#EXTINF:0 audio-track="rus",NHK World TV [ru AI]
+http://langamepp.com/chtst/47993A2C25C3D21CE99C650BC3FC387A76AA0E1B10F0AE7281F71264B1905C0E31C2485944AA8F
+#EXTINF:0 audio-track="rus",NHK World TV [ru LNT]
+http://langamepp.com/chtst/78324A665AAB60C916AB5DF2917893D849017E516F981CA77EC02A9DE314F7AC0E69381336C51494
+#EXTINF:0 audio-track="rus",Nickelodeon
+http://langamepp.com/chtst/11CD043790D6537973B88536B4BDB02C20FE3000A5E52F171ADBEE53D8D2D4497EA3
+#EXTINF:0 audio-track="rus",Nickelodeon [ru +3 NT]
+http://langamepp.com/chtst/EFFA934AA5F313BC9F70AE30E84108FADEC9A77D90C06FD2F613C555842E6C9F8094C838D0D820D2EB2D
+#EXTINF:0 audio-track="rus",Nickelodeon [ru AI]
+http://langamepp.com/chtst/0E0C319EE28417553D9C8BF15A3B1E493F3F05A9D7B76B3B54FFE09436547A2C61626AEC97E57E08
+#EXTINF:0 audio-track="rus",Nickelodeon [ru DS]
+http://langamepp.com/chtst/35B193DBA4A69743174573FF867BF9940482A7EC9195EB2D7E26189AEA149DF15ADFC8A9D1C2E41E
+#EXTINF:0 audio-track="rus",Nickelodeon HD [ru +3 NT]
+http://langamepp.com/chtst/872A326AAF49BFECE64BDD4086FB89BCB619065D9A7AC3828F28B625EA94EDD9E8445A0EF43BCAC7D525A91D
+#EXTINF:0 audio-track="rus",O-La-La (Для взрослых) [ru +3 NT]
+http://langamepp.com/chtst/AC1D9751C32E94DA7308DAF983D38D0B9D2EA366F61DE8B55E64BBD4EFB2A5DB18CD2C804CFE260AC4D95A293D020CDB17CC1C804607CFA80623E997F78E
+#EXTINF:0 audio-track="rus",O2 HD Music [ru LNT]
+http://langamepp.com/chtst/FEBF75AD083499EE7F762E0672B8C21ECF8C419A3D07E5814D1E4A6B07CBAB7DA5CD00C16640C4
+#EXTINF:0 audio-track="rus",ORLER CHANNEL [gb HLS]
+http://langamepp.com/chtst/D5596F98870473FA0C4DF38F20809A1EE46A5BAFB2370F957E2196FD43E8FB70BB3C03C3E0661B967F10
+#EXTINF:0 audio-track="rus",Outdoor HD [ru +3 NT]
+http://langamepp.com/chtst/3F0FCB47446436C3DB64C94D1C8B6BF10E3CFF7071574AACAE10AD2273F90395647DBE6C770A429E
+#EXTINF:0 audio-track="rus",Paramount Comedy [ru +3 NT]
+http://langamepp.com/chtst/E4DB8A6BDFFD65EB4A587A6AD8158917D5E8BE5CEACE199B2B2A1B07B760E76387B4E70EBB843E993F734904AC48
+#EXTINF:0 audio-track="rus",Playboy (Для взрослых) [ru +3 NT]
+http://langamepp.com/chtst/24545F68B9952C94F9F5E116814C076515676B5F8CA650E495949874EE352FB59084E4B936459E444E2461C63F9D86B59F85D4B93CBC77E68CDED278F511
+#EXTINF:0 audio-track="rus",Promo [ru +3 NT]
+http://langamepp.com/chtst/2791D1068E36F1D88F6C436781CC7FA516A2E531BB058DA8FD032E08DABE0A8E14FFA55B
+#EXTINF:0 audio-track="rus",Ren-TV_-_MPTS_-_Ангарск
+http://langamepp.com/chtst/20DE0ED9733A6D6C2F4E82B09B8A16C211ED3AEE4609111E4A20AFC4EDD53B9D4DAE7AAA2C1732BC9F9E3F60285AA613A00F8F09C9
+#EXTINF:0 audio-track="rus",Ren-TV_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/1BE7C9AA1DBA82AC26C514A791934DB22AD4FD9D2889FEDE43AB39D3E7CC60ED6897BDD94297DD7C9E1494772B42CE639936487AA7
+#EXTINF:0 audio-track="rus",REZERV CH [ru +3 NT]
+http://langamepp.com/chtst/715B8BE495F950C447D375E25D8BA5784068BFD3A0CA2CB622A910902BE8CD23032EA0D7FB8D0D
+#EXTINF:0 audio-track="rus",Rossia1-Local [ru ZTN]
+http://langamepp.com/chtst/726E228F28A53C4F6A50F6FCE343AE54435D16B81D96403D05238595827283381D0D43E373D749351E3EAB
+#EXTINF:0 audio-track="rus",Rusong TV [ru +3 NT]
+http://langamepp.com/chtst/9E3938333288F87A5B6D5CB8F801316AAF0A0C0407BB84082E1E33D69F754731EC4C13005CFCA5
+#EXTINF:0 audio-track="rus",Rusong TV [ru AI]
+http://langamepp.com/chtst/6F53F998F835E76385DD5F68210DBCBF5E60CDAFCD069B11F0AE30064679CAE41D2698F1A5
+#EXTINF:0 audio-track="rus",RUSONG TV [ru DS]
+http://langamepp.com/chtst/46F4F3797DEBF3D8584F915051C2BAC077C7C74E48D88FAA2D3CFE3E36B6CC9B3481970A20
+#EXTINF:0 audio-track="rus",RUSONG TV [ru LNT]
+http://langamepp.com/chtst/15B3580EE93F716E1DD0D73EDD93FD2324806C39DC0C0D1C68A3B850BAE78B7867C634609D62
+#EXTINF:0 audio-track="rus",Russian Extreme
+http://langamepp.com/chtst/88F09C05DB8FDD33DF6E8330303DF046B9C3A832EEBCA141AA1DF0595153953EFC82F968BE
+#EXTINF:0 audio-track="rus",Russian Extreme [ru DS]
+http://langamepp.com/chtst/F14954DA88C548A5951FE372B3E1953BC07A60EDBDF634D7E06C901BD28FF043853B31B7ED9E3AD0F16CBE
+#EXTINF:0 audio-track="rus",Russian Musicbox
+http://langamepp.com/chtst/D13240ADC11DE0A08C64D0BCA1C10292E001749AF42E9CD2F917A3D5C0AF6FE7A25B23CFAE65
+#EXTINF:0 audio-track="rus",Russian Music Box [ru +3 NT]
+http://langamepp.com/chtst/0A566C921BB538B0D41B2287FCB8C2CE3B6558A52E8644C2A16851EE9DD6AFBB793F0FF074CD63C2A13011E988E5
+#EXTINF:0 audio-track="rus",Russian Music Box [ru HLS]
+http://langamepp.com/chtst/EA027BAB205B4CACBF1C6861DD6BF3E7DB314F9C156830DECA6F1B08BC059E92996B18C94F2317DECA74041280
+#EXTINF:0 audio-track="rus",Russian Travel Guide [ru +3 NT]
+http://langamepp.com/chtst/C1607ADD15B28DE9CDB071CA68339852F0534EEA2081F19BB8C302A3095DEC20A0161FB172C7E48DA8EB03BF4300F6269C
+#EXTINF:0 audio-track="rus",Russian Travel Guide [ru DS]
+http://langamepp.com/chtst/3613FD566E49022E666A8F43D5822B970720C9615B7A7E5C1319FC2AB4EC5FE55765983A093C6B4A0331FD36B1F176
+#EXTINF:0 audio-track="rus",Russian Travel Guide [ru LNT]
+http://langamepp.com/chtst/E2A574F75701E124B152EE1985866BBBD39640C062329D56C4219D70E4E81FC983D3119B30748840D4099C6CE9E81FE6
+#EXTINF:0 audio-track="rus",Russian Travel Guide HD [ru +3 NT]
+http://langamepp.com/chtst/99691108B21336187EC55C534787EA2AA85A253F87204A6A0BB62F3A26E99E58F81F7464D5665F7C1BAD380835F2C119F71D4C
+#EXTINF:0 audio-track="rus",Russian Travel Guide HD [ru AI]
+http://langamepp.com/chtst/2C5E21836002A71154962BDA1C9695B61D6D15B45531DB6321E558B37DF8E1C44D2844EF0777CE7531FE4F816EE3F4DF71
+#EXTINF:0 audio-track="rus",Russia Today
+http://langamepp.com/chtst/FFA7BEB2BAF4CA38B9268C00AD762AD9CE948A858FC7B64ACC55FF69CC0245BD9EDE
+#EXTINF:0 audio-track="rus",Russia Today [ru AI]
+http://langamepp.com/chtst/D54C5C354E0446A39A717DB608126C07E47F68027B373AD1EF020EDF69660363B43507473B652FFE
+#EXTINF:0 audio-track="rus",Russia Today [ru LNT]
+http://langamepp.com/chtst/B92AB9741E84ACD7AA38D858AF02318488198D432BB7D0A5DF4BAB31CE765EE0D853E2066BE8C2A3F7
+#EXTINF:0 audio-track="rus",Russia Today Doc [ru AI]
+http://langamepp.com/chtst/4E8EB99D92FF402C71BDE279CF4F80897FBD8DAAA7CC3C5E04CE9110AE3BEFED2FF7DDF2F1A4325910D4BF
+#EXTINF:0 audio-track="rus",Russia Today Doc HD [ru +3 NT]
+http://langamepp.com/chtst/793AFD98BEA96F68E247C0914AF215984809C9AF8B9A131A9734B3F82B867AFC184399F7DDC10B339032EBA2248648
+#EXTINF:0 audio-track="rus",Russia Today Doc HD [ru AI]
+http://langamepp.com/chtst/80CE3512CD753E3E3220B7026F388BE9B1FD0125F846424C4753C46B0E4CE48DE1B7517DAE1D5A654055D66B32
+#EXTINF:0 audio-track="rus",Russia Today HD [ru +3 NT]
+http://langamepp.com/chtst/7288813031F098133859A4824BB91ACB43BBB50704C3E4614D2AD7EB2ACD75AF13F1E9546A82ED380B37D0DF
+#EXTINF:0 audio-track="rus",Russia Today HD [ru AI]
+http://langamepp.com/chtst/8750DD55C51B93F83B4BFAAB838594F5B663E962F028EF8A4E3889C2E2F1FB91E629B5319E69E6995216
+#EXTINF:0 audio-track="rus",RU TV
+http://langamepp.com/chtst/0D15253E05BD523D16F6BF61B0DA2C373C261109308E2E4F6382C9
+#EXTINF:0 audio-track="rus",RuTV [ru +3 NT]
+http://langamepp.com/chtst/2A098CEF2420E7606BE10BEE669FE3731B3AB8D811139B121E957DB514EAC840447DD1
+#EXTINF:0 audio-track="rus",RU TV [ru AI]
+http://langamepp.com/chtst/B408B2B9C504F7DCFAB63DAA906AE2BA853B868EF0378BAE8FC24BF1E21F83D3E9
+#EXTINF:0 audio-track="rus",SET [ru +3 NT]
+http://langamepp.com/chtst/736EAA988E91F8F97303E7D9A2CA4D56425D9EAFBBA2848A1677BCABD7E17E380733
+#EXTINF:0 audio-track="rus",SET HD [ru +3 NT]
+http://langamepp.com/chtst/D2FF0F98030674FDBDB1A84D1B8A088FE3CC3BAF3635088ED8C5C02940F87DA4E1917BC5
+#EXTINF:0 audio-track="rus",SET HD [ru AI]
+http://langamepp.com/chtst/F8B22787431F80B6226890C432DD1A05C98113B0762CFCC5471CF8A069AF6F6491EF
+#EXTINF:0 audio-track="rus",Shop 24 [ru AI]
+http://langamepp.com/chtst/DC299DDF3011DCEDC2843ADE0E426D07ED1AA9E80522A09EAAEB4AEC3A191F72BD40C0
+#EXTINF:0 audio-track="rus",Shop 24 [ru LNT]
+http://langamepp.com/chtst/F4948E38B30EEED5767E99A95BB3AE37C5A7BA0F863D92A61E11E99B6FE8DC4298FAFA65
+#EXTINF:0 audio-track="rus",Shop and Show [ru LNT]
+http://langamepp.com/chtst/DC4B160C5CF3F91E7734FC8676698D6BED78223B69C0856D1F5B8CE7180DFE03B33C4D7E299F976A2A
+#EXTINF:0 audio-track="rus",Shopping Live
+http://langamepp.com/chtst/FD1BA3B0299185A0101E496BD1F7A3AECC2897871CA2F9D37871391BB899C4C2946DC6
+#EXTINF:0 audio-track="rus",Shopping Live [ru +3 NT]
+http://langamepp.com/chtst/42B9BA9EACB4BC24E8B9AA5E2237C920738A8EA99987C05780D6DA2E4B59AE4C2BCFDFC5DEC1971786CDF7
+#EXTINF:0 audio-track="rus",Shopping Live [ru AI]
+http://langamepp.com/chtst/526CD07BFE561B0E746479465B1CF49D635FE44CCB65677D1C0B0936327293F13B1AB5208C237A6729
+#EXTINF:0 audio-track="rus",Shopping Live [ru ZTN]
+http://langamepp.com/chtst/D6AE3B8262F8A64AB150A9D38772F3D9E79D0FB557CBDA39D93FD9A3EE1C94B5BFD85ED9108DDC3EDF0D
+#EXTINF:0 audio-track="rus",Sony Sci-Fi [ru +3 NT]
+http://langamepp.com/chtst/DFC455DD1A70EB8ED564D43081C8CE57EEF761EA2F4397FDBA0AAD43E2A1E331B69F27A8314385FA88
+#EXTINF:0 audio-track="rus",STB [ua KHR]
+http://langamepp.com/chtst/7709D9D9018024B2D0CD86583F79311E463AEDEE34B358C1A4AFDD2D5E12596C2A
+#EXTINF:0 audio-track="rus",TCL 4K UHD [ru +3 NT]
+http://langamepp.com/chtst/3D86FB57F7E6E6CC4BBAFCCC83CA23FA0CB5CF60C2D59AB828D6C8A7F6A247A14FF3D0649992BB
+#EXTINF:0 audio-track="rus",TDK [ru AI]
+http://langamepp.com/chtst/D4FCD3D57CF7884DC40EA50487D622C5E5CFE7E249C4F439A065FE76F2B74B98
+#EXTINF:0 audio-track="rus",Teletravel HD [ru +3 NT]
+http://langamepp.com/chtst/5D1E1C540402204FBD1C1B40E73E3ABB6C2D286331315C3BD8707E34955F4CDE3176780F76770B7CD36846
+#EXTINF:0 audio-track="rus",Teletravel HD [ru AI]
+http://langamepp.com/chtst/3B0D90B7051804C926A9CDAE80F073DD0A3EA480302B78BD43C5A8DAF29105B85765F4EC776D65A07B
+#EXTINF:0 audio-track="rus",Theatrical Trailer [ru +3 NT]
+http://langamepp.com/chtst/0E8F31129251624F6D7D8F54BCC90FF73FBC0525A7621E3B0518EE20CEA06C9662FB4373FB3D073D360FFA7F8FA77BAA
+#EXTINF:0 audio-track="rus",THT HD
+http://langamepp.com/chtst/D6A0AEDBB8B3A5DF5C728DDC6200B970E7939AEC8D80D9AB3406E5B8
+#EXTINF:0 audio-track="rus",TiJi [ru +3 NT]
+http://langamepp.com/chtst/8FEA83213BE570A962FFFD1EC80D159FBED9B7160ED60CDD0B959445BA783EACE19EDE
+#EXTINF:0 audio-track="rus",TiJi [ru DS]
+http://langamepp.com/chtst/ADC47A65771F44D392D1B0F4D16965619CF74E52422C38A7FBBBD9AFA31C0112F0
+#EXTINF:0 audio-track="rus",TLC [ru +3 NT]
+http://langamepp.com/chtst/54E8828FCDF3382FF2364EBB43635AF065DBB6B8F8C0445B9E5515C93648699E20B5
+#EXTINF:0 audio-track="rus",TLC [ru AI]
+http://langamepp.com/chtst/27D4559EF49A72866B227A3D8BDF9EDF16E761A9C1A90EF20741214FFEBEF782
+#EXTINF:0 audio-track="rus",TLC HD [ru +3 NT]
+http://langamepp.com/chtst/C7206F9413A7C406DD12C120751B109DF6135BA32694B872B171A9442E6965B6F44E1BC9
+#EXTINF:0 audio-track="rus",TMB [ru LNT]
+http://langamepp.com/chtst/EF663BE300AD696BCFE4A85BC3463A8BDE550FD4359E151FA286F329B62A54FFB2
+#EXTINF:0 audio-track="rus",TMB RU [ru +3 NT]
+http://langamepp.com/chtst/67A91F7A51E3802EF5414F6B5C5F084C569A2B4D64D0FC5A98233D1E072D7D6754C76B27
+#EXTINF:0 audio-track="rus",Top shop TV
+http://langamepp.com/chtst/C5432FC5F19931C07DD91B402056CB87F4701BF2C4AA4DB412A968284F26BFF1
+#EXTINF:0 audio-track="rus",Top Shop TV [ru +3 NT]
+http://langamepp.com/chtst/FFEB0150CE827FC4C3CE2F202D376CF3CED83567FBB103B0ACBE5C4842471885A499747BFDEC0B99
+#EXTINF:0 audio-track="rus",TOP Shop TV [ru LNT]
+http://langamepp.com/chtst/7A9BB86B34E92CB1C347F2E39DBD6A9D4BA88C5C01DA50C5AC37818BF2CD1EEB21E9CD075A9D71
+#EXTINF:0 audio-track="rus",TopShop TV [ru ZTN]
+http://langamepp.com/chtst/A86BED77ED6C3BB13A6AD168A13D5B1B9958D940D85F47C5551AA200CE4D2F6DF319980D990266
+#EXTINF:0 audio-track="rus",Travel+ Adventure [ru +3 NT]
+http://langamepp.com/chtst/D813870DFDB3BEC0FAB0A3986E0D3516E920B33AC880C2B488D1D5FD02265472AE76E97988C1DB9B88C588AB007968
+#EXTINF:0 audio-track="rus",Travel+ Adventure HD [ru +3 NT]
+http://langamepp.com/chtst/78228D668FC817C932E831D3258CEFFD4911B951BAFB6BBD408947B649A78E990E47E312FABA72A156B343A60EBF818925
+#EXTINF:0 audio-track="rus",TV1000
+http://langamepp.com/chtst/A0760A9D29C95D237900BBE70DF0FE8591453EAA1CFA21570F318BD73D
+#EXTINF:0 audio-track="rus",TV1000 Action [ru +3 NT]
+http://langamepp.com/chtst/138BEBA254026B86EA9D5A0F29490DC922B8DF95613117F29CAC6A3F19286EBD7AE485F9267740B584E907
+#EXTINF:0 audio-track="rus",TV1000 Action East [ua KHR]
+http://langamepp.com/chtst/BF1766E8E0C30B5AC3C741D0B73F56CA8E2452DFD5F0772EB5F671E0875E35BED678088D81B07F01B6A62AB8C562
+#EXTINF:0 audio-track="rus",TV1000 Русское Кино [ru +3 NT]
+http://langamepp.com/chtst/CB416C1F44D8A52E75FF3E9E484B6807FA72582871EBD95A03CE0EAE789AE8D64890EDCEC5081FFECB2F8B4EF29BD0D77691D24436AD8E1D1B8B63
+#EXTINF:0 audio-track="rus",TV HD [ru ZTN]
+http://langamepp.com/chtst/62CEEF4392FB9D55C2DE26791E7C44E953FDDB74A7C8E121B4B642226C093E9D0C93
+#EXTINF:0 audio-track="rus",TVM Channel [ru LNT]
+http://langamepp.com/chtst/BDB0080188AD30FDAD6E9CF5B904FD1B8C833C36BD9E4C89DB03FF9DD86A937ED1EB7A74E4C344A0
+#EXTINF:0 audio-track="rus",TV Sale [ru AI]
+http://langamepp.com/chtst/D2EC5E64E7FBBAA9DAE023F85C67E119E3DF6A53D2C8C6DDAC934294393C936CB38503
+#EXTINF:0 audio-track="rus",UA:Перший [ua KHR]
+http://langamepp.com/chtst/17E91BA0964B9D43B93939723D368D1026DA2F97A378E136D803E9CDED835C90C661CB1846F2C636D852510060
+#EXTINF:0 audio-track="rus",Unb. [ru AI]
+http://langamepp.com/chtst/22EC740AE72EB3C10ED6B96A3D9A845513DF403DD21DCFB460B497314FEFE53C7F
+#EXTINF:0 audio-track="rus",VH1
+http://langamepp.com/chtst/839FF51AEA925DA3CC961509CCA219EFB2ACC12DDFA121D5A4A7
+#EXTINF:0 audio-track="rus",VH1 Classic
+http://langamepp.com/chtst/8E8EF976BCAC37CB83F135C08BB9150FBFBDCD41899F4BBDEBC056ACEACA6666ED
+#EXTINF:0 audio-track="rus",VH1 Classic [ru +3 NT]
+http://langamepp.com/chtst/580A29429D86E5691DFA72E99D8CD82B69391D75A8B5991F75CB1185FCFFAB423B515B37B6B58B1D40
+#EXTINF:0 audio-track="rus",VH1 Classic [ru DS]
+http://langamepp.com/chtst/1AD1A1D67ED9A101CAD7C15590D764E92BE295E14BEADD77A2E6A239F1A41780798AD3A31AAAFC
+#EXTINF:0 audio-track="rus",Viasat Explore
+http://langamepp.com/chtst/E18D2B7E1411E7310B5A1AA8E6F3D400D0BE1F4921229B47623B69C99296AC708DE2591B
+#EXTINF:0 audio-track="rus",Viasat History
+http://langamepp.com/chtst/C475D6424E7843184F056EDFDCD2C8BDF546E2757B4B3F6E26641DBEA8BAA1CEB01AA43B
+#EXTINF:0 audio-track="rus",Viasat Sport
+http://langamepp.com/chtst/60F43C740523A5107DBFB963B28D637751C708433010D96614DECA02C6FE13181280
+#EXTINF:0 audio-track="rus",World Business Channel [ru AI]
+http://langamepp.com/chtst/023AB951B2FD690102D7E0DEAAA99B0A33098D6687CE15766DA58CBAC8DCE8636C5FCA22D195086F6CB28C85D8DCFA635F
+#EXTINF:0 audio-track="rus",World Fashion Channel
+http://langamepp.com/chtst/9DD77EA2FB23B278E26BDC95F83F0CFBACE44A95CE10CE0F8D19B0F19E5E7F93F4B810C19342DC168707
+#EXTINF:0 audio-track="rus",XXI
+http://langamepp.com/chtst/79C54C2BC2B52CC48D0DA237B63E415348F6781CF78650BCF564
+#EXTINF:0 audio-track="rus",XXI [ru +3 NT]
+http://langamepp.com/chtst/15BFF510E2A789C41365590BA465061E248CC127D794F5BC6B0C0279D14E357061E2
+#EXTINF:0 audio-track="rus",XXI [ru AI]
+http://langamepp.com/chtst/2B5249ED0876B2958354CC39920D8CA81A617DDA3D45CEEDFB3D974BE76CE5F5
+#EXTINF:0 audio-track="rus",XXI [ru DS]
+http://langamepp.com/chtst/CC81B8AE2841723BA6CC474B314D695CFDB28C991D720E43DEA51C3944291A01
+#EXTINF:0 audio-track="rus",Zee Russia
+http://langamepp.com/chtst/A0B24AA828FC3DAB5009E4E316708BE291817E9F1DCF41D1356C96966503E283
+#EXTINF:0 audio-track="rus",Zoo [ru +3 NT]
+http://langamepp.com/chtst/F143901A8502552BCE9C7600EADF5C8AC070A42DB0312951A1F32D729FF46FE4851E
+#EXTINF:0 audio-track="rus",Zoo [ru DS]
+http://langamepp.com/chtst/92A632BAA26F66F3784AD68EBB6170ACA395068D975C1A8917258DFCCE0503F1
+#EXTINF:0 audio-track="rus",ZooПарк
+http://langamepp.com/chtst/A400C629021C55D1B8CBD1A2AB2D2C3D9533F21E372F29ABD7A4011D7B9DFDBD74BA
+#EXTINF:0 audio-track="rus",Zoo Парк [ru +3 NT]
+http://langamepp.com/chtst/D45EF776CD5D6945A83FD363A0430F45E56DC341F86E153FC75003DC70F3DEC504E4AC04B8765A2BDC62
+#EXTINF:0 audio-track="rus",Zoo Парк [ru AI]
+http://langamepp.com/chtst/43D66E46F2C317AA8FE84D3A157977E972E55A71C7F06BD0E0879D85C5C9A669936C353487A27EF7
+#EXTINF:0 audio-track="rus",аTV
+http://langamepp.com/chtst/D86E60A5CCC9EB7409BED7A902E6EE45E95D5492F9FA97A4B9CAA1
+#EXTINF:0 audio-track="rus",Авто 24 [ru +3 NT]
+http://langamepp.com/chtst/BC5D8BAE20A259AF8AA6E9A01F6089F78D6EBF991591257F3A765B719DB037C58806F9DB0B9137DBD7
+#EXTINF:0 audio-track="rus",Авто 24 [ru AI]
+http://langamepp.com/chtst/CFE99D9BB3880FBC46E66548CC548E89FEDAA9AC86BB736CF636D7994E8430BBFBB2EFEED2E152
+#EXTINF:0 audio-track="rus",Авто 24 [ru DS]
+http://langamepp.com/chtst/B11937D1BC908146366AE656CB704D9A802A03E689A3FD9686BA548749A0F3A8854245A4D8E3DC
+#EXTINF:0 audio-track="rus",Авто 24 [ru LNT]
+http://langamepp.com/chtst/59EA350C7244C8B92A2E01F6828F7F3368D9013B4777B4699AFEB327005FC1016DB147791E2ABCE4
+#EXTINF:0 audio-track="rus",Авто плюс [ru +3 NT]
+http://langamepp.com/chtst/A9B704654785AB7EF092D4BB0221555B9884305272B6D7AE4042666A80F1EB8B1667BFB4C9542A2582E7FF886C5508
+#EXTINF:0 audio-track="rus",Авто плюс [ru AI]
+http://langamepp.com/chtst/0C8A687ECE3037F85E39EEE0C86E13713DB95C49FB034B28EEE95C314ABEADA1B35AD3AF40E1B6A32C4C8F8995
+#EXTINF:0 audio-track="rus",АИСТ
+http://langamepp.com/chtst/2518D66C9D82EA8D14BE4816E09D71EC142BE25BA8B1965DA46EF0C7614CF3
+#EXTINF:0 audio-track="rus",Аист [ru BK]
+http://langamepp.com/chtst/27D96AF50AA2ED68DBDC49A34A5C156F16EA5EC23F9191B86B0CF172CB8D973455AC089E57
+#EXTINF:0 audio-track="rus",Академгородок [ru +3 NT]
+http://langamepp.com/chtst/74EBDB126DC69F8184E89764850950AD45D8EF2558F5E35134382DB435D9E47DC13B67C2DE162150043829B431D9EE7DCEB0A96746F5F1F5D9
+#EXTINF:0 audio-track="rus",Актис
+http://langamepp.com/chtst/E2BBA2EC5D9055386C9EDBB6FAF0256FD38896DB68A329E8DC4E616778209DBE63
+#EXTINF:0 audio-track="rus",Архыз 24 [ru HLS]
+http://langamepp.com/chtst/DC008149C620CB4B0862AF8E6B003B4EED33B57EF313B79BB8B32F5FEED1B09E6B32B512B455A3277B3F
+#EXTINF:0 audio-track="rus",Афонтово
+http://langamepp.com/chtst/BBDD3A186D8F50D92D2B8F281CB497F88AEE0E2F58BC2C099DFA0BF8A2642A29390D84C8DF5FEE
+#EXTINF:0 audio-track="rus",Беларусь 24 [ru +3 NT]
+http://langamepp.com/chtst/B518417B380CC6416F76CFDA760A2831842B754C0D3FBA91DEA67A0ACDDA98E035C9C2AAB9DD4A735B2DBDAF5D394645E8
+#EXTINF:0 audio-track="rus",Беларусь 24 [ru DS]
+http://langamepp.com/chtst/E7634955F2992E20C4BE48E072DFD827D6507D62C7AA52F0756EFD30C90F68F667B2CA847348A212F0E53A9516AC85
+#EXTINF:0 audio-track="rus",Бобер [ru +3 NT]
+http://langamepp.com/chtst/F71AA32F26697095DF3F705549988631C6299718135A0C456EEFCE85F84833E07741D15A0D5A1EE182
+#EXTINF:0 audio-track="rus",Бобер [ru LNT]
+http://langamepp.com/chtst/FBCF86EE68B40E2D72560DE535E60C2CCAFCB2D95D8772FDC386B3358436B9FD7B94F49B04DA7A70
+#EXTINF:0 audio-track="rus",боец [ru +3 NT]
+http://langamepp.com/chtst/00AF5B2619CCBCF80B2C4E55C4D486C0319C6F112CFFC028BAFCF0857105009B72DA701577B8E1
+#EXTINF:0 audio-track="rus",Бокс [ru DS]
+http://langamepp.com/chtst/A40CAE0CC0BC3933124718472D24732D953F9A3BF58F45E3A397A69797F5F276D679CA7F9D
+#EXTINF:0 audio-track="rus",Бокс ТВ [ru +3 NT]
+http://langamepp.com/chtst/D4CE53ED9A0FE5A63B33FB000881C0ACE5FD67DAAF3C99768AE345D0B250417D561EE1B6E87ACE955547A6
+#EXTINF:0 audio-track="rus",БСТ [ru +3 NT]
+http://langamepp.com/chtst/8D6EB84D2AF2803C39988366BDF69391BC5D8C7A1FC1FCEC884902B73FADE1E4A65DD63977
+#EXTINF:0 audio-track="rus",Ваш Успех [ru DS]
+http://langamepp.com/chtst/C4E67E5FF66305319700319F81F14B0EF5D54A68C35079E125D0814E0920C8DF4536C18F43B2806AE57555ECDC
+#EXTINF:0 audio-track="rus",Вести ФМ [ru +3 NT]
+http://langamepp.com/chtst/5F035B89F5DCC52E744894313E27C2036E306FBEC0EFB9FEC69821E0BFF640D3E7D2DF594987B75B5F7BFA4563
+#EXTINF:0 audio-track="rus",Время [ru +3 NT]
+http://langamepp.com/chtst/0E406204A467353B6767DAE85825F6B83F735633915449EBD5B65A38EDF54A69811B10718F545B4F3A
+#EXTINF:0 audio-track="rus",Время [ru AI]
+http://langamepp.com/chtst/2851411E2D074CA24FE1D38E089691161962752918343072FD30535EBD462DC7A70A336B4C6E11
+#EXTINF:0 audio-track="rus",Время [ru DS]
+http://langamepp.com/chtst/D6F31A7A5A50B5C1B78FA90FB49FC7DDE7C02E4D6F63C911055E29DF014F7B0C59A8680F3E23E8
+#EXTINF:0 audio-track="rus",Время [ru LNT]
+http://langamepp.com/chtst/F009FB1E1047C05F2893ED31297E4700C13ACF292574BC8F9A426DE19CAEFBD17F52896B7C29B402
+#EXTINF:0 audio-track="rus",Всё ТВ
+http://langamepp.com/chtst/71627ACBB2308C69BF357874D44051C540514EFC8703F0B90DE4F9A54591D315C3
+#EXTINF:0 audio-track="rus",ГИС Самара [ru AI]
+http://langamepp.com/chtst/494CE35993A3B8BC36A6ED6024346096787FD76EA690C46C857655B1A5E5E146F99C5F892372386C86FD9F15455D3D
+#EXTINF:0 audio-track="rus",Губерния (Самара) [ru HLS]
+http://langamepp.com/chtst/96DA61480AEEB1CA232A3EF86A8FBDB3A7E9557F3FDDCD1A90FBBD28DB5F0862160ADC98B23F3EE2F2ABEE48BA336D03475AB1F823B5C3BF4B464DA5
+#EXTINF:0 audio-track="rus",Губерния [ru AI]
+http://langamepp.com/chtst/DBA00C6E43C42A796A17D98F4C3925E2EA93385976F756A9D9C65A5FFDE990335B70B1BEFB15A5221862B8E611
+#EXTINF:0 audio-track="rus",Губерния [ru DS]
+http://langamepp.com/chtst/14862B1E74DCE89806269070B54D239025B51F2941EF9448B5F713A0049D9641945696CECC0D67C37453F403E8
+#EXTINF:0 audio-track="rus",Детский
+http://langamepp.com/chtst/ED2FFF30F429A95E4183ED8DBC126FD0DC1CCB07C11AD58EF553585C3EC3EE0057FF47E04D
+#EXTINF:0 audio-track="rus",Детский [ru +3 NT]
+http://langamepp.com/chtst/999AEF0D77D7A57DFE35EEB38211446FA8A9DB3A42E4D9AD4AE55B6200C0C5BF234A57DDCE8CD708D50680C7DF
+#EXTINF:0 audio-track="rus",Детский [ru AI]
+http://langamepp.com/chtst/41439F356C4993ADCC813A8893AA592C7070AB02597AEF7D78518F59117BD8FCFB9327E5D512E1D8ADE867
+#EXTINF:0 audio-track="rus",Детский [ru DS]
+http://langamepp.com/chtst/44483ABB1FDF391D1527D19738150779757B0E8C2AEC45CDA1F76446BAC486A9FE98826BA6844B6871548C
+#EXTINF:0 audio-track="rus",Детский [ru LNT]
+http://langamepp.com/chtst/58A6AEC4EF4272BBC3AC4456569D839B69959AF3DA710E6B777CF187D44C024BE2761614561900CEAFC2300B
+#EXTINF:0 audio-track="rus",Детский мир [ru +3 NT]
+http://langamepp.com/chtst/E5BD56049C8F22B1B6F349EF08506860D48E6233A9BC5E610223FC3E8A81E9B05F6DEED4255F9E610E22C9B47A2543538BC90B
+#EXTINF:0 audio-track="rus",Диалоги о рыбалке HD
+http://langamepp.com/chtst/F61724E65996A11C43E5729982F53467C72410D16CA5DDCCF735CA4932258FB748C79736E1461FCDC334F949332584B74DC79E36ECFEC5
+#EXTINF:0 audio-track="rus",Домашний
+http://langamepp.com/chtst/B28B6C4F1A8E00D18149C0899928E99083B858782FBD7C0135997E5925F859413A5BD19FA25EB9
+#EXTINF:0 audio-track="rus",Домашний +3
+http://langamepp.com/chtst/3F0D7698A417B4E7FD27807F1CB5E7CF0E3E42AF9124C83749F73EAFA065571EB7DDCB481CC70DCCCE
+#EXTINF:0 audio-track="rus",Домашний +5
+http://langamepp.com/chtst/40531E5AE11E2B6268EBEB0114D4915371602A6DD42D57B2DC3B55D1A8042182C883A38A59CE92495D
+#EXTINF:0 audio-track="rus",Домашний [ru +3 NT]
+http://langamepp.com/chtst/E107EC851FA06C1CC7ED9BE4A282B3E2D034D8B22A9310CC733D25341E52033369D75155A770D547B598B0D7CCF6EE
+#EXTINF:0 audio-track="rus",Домашний [ru AI]
+http://langamepp.com/chtst/D5D13CB6EF68185753035967D7EABBB9E4E20881DA5B6487E7D3E7B76B3A0B685D01816657B8A10C2176380E8A
+#EXTINF:0 audio-track="rus",Домашний [ru DS]
+http://langamepp.com/chtst/F2A73E1147AB2D0F98C8F33A4BA61C20C3940A26729851DF2C184DEAF776ACF17A7783C1FF7B9454EABD974916
+#EXTINF:0 audio-track="rus",Домашний [ru LNT]
+http://langamepp.com/chtst/7758D766C0EFBE14F3177BCA013683F3466BE351F5DCC2C447C7C51ABDE63322FF886AB6783F074F816217A4756B
+#EXTINF:0 audio-track="rus",Домашний [ru ZTN]
+http://langamepp.com/chtst/DDC204256D313405FA273F45CD5B6544ECF13012580248D54EF78195718BD5955512B9F5D5E18D5E88524531A306
+#EXTINF:0 audio-track="rus",Домашний_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/B33CAA742C68881F7F03E9813A6D7417820F9E43195BF4CFCBD3575186BDC4C63BEC17A494B83140525C9AF14E1E2B3AECEC12A5ACB832CEFCD26B50BBBDCE
+#EXTINF:0 audio-track="rus",Домашний  АС Байкал (Братск)
+http://langamepp.com/chtst/2F793C9CAA70A1A497E0E9643B4FA8EE1E4A08AB9F43DD74233057B4879F183FA7A9814C12A01874273168B48A9F183E96A9864C1AA01A8C475138E4EBFF796CFEF8EC2683
+#EXTINF:0 audio-track="rus",Домашний магазин [ru AI]
+http://langamepp.com/chtst/8B5362B7BBEAD63BEEC0BC282D303F5CBA6056808ED9AAEB5A1002F891E08F8D0383DF67033A6FEB52100CF89EE08F8C3C83DA6706B1A44E8FA9E1
+#EXTINF:0 audio-track="rus",Дом кино [ru +3 NT]
+http://langamepp.com/chtst/A97CF854EC99F88479E2E8B43191A2BC984FCC63D9AA8454CD3256648D41186C11AC458452C28AF152D186C06C
+#EXTINF:0 audio-track="rus",Дом кино [ru AI]
+http://langamepp.com/chtst/E405749FEF4ADADD0A960537C7459370D53640A8DA79A60DBE46BBE77B9529A05CD5C94F5111A8A86BFF58
+#EXTINF:0 audio-track="rus",Дом Кино [ru DS]
+http://langamepp.com/chtst/C18BC4AD24BD319D9F1A51D0ABF48C8FF0B8F09A118E4D4D2BCAEF001724365F795B797D9AE643E8FB690C
+#EXTINF:0 audio-track="rus",Дом кино [ru LNT]
+http://langamepp.com/chtst/F9002EE84B09C6559FCB8D661020D7D1C8331ADF7E3ABA852B1B33B6ACF06D0141D09338F552B420F3A5F93B
+#EXTINF:0 audio-track="rus",ДОМ КИНО ПРЕМИУМ HD [ru +3 NT]
+http://langamepp.com/chtst/AC9B7FD058B06EF7CABFC775B35404AC9DA84BE76D8312277E6F79A50F84BE7C144BC200E660D1264A6F72A50F84BC7D2F4BC3B83CEB1C82E18CA901EE
+#EXTINF:0 audio-track="rus",Драйв
+http://langamepp.com/chtst/5433959F3C5BF5DB26824237A219084E6500A1A80968890B9253C2E712C9B19EE6
+#EXTINF:0 audio-track="rus",Драйв [ru +3 NT]
+http://langamepp.com/chtst/B4871F0D388D04024CCC7800207CAC7485B42B3A0DBE78D2F81DF8D090AC15A406DC6D7813BE6A7611
+#EXTINF:0 audio-track="rus",Драйв [ru DS]
+http://langamepp.com/chtst/AF4114EB9C09C7C38B09FA2D22027CD69E7220DCA93ABB133FD87AFD92D2C5061D1A669EF87A9A
+#EXTINF:0 audio-track="rus",Драйв [ru LNT]
+http://langamepp.com/chtst/8A9BE3C228E8C474B43C74D4B9214868BBA8D7F51DDBB8A400EDF40409F1F1B838C091B74486B029
+#EXTINF:0 audio-track="rus",Еврокино [ru +3 NT]
+http://langamepp.com/chtst/625C54FF651BC2F024BC1E46BE9A1C48536F60C85028BE20916CAC973E4AA298D88CEC2FD8CB7CAB56C93575D0EE41
+#EXTINF:0 audio-track="rus",Еврокино [ru AI]
+http://langamepp.com/chtst/35000A5DE8CFD19C0B4670C467B82DC904333E6ADDFCAD4CBE96C215E76893198FD0B28D551F6FC7793311AD3A
+#EXTINF:0 audio-track="rus",Еврокино [ru DS]
+http://langamepp.com/chtst/1581C87A9C8A6BC04689060523224D5824B2FC4DA9B91710F359B4D4A3F2F388AF5170AA215AD59B34FC62767E
+#EXTINF:0 audio-track="rus",ЕГЭ [ru LNT]
+http://langamepp.com/chtst/2258B50A2786A632CC16F733CF24FDE4136B813D12B5DAE279C644E2427F8F914E36C157
+#EXTINF:0 audio-track="rus",Еда HD [ru +3 NT]
+http://langamepp.com/chtst/A5C55E4150C9019652079B7529E9CD4C94F66A7665FA7D46E7D72FA59981A917D7B075723EBD5C
+#EXTINF:0 audio-track="rus",Еда HD [ru AI]
+http://langamepp.com/chtst/4182566809FD9AD5139109E2B506C65A70B1625F3CCEE605A641BD32056EA20133F7370154
+#EXTINF:0 audio-track="rus",Енисей
+http://langamepp.com/chtst/CB259B1BEE9CB241A34DB6CD36841977FA16AF2CDBAFCE91169D0B1D8E5598A77EF522
+#EXTINF:0 audio-track="rus",ЖАРА [ru ZTN]
+http://langamepp.com/chtst/066FDF0F6C7AE5800BEE62C1F4291BBF375CEB3859499950BD3ED21074F9ABE4741AA57B0227
+#EXTINF:0 audio-track="rus",Живая Планета [ru +3 NT]
+http://langamepp.com/chtst/4EB7DB3C538D7DF7DA34C411B8DD88BE7F84EF0B66BE01276CE47CC10A0D386FC16764ECE85DCD2767E471C03A0D38E53CC2F00F3DF920
+#EXTINF:0 audio-track="rus",Живи! [ru +3 NT]
+http://langamepp.com/chtst/4C68CEB9E2B339EDA19BAE95C4CA54127D5BFA8ED780453D174B1645761AEC33171ABB92D1DD4DB0
+#EXTINF:0 audio-track="rus",Живи! [ru DS]
+http://langamepp.com/chtst/812F4FD4BCCCCB97008FA8B86C3077B9B01C7BE389FFB747B65F1068DEE0CF98DA5D3AB0CF91
+#EXTINF:0 audio-track="rus",Загородная Жизнь [ru +3 NT]
+http://langamepp.com/chtst/9845727AF8AB689946162E0BE0821D61A976464DCD981449F1C69EDB5352A3B01895CCAA4C7BD549F6C7A1DB5652A5B12F95CFAB74F01AEC6D25407FBD
+#EXTINF:0 audio-track="rus",Звезда
+http://langamepp.com/chtst/B26C366E3901053991ADF2FDDE69B676835F02590C3279E9267D402D6BB901A606BC86
+#EXTINF:0 audio-track="rus",Звезда (+4)
+http://langamepp.com/chtst/AE28F1A6D3593F1A6F6D2550EF42B1A19F1BC591E66A43CAD8BD97805A9206711AF8418EF86D16
+#EXTINF:0 audio-track="rus",Звезда +3
+http://langamepp.com/chtst/AFE710E8E915217AC31377A17C2E172A9ED424DFDC265DAA74C3C571C9FEA0FA1B37A0C3DA
+#EXTINF:0 audio-track="rus",Звезда [ru +3 NT]
+http://langamepp.com/chtst/5608D02A610F44D17C69216CABD20D5A673BE41D543C3801CBB993BC1E02BA8AE2D86071137A6FE2121D7C
+#EXTINF:0 audio-track="rus",Звезда [ru AI]
+http://langamepp.com/chtst/BA1D42A333641DF6779497F4C2AE1E198B2E769406576126C0442524777EA9C90ECDF2F841117C9F2A
+#EXTINF:0 audio-track="rus",Звезда [ru DS]
+http://langamepp.com/chtst/B7EF4318FE87E97BF00AE79BDDF4F69786DC772FCBB495AB47DA554B68244147033FF3438CF28D08AD
+#EXTINF:0 audio-track="rus",Звезда [ru LNT]
+http://langamepp.com/chtst/12383A459C573B14EBD208AE8026C737230B0E72A96447C45C02BA7E35F670E7A6E88A1EEE22577A9F8F
+#EXTINF:0 audio-track="rus",Звезда [ru ZTN]
+http://langamepp.com/chtst/150A501491398F8144761C216A12B87C24396423A40AF351F3A6AEF1DFC20FACA1DAE04FE34CF5F52A2B
+#EXTINF:0 audio-track="rus",Звезда_-_MPTS_-_Ангарск
+http://langamepp.com/chtst/4BF2C1E749FCFB34CE03E24F2AA9863F7AC1F5D07CCF87E479D3509F9F7931EFFF2271B864A39644BA70BD62757936EFF6227237F92D7BE54FD358
+#EXTINF:0 audio-track="rus",Звезда_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/B3D6534410E2C55458E275C3F42D3F3F82E5677325D1B984EF32C71341FD88EF0706E31B3DBDB6242C912AEEABFD87EE3306E99593334785D932CF
+#EXTINF:0 audio-track="rus",Здоровое ТВ
+http://langamepp.com/chtst/1F012768FD229CCC267F1B5028A18FDC2E32135FC811E01C91AFAF8096700F0CA1D195B843F2291DA4AFA9
+#EXTINF:0 audio-track="rus",Здоровое ТВ [ru DS]
+http://langamepp.com/chtst/78E32088C5E6DC1EC851E1BC7E20FC9D49D014BFF0D5A0CE7F81556CC0F17C4DC63392587B3669CF4A8153E70C5598EE25
+#EXTINF:0 audio-track="rus",Иллюзион+ [ru +3 NT]
+http://langamepp.com/chtst/2123051F45A1EB6B2006BB49A74B251F10103128709297BB98D600991C9AABCF96F3BDCFFB7156407B74CE6294255142
+#EXTINF:0 audio-track="rus",Иллюзион+ [ru AI]
+http://langamepp.com/chtst/2E45A7F32B8311F3D4F2B05213ACEF341F7693C41EB06D236C220B82A87D61E499951F239553ACD88F80C5337AF1
+#EXTINF:0 audio-track="rus",Иллюзион + [ru DS]
+http://langamepp.com/chtst/CFF45314963E80B6443BFFEC86240BB4FEC76723A30DFC66FCEB443C3DF585647824EBC428EE3D9D1F498A88F579
+#EXTINF:0 audio-track="rus",Ингушетия ТВ [ru HLS]
+http://langamepp.com/chtst/6AB3A89536B9890BAC395DBFE54DF3B45B809CA2038AF5DB14E9E06F569C7065E2631D44B46931DA23E8DF6F571681C102DFDBC8
+#EXTINF:0 audio-track="rus",Индия ТВ [ru +3 NT]
+http://langamepp.com/chtst/4147C8D785488ECA848DB60AB2C1BF1C7074FCE0B07BF21A3C5D0BDA061107CDCE964A073713FCBFAFBED87EEF
+#EXTINF:0 audio-track="rus",Индия ТВ [ru AI]
+http://langamepp.com/chtst/7467B1AB203AB6CC73138B58607F0CA24554859C1509CA1CCBC33688D4AFB473FBB6337B9261C4B9127AD6
+#EXTINF:0 audio-track="rus",Индия ТВ [ru LNT]
+http://langamepp.com/chtst/C6D5794B1D0715A195CBAC478D6B6301F7E64D7C283469712D1B119739BBDBD04904FB9BAF5C67D4F9A5D81A
+#EXTINF:0 audio-track="rus",История [ru +3 NT]
+http://langamepp.com/chtst/D214ACF24F62BFC2764A1BD6C927788FE32798C57A51C312CE9B9A074BF7C65E52C41423C039CDB75D7975A294
+#EXTINF:0 audio-track="rus",История [ru AI]
+http://langamepp.com/chtst/FCF2DB1AF9F0BB8EBC67D549D2384AA4CDC1EF2DCCC3C75E04B6549850E8F4757C2263CB76ABC9FBDD0E88
+#EXTINF:0 audio-track="rus",История [ru LNT]
+http://langamepp.com/chtst/4DF7979C59565ECFA079A66AA11EF99D7CC4A3AB6C65221F18A827BB23CE474CCD272F4DD60D2CBACC17D237
+#EXTINF:0 audio-track="rus",Калейдоскоп ТВ [ru +3 NT]
+http://langamepp.com/chtst/10D4B70AC5739881DA6ECAADA61451F321E7833DF040E45160BE7A7D1DC4E423A90403DA7BA2195160BE747D19C5D323A28FC57FEE40F6F587
+#EXTINF:0 audio-track="rus",Калейдоскоп ТВ [ru DS]
+http://langamepp.com/chtst/0BE88F653EEE34DF67DA4908F942A6093ADBBB520BDD480FDD0AF9D8429213D9B2383BB5803FB50FDD0AF7D8469324D9B9B3FD105A9D69
+#EXTINF:0 audio-track="rus",Канал Disney
+http://langamepp.com/chtst/175D13DCD0AC5DAB1A2758C03BA9B447266E27EBE59F217BA0F7E81086790497AC397AAFBEC924
+#EXTINF:0 audio-track="rus",Канал Disney [ru +3 NT]
+http://langamepp.com/chtst/9243ACD031E0AF99BBF8A1B43B47BD52A37098E704D3D3490128116486970D822927C5A35F85D6C2C98D8A875533E0
+#EXTINF:0 audio-track="rus",Канал Disney [ru AI]
+http://langamepp.com/chtst/A5D12E757D8B2097B27857ED220B34B494E21A4248B85C4708A8E73D9FDB84641EB5470613EE59CCC00D36847F
+#EXTINF:0 audio-track="rus",Канал Disney [ru DS]
+http://langamepp.com/chtst/4FE08480C134197C2CBB306702EDB9A77ED3B0B7F40765AC966B80B7BF3D0977F484EDF3AF5160275ECE54145F
+#EXTINF:0 audio-track="rus",Канал Disney [ru LNT]
+http://langamepp.com/chtst/BEE71D3B723DD224B62A12D835468C848FD4290C470EAEF40CFAA20888963C54058374481C58AB7FC45F7EB6411B
+#EXTINF:0 audio-track="rus",Канал Disney [ru ZTN]
+http://langamepp.com/chtst/271005E8441E6471D994D8DC81928340162331DF712D18A16344680C3C4233909C746C9B2A7B1D2AABE1A2A8EFCF
+#EXTINF:0 audio-track="rus",Карусель
+http://langamepp.com/chtst/79A07BECDE4E109478226CAD69F8329048934FDBEB7D6C44C2F2DC7CE929B141F870CE3C659F9C
+#EXTINF:0 audio-track="rus",Карусель (+4)
+http://langamepp.com/chtst/0837784D55DCBE2F70960BF1288E31A239044C7A60EFC2FFCA46BB20A85FB27389E7CD9DEE0D32075BA222
+#EXTINF:0 audio-track="rus",Карусель +0 [ru DS]
+http://langamepp.com/chtst/2FAD8E0DFB9EA173C10D202A0552BA0D1E9EBA3ACEADDDA37BDD90FB858339DCAE7D3BDD404F2D58F156525F6121E7
+#EXTINF:0 audio-track="rus",Карусель +3
+http://langamepp.com/chtst/89325ADF0E180E7EAF196FD7A7A179D6B8016EE83B2B72AE15C9DF062770FA0708E2EF0FB5C982559C
+#EXTINF:0 audio-track="rus",Карусель [ru +3 NT]
+http://langamepp.com/chtst/4E07E349A684BC6791DC91962F4BA4B87F34D77E93B7C0B72B0C2147AF9A2769CFD756991D55303CE3A9BAA5413FF9
+#EXTINF:0 audio-track="rus",Карусель [ru AI]
+http://langamepp.com/chtst/7DFE978B17A509C6BE789D6619173C674CCDA3BC2296751604A82DB799C6BFB6FC2E225BAC74859DCC0DFC0F44
+#EXTINF:0 audio-track="rus",Карусель [ru LNT]
+http://langamepp.com/chtst/1E20B0C4A46C2B3649BCCC78077030842F1384F3915F57E6F36C7CA987A1B3559FF005141FBDA76D3BC9A016732D
+#EXTINF:0 audio-track="rus",Карусель [ru ZTN]
+http://langamepp.com/chtst/6FC80F866D184C2C91E992AA00CE121F5EFB3BB1582B30FC2B39227B801F91CEEE18BA56D6C9C077E39CE8DE6E93
+#EXTINF:0 audio-track="rus",Карусель_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/EEC2E3932F0FC978CB95F0D306205775DFF1D7A41A3CB5A87145400286F1D4A46F12564394DE4527E6CA83A372530858B1125B42AFDF73A94844720287F0ED
+#EXTINF:0 audio-track="rus",Кемерово
+http://langamepp.com/chtst/E867FB567F4782103014BB31E2CD50D1D954CF614A74FEC08AC40EE15E1DE50068B74586CD973C
+#EXTINF:0 audio-track="rus",Киiв TV [ru HLS]
+http://langamepp.com/chtst/8F3364BE422D360EC226E1C847383D2FBE005089771E4ADE78F659A1978A4959D44111D62E5E6B
+#EXTINF:0 audio-track="rus",Киномикс [ru DS]
+http://langamepp.com/chtst/9F38851F7F072FB01BEAE1FEB731CF47AE0BB1284A345360A13A592E0AE1719723E83DCFC5D6AEEB699F858DEA
+#EXTINF:0 audio-track="rus",Кинопоказ [ru +3 NT]
+http://langamepp.com/chtst/643305A7603CB5226296EBA9CE28D96E55003190550FC9F2D846537973F867BEDBE3BB77DAEC05F2D5CD99DCE51BB71A39
+#EXTINF:0 audio-track="rus",Кинопоказ [ru AI]
+http://langamepp.com/chtst/615E8DE066BC9081A7717F5EA24EA507506DB9D7538FEC511DA1C78E1F9E1BD7DE8E3330DC6C2051102A0D2BC327F8
+#EXTINF:0 audio-track="rus",Кино ТВ [ru +3 NT]
+http://langamepp.com/chtst/81ABAEE1E7630449F9EFF3C717CC3578B0989AD6D2507899433F4B17AA1C8BA9037B1CBA95162F7A979BAE
+#EXTINF:0 audio-track="rus",Кино ТВ [ru AI]
+http://langamepp.com/chtst/2AC259907FE912265B9184FDE02A04611BF16DA74ADA6EF6E1413C2D5DFABAB0A812EBCB0D9C734F06
+#EXTINF:0 audio-track="rus",Кино ТВ [ru DS]
+http://langamepp.com/chtst/D5B243BC1547050E36F8D64DC40BC6EFE481778B207479DE8C286E9D79DB783E5762F1E76732617D6B
+#EXTINF:0 audio-track="rus",Кино ТВ [ru LNT]
+http://langamepp.com/chtst/CE1F7F4D0891736323F76103216564F6FF2C4B7A3DA20FB39927D9D39CB5DA274CCFCD167AE41F0D57AA
+#EXTINF:0 audio-track="rus",Кино ТВ HD [ru +3 NT]
+http://langamepp.com/chtst/18A7B22DEEB83C24B01272751D3864EB2994861ADB8B40F40AC2CAA5A0E8DA3A9A7700458AE34E519B211C0140
+#EXTINF:0 audio-track="rus",Комедия ТВ [ru +3 NT]
+http://langamepp.com/chtst/57E3385F75ABC398A3249BC489FFBBA166D00C684098BF4819F42514352F0E71E333808EFA7A4148117FE9B1A2CCD5D50A
+#EXTINF:0 audio-track="rus",Комедия ТВ [ru AI]
+http://langamepp.com/chtst/A76DCF95250BBAD61D2C4B3A64AF26BB965EFBA21038C606A7FCF5EAD87F936B13BD7744AADA3806AF77394F05C67B
+#EXTINF:0 audio-track="rus",Крик ТВ [ru +3 NT]
+http://langamepp.com/chtst/925E1A070ADD9FAD013A718B3A2C2CE1A36D2E303FEEE37DBBEBF15B82FC9630108EA85C78A8B49E6F4E2C
+#EXTINF:0 audio-track="rus",Крик ТВ [ru HLS]
+http://langamepp.com/chtst/9AFB76BF063095235CE05EC08F847B22ABC842883303E9F3E631DE103754C1F3182BC4E47445FD4F2FBD
+#EXTINF:0 audio-track="rus",Кубань 24 Орбита [ru AI]
+http://langamepp.com/chtst/E29629EC73C99975030B003D372C1ED1D3A51DDB46FAE5A5B9DA83ED86FCAE015F47A5DE471927A483DBB1ED8FFD9C0152CD5B9912A0C4
+#EXTINF:0 audio-track="rus",Курай ТВ [ru +3 NT]
+http://langamepp.com/chtst/2895912EC526522207B0E296345EB81619A6A519F0152EF2BD616147B48E08C6914413FE777D20572C838CE269
+#EXTINF:0 audio-track="rus",Кухня ТВ [ru +3 NT]
+http://langamepp.com/chtst/F4E20367AB9CDCAEA7DCECDF090AB031C5D137509EAFA07E1D0D6F0E8CDA0DE07B3381B719C7AEDB8CEF82AB54
+#EXTINF:0 audio-track="rus",Кухня ТВ [ru AI]
+http://langamepp.com/chtst/9F415F6568B1876F61690595C7BEACBBAE726B525D82FBBFDBB88644426E116A1090DDB5DAEAF51A000058
+#EXTINF:0 audio-track="rus",Кухня ТВ [ru LNT]
+http://langamepp.com/chtst/A0AF234B4BFFF9F3DCE5D2E5F082168F919C177C7ECC8523663451347552AB5E2F7EA19BF9A48B86B08BA6B8
+#EXTINF:0 audio-track="rus",КХЛ
+http://langamepp.com/chtst/C475F42C277B9B88E5A01EAC5ECA68FEF546C01B1248E7585F719B7CE5
+#EXTINF:0 audio-track="rus",КХЛ [ru +3 NT]
+http://langamepp.com/chtst/798B49C48A43B76628894B180C61A8D048B87DF3BF70CBB69258CEC8B73ADAA552B827B0D7
+#EXTINF:0 audio-track="rus",КХЛ [ru AI]
+http://langamepp.com/chtst/D79CFCFE189786FD37A4A9966E1194E7E6AFC8C92DA4FA2D8D752C46D54AE692B6F5A1
+#EXTINF:0 audio-track="rus",КХЛ [ru DS]
+http://langamepp.com/chtst/9CDEAC2721638D49EDD962F93A0AC911ADED98101450F1995708E7298151BB64F8ADF1
+#EXTINF:0 audio-track="rus",КХЛ [ru LNT]
+http://langamepp.com/chtst/A6C50FBE5C96BB933A6529A976BE901397F63B8969A5C74380B4AC79CDE5E266CAAB7BE3
+#EXTINF:0 audio-track="rus",КХЛ HD [ru +3 NT]
+http://langamepp.com/chtst/9C3C3ABDA0C7068DA06886DB724FEC19AD0F0E8A95F47A5D1AB9030BC9278842EE49118ECEB35B
+#EXTINF:0 audio-track="rus",КХЛ HD [ru AI]
+http://langamepp.com/chtst/14FCD770929303CCF82D756EEB06818725CFE347A7A07F1C42FCF0BE506EE5DC6689B619CF
+#EXTINF:0 audio-track="rus",ЛДПР ТВ [ru +3 NT]
+http://langamepp.com/chtst/42BB44E2834A6F23B3F5FE2544EB3E58738870D5B67913F308254AF5FB3ABE89C06BF6B9F13F4410DD81A3
+#EXTINF:0 audio-track="rus",Любимое Кино [ru +3 NT]
+http://langamepp.com/chtst/E716C879A9CC45A1F9BB0FE4C1916B03D625FC4E9CFF3971426A81347041D3D35BC676A91C1CFF71416BB2347FCA1976CC25A60DF4
+#EXTINF:0 audio-track="rus",Любимое Кино [ru DS]
+http://langamepp.com/chtst/4CAFE6CFF955F3AC4BF1D28FDC10E8C37D9CD2F8CC668F7CF0205C5F6DC05013F07F581F4C85497CF3216F5F624B9AB628DCBB
+#EXTINF:0 audio-track="rus",Ля-минор [ru +3 NT]
+http://langamepp.com/chtst/26B03CCF7C8270753D8059FE11C4015D178308F849B10CA58651D6D3C178D1E5F60DEC71AD022B0748AB6A906599
+#EXTINF:0 audio-track="rus",Ля Минор +4
+http://langamepp.com/chtst/73E72D6D3D20198811EB17EEFCFFB12242D4195A08136558AA3A983E402F09F2CE3793BCBD0B2D
+#EXTINF:0 audio-track="rus",Мама
+http://langamepp.com/chtst/B0EEF22C7062A2ADE2FBABF3C0AC513381DDC61B4551DE7D5E2B1B237C7CE1
+#EXTINF:0 audio-track="rus",Мама [ru +3 NT]
+http://langamepp.com/chtst/947EA0D19EBA59AFA5709DA1704FC420A54D94E6AB89257F19A02D71CC9F747BE60B8BE2F0CE04
+#EXTINF:0 audio-track="rus",Мама [ru AI]
+http://langamepp.com/chtst/3DB64CAD18EE5AFBEA05EEAAB13FDD450C85789A2DDD262B56D55E7A0DEF6D1E4FC32DC445
+#EXTINF:0 audio-track="rus",Матч! Арена
+http://langamepp.com/chtst/BD7E165B386F0BDDE0A87F50F74370348C4D226C0D5C770D5C78CF817592F7156DCEC7DBE8DADB603018
+#EXTINF:0 audio-track="rus",Матч! Арена [ru +3 NT]
+http://langamepp.com/chtst/F9BCE111AB3B0C9540FB3FF23A1C37F8C88FD5269E087045FC2B8F23B8CDB0D9290C30917B8EDC28904B64804F3704968DE1
+#EXTINF:0 audio-track="rus",Матч! Арена [ru LNT]
+http://langamepp.com/chtst/9A4E53D2BD5EB09D072FEDFE725D336BAB7D67E5886DCC4DBBFF5D2FF08CB44A4AFE82526DEB6020D79FB68C07315D1FC7
+#EXTINF:0 audio-track="rus",Матч! Арена HD [ru +3 NT]
+http://langamepp.com/chtst/1A147CC550895A90849982BEB5BAB6502B2748F265BA26403849326F376B3171CAA4AD45803C8A2D5429EADAEEC8C37B297A0898
+#EXTINF:0 audio-track="rus",Матч! Арена HD [ru AI]
+http://langamepp.com/chtst/080A22C568D2636F01506E73AEA1DEC8393916F25DE11FBFBD80DEA22C7059E9D8BAF345B867B3D2D1E00617F5D3ABA96157
+#EXTINF:0 audio-track="rus",Матч! Боец [ru AI]
+http://langamepp.com/chtst/B55B8D05E4E7966880182635D2DD85DA8468B932D1D4EAB83CC896E4500C02FB65EA5DBB345247EEDB6A5354BB80
+#EXTINF:0 audio-track="rus",МАТЧ! БОЕЦ [ru LNT]
+http://langamepp.com/chtst/E7A8A04F7A03BF7C532DEF01CECEC983D69B94784F30C3ACEFFD5FD04C1F4EA2371970F1AAB66EFA085F9A6DA0BA94
+#EXTINF:0 audio-track="rus",Матч! Игра [ru +3 NT]
+http://langamepp.com/chtst/2956890D3D1F75BD379BF30A7878E45F1865BD3A082C096D8B4B43DBFAA9637EF9EE59BEEC9FA50D6CE986214B169002
+#EXTINF:0 audio-track="rus",Матч! Игра [ru AI]
+http://langamepp.com/chtst/2084AF9B876E17DB9B06DC69D4A6ECFD11B79BACB25D6B0B27D66CB856776BDCF03C7F2856EEC76BC074A908BDFB
+#EXTINF:0 audio-track="rus",Матч! Игра [ru LNT]
+http://langamepp.com/chtst/FC750A3A947FF7CC1BEAD69363BAF383CD463E0DA14C8B1CA73A6642E16B74A22CCDDA8945FF277C4098A3FF0DCEAE
+#EXTINF:0 audio-track="rus",Матч! Игра HD [ru DS]
+http://langamepp.com/chtst/3FA21EC61035A1AB3C7E141024000E200E912AF12506DD7B80AEA4C1A6D18901EF1ACE75C1B5711B541A4F6251647D7D
+#EXTINF:0 audio-track="rus",Матч! Наш Спорт [ru +3 NT]
+http://langamepp.com/chtst/76185A0A9852D6B33CAC469F673923A6472B6E3DAD61AA63807CF64EE5E8A487A6A58ABA49DA0732EC139621B6B9F2242D6A2F21AB3CA2EE
+#EXTINF:0 audio-track="rus",Матч! Футбол 1 HD [ru +3 NT]
+http://langamepp.com/chtst/DB416CEB770E96B38CAAC3B0ABD1D021EA7258DC423DEA63307A7361290057000AC5BD68A68C46025C14130B9AB9B47AA93447D8197ACB
+#EXTINF:0 audio-track="rus",Матч! Футбол 2 HD [ru +3 NT]
+http://langamepp.com/chtst/EA2B2B827D0235B9AE7B5915B57CBB90DB181FB54831496912ABE9C437AD3CB13BAFFA01AC80E5087EC589AE8714DFCB985E00B1137668
+#EXTINF:0 audio-track="rus",Матч! Футбол 3 HD [ru +3 NT]
+http://langamepp.com/chtst/BD287C343612E7C2BDAB72687C4289668C1B480303219B12017BC2B9FE930E476CACADB7E79037736D15A2D34F2AED3DCF5D57075866BA
+#EXTINF:0 audio-track="rus",Матч_ТВ_-_MPTS_-_Ангарск
+http://langamepp.com/chtst/6DB4E8EAB61DA46599FD7A4E7936DE365C87DCDD832ED8B5252DCA9FFBE75969BC363858E930FB08E989091154690E86BD09385966AD75E5487CAAF4
+#EXTINF:0 audio-track="rus",Матч_ТВ_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/5E5A6B946D52562AFDC8927A0A1BE0786F695FA358612AFA411822AB88CA67278FD8BB26327F09598DBCE125274430C08FDABB2EBCD187A82C4942C0
+#EXTINF:0 audio-track="rus",Матч ТВ
+http://langamepp.com/chtst/CFC96286E606EB7F0365CD7C9BACB3F9FEFA56B1D33597AFBFB57DAD197D34284D19D0
+#EXTINF:0 audio-track="rus",Матч ТВ [ru +3 NT]
+http://langamepp.com/chtst/061E8D7370E39D6EAB2FE8B64AC82E1A372DB94445D0E1BE17FF5867C819A9CB84CE3F280296B65DC55BB5
+#EXTINF:0 audio-track="rus",Матч ТВ [ru AI]
+http://langamepp.com/chtst/9190A078978BF79AF0C5178C71CA8577A0A3944FA2B88B4A4C15A75DF31B02A613401223E5FE96F3AD
+#EXTINF:0 audio-track="rus",Матч ТВ [ru DS]
+http://langamepp.com/chtst/E813EB58F688C6A2B8AE580277861C08D920DF6FC3BBBA72047EE8D3F5579BD96AC3590384FDA2D1E5
+#EXTINF:0 audio-track="rus",Матч ТВ [ru LNT]
+http://langamepp.com/chtst/16BC80AD477848383D5FC4AE29492511278FB49A724B34E8818F747FAB98A2C0946C32F6350D24564902
+#EXTINF:0 audio-track="rus",Матч ТВ [ru ZTN]
+http://langamepp.com/chtst/5C1069539930F551DE4D5355D3705EE96D235D64AC038981629DE38451A1D938DEC0DB08EB458F25B010
+#EXTINF:0 audio-track="rus",Матч ТВ HD [ru +3 NT]
+http://langamepp.com/chtst/2CDE977456DFAC933E704167B96778161DEDA34363ECD04382A0F1B63BB6FFC7AE0E251C3284DEE615432F13E4
+#EXTINF:0 audio-track="rus",Маяк [ru +3 NT]
+http://langamepp.com/chtst/77E16910115E61F0ABB5457E25A3675146D25D27246D1D201765F5AFAA73DD0A059442237F2A3C
+#EXTINF:0 audio-track="rus",Мир
+http://langamepp.com/chtst/82FEC5D8DD716C1BE1AD829B14FAB18CB3CDF1EFE84210CB5D7D3A4A94
+#EXTINF:0 audio-track="rus",МИР (+4)
+http://langamepp.com/chtst/DC1A9CED78FEDD23B323A1D8C6082948ED29A8DA4DCDA1F30FF319094620027CF5
+#EXTINF:0 audio-track="rus",Мир +3 [ru HLS]
+http://langamepp.com/chtst/07EF21E4608D00423A82DD4F7D8EDB5936DC15D355BE7C928652659EFDA5E802759A498813D0
+#EXTINF:0 audio-track="rus",Мир 24
+http://langamepp.com/chtst/A87746207524432847E4000DEC2A56F39944721740173FF8FB34B8DC6C1862
+#EXTINF:0 audio-track="rus",Мир 24 [ru +3 NT]
+http://langamepp.com/chtst/1977D87904D8BB3E5A988DD7266830CE2844EC4E31EBC7EEE6483506A65A04956B02F34A6AACE6
+#EXTINF:0 audio-track="rus",Мир 24 [ru AI]
+http://langamepp.com/chtst/E077EE559B317EE2157EEF02A845F5C1D144DA62AE020232A9AE57D32877C19A92028F3CC6
+#EXTINF:0 audio-track="rus",Мир 24 [ru LNT]
+http://langamepp.com/chtst/BCCD3BC0A5F6FF008F8CD7B5F50884D58DFE0FF790C583D0335C6F64753AB08ECEB857AED1AB
+#EXTINF:0 audio-track="rus",Мир [ru +3 NT]
+http://langamepp.com/chtst/7F722A1AA4A8FCB927EBBBCF31B191ED4E411E2D919B80699B3B031EB1EAE3985441446EF9
+#EXTINF:0 audio-track="rus",Мир [ru AI]
+http://langamepp.com/chtst/7ECCAE24C2AD245139FB072E038B03824FFF9A13F79E5881852BBFFF83D071F71FA5F3
+#EXTINF:0 audio-track="rus",МИР [ru DS]
+http://langamepp.com/chtst/FD2E9CA1D6985BFD8416CDB5C75EA246CC1DA896E3AB272D38C675644705D033995DC1
+#EXTINF:0 audio-track="rus",Мир [ru LNT]
+http://langamepp.com/chtst/2A506AECFD8E3E378945658DD0690FCD1B635EDBC8BD42E73595DD5C50327DB8463E1EB1
+#EXTINF:0 audio-track="rus",МИР_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/97AC6F6D44CA6BC8E0387DA89620EEC0A69F5B5A71F917185CE8C579167FC39FE4DC1B1E1BE7341858E9FD782CF16D11157DEEBDFE
+#EXTINF:0 audio-track="rus",Мир HD [ru +3 NT]
+http://langamepp.com/chtst/7058AC6EE6EAA56F2F0AFCFF730CCD0A416B9859D3D9D9BF93DA442EF364A951022D875D889EF8
+#EXTINF:0 audio-track="rus",Мир HD [ru AI]
+http://langamepp.com/chtst/B83C78FC06E3C5E61B428EB1627C71D3890F4CCB33D0B936A7923660E2141588CA4919955B
+#EXTINF:0 audio-track="rus",МИР HD [ru DS]
+http://langamepp.com/chtst/D41D41BA08E62A37F026376432046EEAE52E758D3DD556E74CF68FB5B26C0AB1A66825C955
+#EXTINF:0 audio-track="rus",Мир Белогорья [ru HLS]
+http://langamepp.com/chtst/40E6E746C9AC2CE4EEBB95513706240C71D5D371FC9F5034526B2D80B7D695DCF5365C96777C9F34506A1580BBD7AB5732938F2ABAF1
+#EXTINF:0 audio-track="rus",Мир Сериала [ru +3 NT]
+http://langamepp.com/chtst/2465C62C4BF0633B179A9F499E0E34DE1556F21B7EC31FEBAB4A27981EDFB50E91B446FCF320D3EBAC4A2F12EC7B1FED4A119B
+#EXTINF:0 audio-track="rus",Мир Увлечений [ru +3 NT]
+http://langamepp.com/chtst/F41B24BEC751A2B50C3806433E2A4F62C5281089F262DE65B0E8BE92BEFBCCB246CB9F6E72802565B9E8BB9386FAF639866E0F8DA925FF
+#EXTINF:0 audio-track="rus",Много ТВ [ru AI]
+http://langamepp.com/chtst/8F168EDA06F2161D8CB5672BC39B09B8BE25BAED33C16ACD3065DAFB7D4BBA6831C70C0AB4A96468EDDC3A
+#EXTINF:0 audio-track="rus",Моя планета [ru +3 NT]
+http://langamepp.com/chtst/B62E767D7F18328B5039CE8F631EF1F3871D424A4A2B4E5BECE9705EECCE4E230DFEC6ADC2C8875AD2E97ED4116BDAC0D85A2B
+#EXTINF:0 audio-track="rus",Моя планета [ru AI]
+http://langamepp.com/chtst/3480CD3A72E358FE99BF295C5A33141005B3F90D47D0242E256F978DD5E3ABC08F507DEACF33ED2F1B6F99072846757969
+#EXTINF:0 audio-track="rus",Моя Планета [ru DS]
+http://langamepp.com/chtst/618A8DE0A3BF6BF3F839825C57744F8B50B9B9D7968C172344E93C8DD8A4F05BDA5A3D301E6FDE227AE9320725012BF83C
+#EXTINF:0 audio-track="rus",Моя Планета [ru LNT]
+http://langamepp.com/chtst/F41CC666001E6499DD8EF537C10A4722C52FF251352D1849615E4BE64EDAF8F24FCC76B6BDCED1485F5E456CB37F2B4C8041
+#EXTINF:0 audio-track="rus",МТВ (Волгоград) [ru HLS]
+http://langamepp.com/chtst/94D40237936D2B8CA6ADE8FE21378915A5E73600A65E575C1A7C6A2E931F59A7446AD28C43DEFB32761E397EF18759A1BD8F7042FB0158D1
+#EXTINF:0 audio-track="rus",МТВПервый (Волгоград) [ru HLS]
+http://langamepp.com/chtst/534F7B536DE0EC4A6EE2812FECC85180627C4F6458D3909AD23303FF5E18EE50E69EFB83DF31679AD7CA519D3C76813B83FCABEDBD533DCABE52519BC59323F53B23080E
+#EXTINF:0 audio-track="rus",Мужское кино [ru DS]
+http://langamepp.com/chtst/9C53B830C0E3BC6690A464B2DBEEC72EAD608C07F5D0C0B62C75E7626D3F46FE268306E0753306B62874D96265B5B55BF820E5
+#EXTINF:0 audio-track="rus",Мужской [ru DS]
+http://langamepp.com/chtst/3D4382AB236EF5915077C03C3F11BDDC0C70B69C165D8941ECA643EC89C03C0C87933C7B9A3587E434049D
+#EXTINF:0 audio-track="rus",Муз-ТВ
+http://langamepp.com/chtst/64750C2458C88AE86CEF9A47DD62751A554638136DFBF638D03E19976A4FA498B4C7
+#EXTINF:0 audio-track="rus",Муз-ТВ [ru +3 NT]
+http://langamepp.com/chtst/A5F7C5C866BB59B63219F3712AB04D8E94C4F1FF538825668EC870A19D9D9C0C75459EBA13906AD84644
+#EXTINF:0 audio-track="rus",Муз-ТВ [ru AI]
+http://langamepp.com/chtst/2559B27D213C658D2B00D408624A2307146A864A140F195D97D157D8D567F285F5EBE90F545D0CD0
+#EXTINF:0 audio-track="rus",Муз-ТВ [ru LNT]
+http://langamepp.com/chtst/41E8CFA7A3285ED54151476B0194F92670DBFB90961B2205FD80C4BBB6B928A4915A94D5D64430A11C
+#EXTINF:0 audio-track="rus",Муз-ТВ_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/EEABA30FE7089D1308711B6ABB3E71FDDF989738D23BE1C3B4A098BA0C13A07F3E19FC22B87BED677B2E36356B86A07D3E11728C368A4C92D8CB
+#EXTINF:0 audio-track="rus",МУЗ [ru DS]
+http://langamepp.com/chtst/2740A4CA6802A0A953E714547B0D7A69167390FD5D31DC79EF369784CC56081C4333F9
+#EXTINF:0 audio-track="rus",Музыка первого [ru AI]
+http://langamepp.com/chtst/B81D79A02616B32E87CE99430D0A4034892E4D971325CFFE3B1F1A93BADBCBE402CDC97099C606FF071E2B93B3DAF3E406460BD5477FEE
+#EXTINF:0 audio-track="rus",Музыка Первого [ru LNT]
+http://langamepp.com/chtst/4BE4FEB3E79E5D3A85718F017F096A377AD7CA84D2AD21EA39A00CD1C8D8E1E7F1344E63584EE8EB05A13DD1C1D9D9E7F5BF8CC68BF02967
+#EXTINF:0 audio-track="rus",Мульт [ru +3 NT]
+http://langamepp.com/chtst/27E3D74DF98A7B815914C4661F049A6A16D0E37ACCB90751E5C547B6A4D516BBA5B8A538D2B915F504
+#EXTINF:0 audio-track="rus",Мульт [ru LNT]
+http://langamepp.com/chtst/E8981DCF377A0ABCEC99BD6BA228A2C9D9AB29F80249766C50483EBB19F92E186AC36FBA5B147EE1
+#EXTINF:0 audio-track="rus",Мультимания [ru +3 NT]
+http://langamepp.com/chtst/0B7A16050492865DA64AC3C54E5D2F363A49223231A1FA8D1A9B4015F58CA3E789AAAED5B842368D1B9A7B14C1065D432049787159
+#EXTINF:0 audio-track="rus",Мультимания [ru AI]
+http://langamepp.com/chtst/F64D062DC710E9B3A9A71E4BCFC115DAC77E321AF223956315769D9B7410990B749DBEFD7BC059631477A69A409A67AF97245B
+#EXTINF:0 audio-track="rus",Мультимания [ru DS]
+http://langamepp.com/chtst/3B2BDF3FBD659D64AF6029FDBE5934B40A18EB088856E1B413B1AA2D0588B865B9FB67EF01B52DB412B0912C310246C15F5882
+#EXTINF:0 audio-track="rus",Мультимания [ru LNT]
+http://langamepp.com/chtst/A63AE16D4ACA21F3713F3E4000531B3B9709D55A7FF95D23CDEEBD90BB8297EA24EA59BDF61A9123CCEF86918F08694ECA549530
+#EXTINF:0 audio-track="rus",Нано ТВ [ru LNT]
+http://langamepp.com/chtst/7FFA7B3C6018A00F78CA0D362341EAC94EC94F0B552BDCDFC51ABDE69E915418FD2AC967126DCC610C97
+#EXTINF:0 audio-track="rus",Настоящее Страшное Телевидение
+http://langamepp.com/chtst/7BCB36C59657B80797F648974A63D3C94AF802F2A364C4D72A26F846CBB25119C51AB9141F870DD72227C946C8B25319CB1ABE152B8706D72227CA47FFB36819CE1B84152E870CD72226F547F2B366
+#EXTINF:0 audio-track="rus",Настоящее Страшное Телевидение [ru +3 NT]
+http://langamepp.com/chtst/5D4E05BD66A6CDDE70DA15931BFF5C966C7D318A5395B10ECD0AA5429A2EDE46E39F8A6CEF76780EC50B9442992EDC46ED9F8D6DDB76730EC50B9743AE2FE746E89EB76DDE76790EC50AA843A32FE9CD2F3B2E8E08D290
+#EXTINF:0 audio-track="rus",Наука 2.0 [ru +3 NT]
+http://langamepp.com/chtst/CB925B61EA13688109B0185313EB1C71FAA16F56DF201451B460A882903BA6A17BA07551B1611DAA3ADE6C0E
+#EXTINF:0 audio-track="rus",Наука 2.0 [ru DS]
+http://langamepp.com/chtst/39222E9FC8FB7E38D593CBF09227865D08111AA8FDC802E868437B2111F73C8D891000AF93890B5CA6CE
+#EXTINF:0 audio-track="rus",Наука 2.0 [ru LNT]
+http://langamepp.com/chtst/B9E1BEA3F42724FED73D51EB286E5C6288D28A94C114582E6AEDE13AABBEE6B209D39093AF555192B9490C
+#EXTINF:0 audio-track="rus",Наше ТВ
+http://langamepp.com/chtst/908A0158867F905B125B4CA582D2023BA1B9356FB34CEC8BAF8BFC740A02B7EA125AB3
+#EXTINF:0 audio-track="rus",Наше ТВ [ru LNT]
+http://langamepp.com/chtst/B4C1DFA8E803A6BF40F8AA696606CBF685F2EB9FDD30DA6FFD281AB8EED67E2736116DF39A76CAD134A5
+#EXTINF:0 audio-track="rus",Наш футбол [ru +3 NT]
+http://langamepp.com/chtst/91CC4E174CDE725E39BE03BB9106F645A0FF7A2079ED0E8E846EB36A19D77294121DCCC7FD0ECC8E82E571CEBA359831CC
+#EXTINF:0 audio-track="rus",Наш Футбол [ru LNT]
+http://langamepp.com/chtst/C7D5EDAFD9946E198C1982F21F4DE8B0F6E6D998ECA712C931C93223979C6C6144046F7F6844D0C93742F08773239CED
+#EXTINF:0 audio-track="rus",Наш футбол HD [ru +3 NT]
+http://langamepp.com/chtst/1A36C766143AC44DF8C80889CEFECE952B05F3512109B89D4518B858462F4A4499E745B6A5EA7A9D43A06CD2BC8BE5A674429A
+#EXTINF:0 audio-track="rus",Наш Футбол HD [ru DS]
+http://langamepp.com/chtst/D4BC44AD50B2C6DCCB49CEEB96B69BB0E58F709A6581BA0C76997E3A1E671F61576DC67DE162780C7021AAB0E4C3FFC389
+#EXTINF:0 audio-track="rus",Наш Футбол HD [ru LNT]
+http://langamepp.com/chtst/EC6316009DDB4D95A3551F7153ED0627DD502237A8E831451E85AFA0DB3C82F66FB294D02C0BF345183D7B2A21986A49983E
+#EXTINF:0 audio-track="rus",Ника ТВ (Калуга) [ru HLS]
+http://langamepp.com/chtst/A94AD4F9FC9BD5C8E4A3B37A594E2B459879E0CEC9A8A91859730BAAE39E9B942B9A66D12C210578341862F989FDFBF58011A68C94F7A695
+#EXTINF:0 audio-track="rus",Ностальгия [ru +3 NT]
+http://langamepp.com/chtst/B141454E1C92E4BFE703303BF036629A8072717929A1986F5AD38EEA71E7E04A0191FE9F9042576F5FD2BF60824349A9DF3518
+#EXTINF:0 audio-track="rus",Ностальгия [ru AI]
+http://langamepp.com/chtst/8037937DD26945B60CF83066465BABF8B104A74AE75A3966B1288EB7C78A292830E728AC5EB9F666B429BF3D342ECA91DD
+#EXTINF:0 audio-track="rus",Ностальгия [ru DS]
+http://langamepp.com/chtst/9DF146B9832A796B2DA9A61EE008B860ACC2728EB61905BB907918CF61D93AB02D21FD680FFACABB95782945927DDC13C0
+#EXTINF:0 audio-track="rus",Ностальгия [ru LNT]
+http://langamepp.com/chtst/3F4BDD11B422C7C11AF8276153D259F00E78E9268111BB11A72899B0D203DB208F9B66C038F27411A229A83A21A7359E4B16
+#EXTINF:0 audio-track="rus",Ночной Клуб (Для взрослых) [ru +3 NT]
+http://langamepp.com/chtst/C39FAA47CA23B2F7CC5815AC60CD0DA0F2AC9E70FF10CE277188AB7DE71DB0707D4F139770F309264F88A484B079DD1B12107AF51A9463771CE6C42DB076DC2B121A831CB85699C4A22C48
+#EXTINF:0 audio-track="rus",НСК 49
+http://langamepp.com/chtst/19EAB1CD0D798E2771B588C488E1B54B28D985FA384AF2F7CC64091432D58C
+#EXTINF:0 audio-track="rus",НТВ
+http://langamepp.com/chtst/815F924B8244424E9C58FBFD25089D3EB06CA67CB7773E9E2189792D97
+#EXTINF:0 audio-track="rus",НТВ +5
+http://langamepp.com/chtst/F24E0CFFC79A273850AFFDD891B22312C37D38C8F2A95BE8ED7E7F08239916
+#EXTINF:0 audio-track="rus",НТВ+ Инфоканал [ru AI]
+http://langamepp.com/chtst/11B65D93FA9FE197F7DC941DE4315BD7208569A4CFAC9D474A0D16CD561A8B6FC10B8C172A21312D276C44A034818B6C4AC428F293C2
+#EXTINF:0 audio-track="rus",НТВ+ Киноплюс [ru +3 NT]
+http://langamepp.com/chtst/7F67D64702FD7F52AD7C2A3E2E4D503F4E54E27037CE038210ADA8EE9C668085AFDF06FAD243AFED7DC7FBB0FFCC0B4D0A4CE52976A0
+#EXTINF:0 audio-track="rus",НТВ [ru +3 NT]
+http://langamepp.com/chtst/03ADD2FE4CB49544902961755ABC4CD9329EE6C97987E9942DF8E3A5E8E73EAC289EBC8A11
+#EXTINF:0 audio-track="rus",НТВ [ru AI]
+http://langamepp.com/chtst/2422202620A078CD1CA20B4BEF5B8AF3151114111593041DA173899B5D00F886454B7D
+#EXTINF:0 audio-track="rus",НТВ [ru DS]
+http://langamepp.com/chtst/085DF154118698A1AFF91609B662E2DA396EC56324B5E471122894D9043990AF6C2EAC
+#EXTINF:0 audio-track="rus",НТВ [ru LNT]
+http://langamepp.com/chtst/850300A5A37872BF1A7D0A09D895FCE0B4303492964B0E6FA7AC88D96ACE8E95E96D74F8
+#EXTINF:0 audio-track="rus",НТВ [ru ZTN]
+http://langamepp.com/chtst/F2ED340373CDA422C6BB2B7C1D0E56A2C3DE003446FED8F27B6AA9ACAF5524D788995A5E
+#EXTINF:0 audio-track="rus",НТВ_-_MPTS_-_Ангарск
+http://langamepp.com/chtst/115647B4CEB973E8367EF20E13EEEE0520657383FB8A0F388BAF70DEA1B1C35A7C2633C791942C3886AE4FDEA03E5ED49187C66474
+#EXTINF:0 audio-track="rus",НТВ_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/DC23084FF0AC72B6679D3385AB8927BCED103C78C59F0E66DA4CB15519D60AE3AF537C3CAF812D66DF4CB3551158A46D5EF2899F4A
+#EXTINF:0 audio-track="rus",НТК [ru +3 NT]
+http://langamepp.com/chtst/E06F70AE28E4975F62896D75775C7A53D15C44991DD7EB8FDF58EFA5CD070826CB5C1EDA75
+#EXTINF:0 audio-track="rus",Оружие [ru +3 NT]
+http://langamepp.com/chtst/7F82A36F2E152596B2581B5EE2421AC24EB197581B2659460C899B8F6192AC12C75216345C600EA5DC2C46
+#EXTINF:0 audio-track="rus",Оружие [ru DS]
+http://langamepp.com/chtst/B18B70DA6F0739D190A6460802C05B8180B844ED5A3445012E77C6D98110ED51095BC5811D725DA2CD
+#EXTINF:0 audio-track="rus",Открытие HD [ru +3 NT]
+http://langamepp.com/chtst/42FEF070131606C66E212450643E121573CDC44726257A16D0F0A680DEEF92C4C92F72A0ABC6B3AE0A7A56254F0D7C611F
+#EXTINF:0 audio-track="rus",Открытый Мир [ru +3 NT]
+http://langamepp.com/chtst/C983EF388A28091BCF4F23D10F7E5351F8B0DB0FBF1B75CB719EA101B5AFD38042526DE901F8B0CB739F9B008F252124E2B0814CD7
+#EXTINF:0 audio-track="rus",Открытый Мир [ru DS]
+http://langamepp.com/chtst/7D43C29059C856C8EA7A184EB92B63824C70F6A76CFB2A1854AB9A9E03FAE353F6924041D218EF1856AAA09F397011F719309F
+#EXTINF:0 audio-track="rus",Открытый Мир [ru ZTN]
+http://langamepp.com/chtst/AE53BB387BC4534A14761C23F56F75729F608F0F4EF72F9AAAA79EF34FBEF5A3258239E9F014EA9AA8A6A4F275340707D427D565
+#EXTINF:0 audio-track="rus",ОТР
+http://langamepp.com/chtst/B237020CFF59D4E9D3EC378C179B0FC58304363BCA6AA8396D3DB55D97
+#EXTINF:0 audio-track="rus",ОТР [ru +3 NT]
+http://langamepp.com/chtst/EECAFE698E51B4A2C8D0C6BD3F3B2FF1DFF9CA5EBB62C8727601446CBF605D84C5F9901DD3
+#EXTINF:0 audio-track="rus",ОТР [ru AI]
+http://langamepp.com/chtst/7231FD718AD15B5EBE92EAD52DF99B1B4302C946BFE2278E00436804ADA2E96E1358A0
+#EXTINF:0 audio-track="rus",ОТР [ru LNT]
+http://langamepp.com/chtst/C3998552EA39F4B209BA6F48F59E3967F2AAB165DF0A8862B76BED9975C54B12AFF7F10F
+#EXTINF:0 audio-track="rus",ОТР [ru ZTN]
+http://langamepp.com/chtst/D037D95A0834B8C6C6A39CF49C370F60E104ED6D3D07C41678721E251C6C7D15AA43B707
+#EXTINF:0 audio-track="rus",ОТС
+http://langamepp.com/chtst/D094B2BACDA66DD661DC1E567B58BE4BE1A7868DF8951106DF0D9C87FA
+#EXTINF:0 audio-track="rus",ОТС [ru +3 NT]
+http://langamepp.com/chtst/8F97A597CB5E5E9101FA859D3195FD01BEA491A0FE6D2241BF2B074CB0CE8F74A4A4CBE396
+#EXTINF:0 audio-track="rus",Охота и рыбалка
+http://langamepp.com/chtst/29AFBBF75628CDB705EC0D8044CBCBD3189C8FC0631BB167BB3D8850FA1A4903997F0326D6F94667B43CBD50FF1B710399
+#EXTINF:0 audio-track="rus",Охота и рыбалка [ru +3 NT]
+http://langamepp.com/chtst/62706A2DCEC8BFCFC2446DF3D96AF40353435E1AFBFBC31F7C95E82367BB76D3D2A0D2FC4E19341F7394DD2362BA4ED3D22B1858E5FBD1BB9F
+#EXTINF:0 audio-track="rus",Охота и Рыбалка [ru DS]
+http://langamepp.com/chtst/1AB0FA70D8C727DDB3345DF70028CA622B83CE47EDF45B0D0DE5D827BEF948B2AA6042A15816AC0D02E4ED27BBF870B2AAEB8805BCB47A
+#EXTINF:0 audio-track="rus",Охота и рыбалка [ru LNT]
+http://langamepp.com/chtst/99359067FD4F37C093A4B36D0EA87028A806A450C87C4B102D7536BDB079F2F829E528B67D9EBC10227403BDB578CAF8296EE2129121439D
+#EXTINF:0 audio-track="rus",Охотник и рыболов [ru +3 NT]
+http://langamepp.com/chtst/586A983031BF0EE5F46BDCF494A7562D6959AC07048C72354ABA59242A76D4FDE5BA20E08B6FB63474BA57242577E8FDE3BA26E083E47C90DF58B280C9
+#EXTINF:0 audio-track="rus",Охотник и рыболов [ru AI]
+http://langamepp.com/chtst/DCE694D935CB99C96F4D367EF5A6A64DEDD5A0EE00F8E519D19CB3AE4B77249D61362C098F1B2118EF9CBDAE4476189D67362A098790EBBC0E246B
+#EXTINF:0 audio-track="rus",Охотник и Рыболов HD [ru +3 NT]
+http://langamepp.com/chtst/103F7D41FE8B26F2F703E68BAA3DB886210C4976CBB85A2249D2635B14EC3A56ADEFC591445B9E2377D26D5B1BED0656ABEFC3914CE342A98576CDB8C449E5
+#EXTINF:0 audio-track="rus",Охотник и рыболов HD [ru AI]
+http://langamepp.com/chtst/234C5F5918F922874658053BFEAC880E127F6B6E2DCA5E57F88980EB407D0ADE9E9CE789A2299A56C6898EEB4F7C36DE989CE189AA9146DC342D6452A3
+#EXTINF:0 audio-track="rus",Парк Развлечений [ru +3 NT]
+http://langamepp.com/chtst/EB054FE99176DC8879C21323FFCBA923DA367BDEA445A058C612A3F27F1B13F26BD5FF3926A66E58C212A6F2781B1CF356D5F739282DAEFD52F17D57A2
+#EXTINF:0 audio-track="rus",Первый
+http://langamepp.com/chtst/17087C2F019EB747F6BC82F4680A0253263B481834ADCB97496C3725E8DAB0829CD8C5
+#EXTINF:0 audio-track="rus",Первый [ru +3 NT]
+http://langamepp.com/chtst/10513DA1C7192940DB3C63DB070CFE1E21620996F22A559064ECD60A87DC4CCF9B8184FAB56C0273B5483E
+#EXTINF:0 audio-track="rus",Первый [ru AI]
+http://langamepp.com/chtst/157A4E1618055E0EC1E0022AEB047DFB24497A212D3622DE7E30B7FB6BD4CF2A9EAAF74D6A703F679C
+#EXTINF:0 audio-track="rus",Первый [ru LNT]
+http://langamepp.com/chtst/55BA9C1DD3C55DAF01C18A08CD8826E26489A82AE6F6217FBE113FD94D589433DE6A2546A1B031C1759C
+#EXTINF:0 audio-track="rus",Первый [ru ZTN]
+http://langamepp.com/chtst/0274F91A7957283B372A65222EE21D833347CD2D4C6454EB88FAD0F3AE32AF5289A440410B22524F5977
+#EXTINF:0 audio-track="rus",Первый канал HD [ru +3 NT]
+http://langamepp.com/chtst/9DB9A0707EFE1F7FBFA9878C31AE6F33AC8A94474BCD63AF0079325DB17EDDE2166919A0C42EAFAF0279375C8AC60B68EFCC8B43108A42
+#EXTINF:0 audio-track="rus",Первый канал HD [ru AI]
+http://langamepp.com/chtst/22684D9CBF75D7F69F3C19CD1E3651BB135B79AB8A46AB2620ECAC1C9EE6E36AA9B8F44C05A5672622ECA91DA55E35E0501D2CF5E2
+#EXTINF:0 audio-track="rus",Первый канал HD [ru DS]
+http://langamepp.com/chtst/F0F12C6EEF4BEEAEF5753B2623AA5A46C1C21859DA78927E4AA58EF7A37AE8977B2195BE559B5E7E48A58BF698C23E1D8284481DB2
+#EXTINF:0 audio-track="rus",Первый канал HD [ru LNT]
+http://langamepp.com/chtst/12A7E2D11DB9C7BCF5E08A1317DBCF072394D6E6288ABB6C4A303FC2970B7DD699775B01A769776C48303AC3ACB3AB5C60D28EBF69E4
+#EXTINF:0 audio-track="rus",Первый канал HD [ru ZTN]
+http://langamepp.com/chtst/CCFB75BC46636A3BD9A562FC4FBC4261FDC8418B735016EB6675D72DCF6CF0B0472BCC6CFCB3DAEB6475D22CF4D4263ABE8E0FC8283E
+#EXTINF:0 audio-track="rus",ПЕРВЫЙ МЕТЕО [ru HLS]
+http://langamepp.com/chtst/63243280DDFA3DD2DAC7E6F1A2B5F86E521706B7E8C941026517532022654ABFE8F48B50612A8803581753211CEE8A1B0B4841DD
+#EXTINF:0 audio-track="rus",ПервыйМТВ (Волгоград) [ru HLS]
+http://langamepp.com/chtst/B06E2AF6D19532AA3A94A78A50E9EBB3815D1EC1E4A64E7A8544125BD03959623BBE93266D44B07A88BC773880573B0860DDFA480126E32AEA24773E79B299C6D80259AB
+#EXTINF:0 audio-track="rus",Первый Образовательный
+http://langamepp.com/chtst/0E1E34EB1871BEF238A4E4DA59DC48093F2D00DC2D42C2228774510BD90CFAD885CE8D3BA6A10F23B874540AEE0CF6D9BCCE843A9AA10B228375680AE40DC3D9B7
+#EXTINF:0 audio-track="rus",Первый образовательный [ru +3 NT]
+http://langamepp.com/chtst/4A73FF1C0831C642C56DCC1557B8C9657B40CB2B3D02BA927ABD79C4D7687BB4C1A346CCB6E1779345BD7CC5E06877B5F8A34FCD8AE173927EBC40C5EA6942B5F3288D692302A83698
+#EXTINF:0 audio-track="rus",Первый образовательный [ru AI]
+http://langamepp.com/chtst/D6FD50EE6E0EE0A6B2C4800BA1C814EBE7CE64D95B3D9C760D1435DA2118A63A5D2DE93ED0DE5177321430DB1618AA3B642DE03FECDE557609150CDB1C199F3B6FA6229B0F67BD
+#EXTINF:0 audio-track="rus",Планета HD [ru +3 NT]
+http://langamepp.com/chtst/3B14074345CE860B3B5220920AE9F7E00A27337470FDFADB84829B42BA394A308EC58593F5A6E25049270BA1649DAA
+#EXTINF:0 audio-track="rus",Планета HD [ru AI]
+http://langamepp.com/chtst/E648CE5456AFFA09737A14144329007ED77BFA63639C86D9CCAAAFC4F3F9BDAE53994C84E6C79E52010F757D1E
+#EXTINF:0 audio-track="rus",Планета HD [ru ZTN]
+http://langamepp.com/chtst/3D07C282D5488D119AAEA3A5979B857E0C34F6B5E07BF1C1257E1875274B38AE88D640526520E94AE8DBD9D1F9C6
+#EXTINF:0 audio-track="rus",Правда тут [ua KHR]
+http://langamepp.com/chtst/E354D23903CD427647578B8A808B09BDD267E60E36FE3EA6F8860B5A305BBB6D578462E8811CC1A7C50CFEEBEBE37BE0
+#EXTINF:0 audio-track="rus",Просвещение
+http://langamepp.com/chtst/92CB3F6813CD79AD7B1C5212B7D8909AA3F80B5F26FE057DC4CDD2C20909114A201B8AB99A1DCC7DC6CCEAC202
+#EXTINF:0 audio-track="rus",Психология 21 [ru +3 NT]
+http://langamepp.com/chtst/2C63D42F3016A5776D3002EDBB0BAA4E1D50E0180525D9A7D2E1833D03DA2F9E92B36FFF8EC616A7D5E18DDF8A50D83B0750BA5B6D
+#EXTINF:0 audio-track="rus",пятница
+http://langamepp.com/chtst/D6EAB6E9B72F96324BE94403C1D59DEDE7D982DE821CEAE2F438CBD24305203D6E3B303907
+#EXTINF:0 audio-track="rus",Пятница +1
+http://langamepp.com/chtst/38711C6888C1DFF5F2E1E3ADEC8DFBC20942285FBDF2A3254D306C7C6E5D461280A09AB838EAEE
+#EXTINF:0 audio-track="rus",Пятница +2
+http://langamepp.com/chtst/77B1AB2EE042602C2BA52FEC7ACCD9B246829F19D5711CFC9474A03DF81C6462CF602DFE506952
+#EXTINF:0 audio-track="rus",Пятница +4 [ru +3 NT]
+http://langamepp.com/chtst/3EF51AC6B6F9BBA8DB9E56C72C518AA30FC62EF183CAC778644FD916AE81377386249C1606D28FF3A9EB7DF44225D7
+#EXTINF:0 audio-track="rus",Пятница [ru +3 NT]
+http://langamepp.com/chtst/0335D2E377320FA2D73E8E510B6703493206E6D44201737268EF018089B7BE99BBE45433C7697DD7FC0DE02556
+#EXTINF:0 audio-track="rus",Пятница [ru AI]
+http://langamepp.com/chtst/5C1D0F1317CABBF26911B995634338666D2E3B2422F9C722D6C03644E19385B6E4CC89C3A791C9870878E4
+#EXTINF:0 audio-track="rus",пятница [ru DS]
+http://langamepp.com/chtst/790A49F03D599314972166A28969EBE548397DC7086AEFC428F0E9730BB95635C1DBCF208D02E161F3523B
+#EXTINF:0 audio-track="rus",Пятница [ru LNT]
+http://langamepp.com/chtst/87FAF89EC5B4902EC549C3288DFB8E06B6C9CCA9F087ECFE7A984CF90F2B33D63F2B7E4E75EFE25BA927B775
+#EXTINF:0 audio-track="rus",пятница [ru ZTN]
+http://langamepp.com/chtst/06D8F643318957C8ABBD6B34275619AE37EBC27404BA2B18146CE4E5A586A47EBE09709381D225BDD1C90569
+#EXTINF:0 audio-track="rus",Пятница_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/51124C16C6DC448B2507B4B20242B80860217821F3EF385B9AD63B63809205D8E9C3CAC6768369D45677C0C15D6FE7D8E9C3CCC67C0DC75AA7D63562B8
+#EXTINF:0 audio-track="rus",Пятый канал [ru DS]
+http://langamepp.com/chtst/1AAF4B4B38A314E3607F1787D53135262B9C7F7C0D906833DFAE985657E0BEF6A37FF19B8873A933D0AFACDCA744515547
+#EXTINF:0 audio-track="rus",Радость моя
+http://langamepp.com/chtst/43813C095D8094838748358A8BEE92A572B2083E68B3E8520798855A3F3E2C74C250BED8D15028533999BA
+#EXTINF:0 audio-track="rus",Радость моя [ru AI]
+http://langamepp.com/chtst/9DDEF1D58105B9E184D06959019E8044ACEDC5E2B436C5300400D989B54E3E951C0F73040DD505313A01E60273EBE12DC0
+#EXTINF:0 audio-track="rus",Раз ТВ [ru AI]
+http://langamepp.com/chtst/20BC4D7D3DE200C42A364EB524E15BC1118F794A08D17C15AAE6FE659330D91192E73F085C8B5D
+#EXTINF:0 audio-track="rus",РБК
+http://langamepp.com/chtst/BF4C9640514F21D5208A2E2129AE66498E7FA277647C5D04A05A9FF193
+#EXTINF:0 audio-track="rus",РБК [ru +3 NT]
+http://langamepp.com/chtst/6BB3C6A895C76CC0FDBB75219CD0E25B5A80F29FA0F410117D6BC4F1268B902E4080A8DCC8
+#EXTINF:0 audio-track="rus",РБК [ru AI]
+http://langamepp.com/chtst/1C789B6DC8BC42E8477109701F6FB98A2D4BAF5AFD8F3E39C7A1B8A0A534CBFF7D11C6
+#EXTINF:0 audio-track="rus",РБК [ru DS]
+http://langamepp.com/chtst/237F32B8469F78435AEE64F6BE4651DB124C068F73AC0492DA3ED526041D23AE470C6F
+#EXTINF:0 audio-track="rus",РБК [ru LNT]
+http://langamepp.com/chtst/BFEC4887A88B6FEFFC785F1BE818A60B8EDF7CB09DB8133E7CA8EECB5243D47ED3823CDA
+#EXTINF:0 audio-track="rus",РЕН ТВ
+http://langamepp.com/chtst/98D8C3DE773C22D12A86C7E8CD18C38CA9EBF7E9420F5E00AA56723870C9415C2A
+#EXTINF:0 audio-track="rus",РЕН ТВ (+4)
+http://langamepp.com/chtst/040C13AD97829C93FAFCAEE21454EDAC353F279AA2B1E0427A2C1B32A9856F7CB6243899BE
+#EXTINF:0 audio-track="rus",Рен ТВ +4
+http://langamepp.com/chtst/2DB18BA4EDAD7617333DFF0056C38C5A1C82BF93D89E0AC6B3ED4AD0EB120E8A9F9ABF
+#EXTINF:0 audio-track="rus",РЕН ТВ - ТРК Братск
+http://langamepp.com/chtst/CF9F076621A4F91CA0A7FEB4FCEC6129FEAC3351149785CD20774B64413DE3F97DB2D6E4F02429A670162F342C5CB0AB1E1ED7DC
+#EXTINF:0 audio-track="rus",Рен ТВ [ru +3 NT]
+http://langamepp.com/chtst/9DECCD8A9943A1CC81A0CDD763593132ACDFF9BDAC70DD1D01707807DE88B3E22FB7BFFFB270CFB8DC
+#EXTINF:0 audio-track="rus",РЕН ТВ [ru AI]
+http://langamepp.com/chtst/F939981ADD91367D3935313521925EBEC80AAC2DE8A24AACB9E584E59C43DC6E4B62EA6FBCF86B
+#EXTINF:0 audio-track="rus",Рен ТВ [ru DS]
+http://langamepp.com/chtst/7E2B48176FE9E4F089B1C7ED0AF81F034F187C205ADA98210961723DB7299DD3CC703A620B9AB9
+#EXTINF:0 audio-track="rus",РЕН ТВ [ru LNT]
+http://langamepp.com/chtst/31B81E0E49548B8289BDB7AA4F1568CE008B2A397C67F753096D027AF2C4EA1E83E36C7B253AFFDF
+#EXTINF:0 audio-track="rus",РЕН ТВ [ru ZTN]
+http://langamepp.com/chtst/41B0E5B099C9A0237A6710855F2F88917083D187ACFADCF2FAB7A555E2FE0A41F3EB97C5E3BDCE7E
+#EXTINF:0 audio-track="rus",РЕН ТВ Терра [ru AI]
+http://langamepp.com/chtst/E7A69F31FB2BB384E86B2F37809705C1D695AB06CE18CF5568BB9AE73D46871155771DE14EFA335568BB9F6CF2E264A8BA
+#EXTINF:0 audio-track="rus",Ретро ТВ
+http://langamepp.com/chtst/48EB71E1B411042F7814B4D8443C692B79D845D6812278FEF8C40109C6EDE9FBF63AF33106
+#EXTINF:0 audio-track="rus",Ретро ТВ [ru +3 NT]
+http://langamepp.com/chtst/E3085CDE3310621B7B9153FB2958BD71D23B68E906231ECAFB41E62AAB893DA15DD9DE0E814B106E50A23D8F74
+#EXTINF:0 audio-track="rus",РЖД ТВ HD [ru AI]
+http://langamepp.com/chtst/432E52F8405727B86BDB90AF17F9DBFA721D66CF75645B69EB0B267FA328592AF14636A3322246D136
+#EXTINF:0 audio-track="rus",Россия 1
+http://langamepp.com/chtst/0237D835473B51C2CCA4BEF5FC7B66403304EC0272082D134C7400247DAAE790BAE65704
+#EXTINF:0 audio-track="rus",Россия 1 (+4)  ГТРК Иркутск (Братск)
+http://langamepp.com/chtst/A9B938E9105FA27B3A322B512C064C2E988A0CDE256CDEAABAE29580ADD7CDFE1168B7D838749652EA81FAD3FD869C947901E969C0E573F8EBB0FAD0FCBC64FE1868B839A08E20AABBE29178
+#EXTINF:0 audio-track="rus",Россия 1 (+4) ГТРК Кузбасс
+http://langamepp.com/chtst/3D2463855FB4472C580521558088952A0C1757B26A873BFDD8D59F84015914FA85F5ECB4779F730588B6F0D751084590ED9EB2068F03979D88B5F0D45109
+#EXTINF:0 audio-track="rus",Россия 1 +1
+http://langamepp.com/chtst/41CD13512CB5CC66E8F7B714FD03423B70FE27661986B0B7682709C57CD2C3EBF91C9C600784
+#EXTINF:0 audio-track="rus",Россия 1 +4
+http://langamepp.com/chtst/28A5C0875A07B3B20DD5078D5D9CB79E1996F4B06F34CF638D05B95CDC4D364E90744FB67133
+#EXTINF:0 audio-track="rus",Россия 1 [ru +3 NT]
+http://langamepp.com/chtst/69CBEF9580BBFB68B3B37CB0B6BEEBDE58F8DBA2B58887B93363C261376F6A0ED11A60A4DBC98E4380DD08ED
+#EXTINF:0 audio-track="rus",Россия 1 [ru AI]
+http://langamepp.com/chtst/64AB66BEB31970C0EE784D4B1405E97E55985289862A0C116EA8F39A95D468AEDC7AE98FE86B05A18725
+#EXTINF:0 audio-track="rus",Россия 1 [ru DS]
+http://langamepp.com/chtst/D0D81350940FB947C235F778F4E35758E1EB2767A13CC59642E549A97532D68868099C61CF7DCC23B168
+#EXTINF:0 audio-track="rus",Россия 1 [ru LNT]
+http://langamepp.com/chtst/8EBD1641D68601C5FE4F101354FA9124BF8E2276E3B57D147E9FAEC2D52B10F4366C99708DF474A9903B4D
+#EXTINF:0 audio-track="rus",Россия 1 [ru ZTN]
+http://langamepp.com/chtst/D2A47466B32DAD7563A5EE578845AF16E3974051861ED1A4E375508609942EC66A75FB57E85FD80F17CBB3
+#EXTINF:0 audio-track="rus",Россия 1 HD [ru +3 NT]
+http://langamepp.com/chtst/02C558D84B599D4AA8AE5DFCA8EE207A33F66CEF7E6AE19B287EE32D293FA1AABA14D7E9233DC638DD856E92DCB3
+#EXTINF:0 audio-track="rus",Россия 1 HD [ru AI]
+http://langamepp.com/chtst/9295E146C28EBB2533A97CBBEE2BD2F0A3A6D571F7BDC7F4B379C26A6FFA53202A446E77AAEAE05746C815E6
+#EXTINF:0 audio-track="rus",Россия 1 HD [ru LNT]
+http://langamepp.com/chtst/F02AC93C8366862C14E328BCD1493763C119FD0BB655FAFD9433966D5098B6B348FB460DEB02DD5E618F46C88C
+#EXTINF:0 audio-track="rus",россия 1 тамбов [ru LNT]
+http://langamepp.com/chtst/DE18A9A0A665C6DA0E4295FD6E67ED5EEF2B9D979356BA0B8E922B2CEFB66C8E66C9269177E7166ADEFE454CBED93DEC856ADCCCC8119B
+#EXTINF:0 audio-track="rus",Россия 24
+http://langamepp.com/chtst/91B69A151D2041310369EED4B2253890A085AE2228133DE083B9500533F4B9402967152729
+#EXTINF:0 audio-track="rus",Россия 24 [ru AI]
+http://langamepp.com/chtst/3DE131E346F7BD55395352A7BA3F064C0CD205D473C4C184B983EC763BEE879C8530BED172ACCF20583A0F
+#EXTINF:0 audio-track="rus",Россия 24 [ru DS]
+http://langamepp.com/chtst/F6A06113C1A244C40B3299BE57D14E94C7935524F49138158BE2276FD600CF444E71EE21F5F936B16F41C4
+#EXTINF:0 audio-track="rus",Россия 24 [ru LNT]
+http://langamepp.com/chtst/B27F78F976354EB088A05743DF5D8FD5834C4CCE430632610870E9925E8C0E050AAEF7CB426E3CC5E4CE231E
+#EXTINF:0 audio-track="rus",Россия 24 [ru ZTN]
+http://langamepp.com/chtst/FEF0E8BF922D839D5F1C5BB7EDAA4BA0CFC3DC88A71EFF4CDFCCE5666C7BCA704621678DA676F1E8256835EA
+#EXTINF:0 audio-track="rus",Россия 24 ГТРК Кузбасс
+http://langamepp.com/chtst/29C399A0F9E7508187A7C46605533C0318F0AD97CCD42C5007777AB78482BDD391121692CD37E350057644B6BF8386D2AA132E704837E050067645
+#EXTINF:0 audio-track="rus",Россия_1_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/4324C2D5514573B162CE684F78B3EFA27217F6E264760F60E21ED69EF9626E72FBF54D8A601A5EEE11BE1C3C279EB072FBF54205EB94F060E01FE99FC2
+#EXTINF:0 audio-track="rus",Россия_24_-_MPTS_-_Ангарск
+http://langamepp.com/chtst/778842706F92F1F639B65D3E0999414D46BB76475AA18D27B966E3EF8848C09DCF59CD2F5DA6AEDB66DB2D4A7AC66C12A73892CDBF212146E8368CBFD923
+#EXTINF:0 audio-track="rus",Россия_К_-_MPTS_-_Ангарск
+http://langamepp.com/chtst/BD03220F4995C0AB6428FADCDBEA7E528C3016387CA6BC7AE4F8440D5A3BFF8205D2AD50992F9F863B458AA8A8B5530D6DB3F2B29926101BB5A82B5D0B50
+#EXTINF:0 audio-track="rus",Россия_К_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/72C0C2E252B4D88C6A35CA73CE0CC08C43F3F6D56787A45DEAE574A24FDD415CCA114DBD820E87A13546BA07BD53EDD3A2781362820E090FBBB71BF21EB6
+#EXTINF:0 audio-track="rus",Россия К
+http://langamepp.com/chtst/0FE39B58785B03DC83FEB95EE837B15A3ED0AF6F4D687F0D032E078F69E6308AB7321488C2
+#EXTINF:0 audio-track="rus",Россия К (+4)
+http://langamepp.com/chtst/F8733C4A2715D6914AA10519ADC5A5BCC940087D1226AA40CA71BBC82C14246C40A2B39A9D3DFDA563
+#EXTINF:0 audio-track="rus",Россия К [ru +3 NT]
+http://langamepp.com/chtst/A84015219B18FD1E16B67CFEEE2D59E699732116AE2B81CF9666C22F6FFCD83610919AF121438F6B3D85128AB3
+#EXTINF:0 audio-track="rus",Россия К [ru AI]
+http://langamepp.com/chtst/A19530C8AA075AF5A85F0E5524B311CD90A604FF9F342624288FB084A562901D1944BF18105C2880C93653
+#EXTINF:0 audio-track="rus",Россия К [ru DS]
+http://langamepp.com/chtst/F326EE8E3FEBAC55A228549056AD76F7C215DAB90AD8D08422F8EA41D77CF7274BF7615E85B0DE20C65B09
+#EXTINF:0 audio-track="rus",Россия К [ru LNT]
+http://langamepp.com/chtst/42A6BFEDAD19E25578F0AA9DA3BC6A9673958BDA982A9E84F820144C226DEB46FA77303D17429020149EDEC0
+#EXTINF:0 audio-track="rus",Россия К [ru ZTN]
+http://langamepp.com/chtst/E258242143D077E5F8CB754E78EB45BAD36B101676E30B34781BCB9FF93AC46A5A89ABF1F98B059082BF1B13
+#EXTINF:0 audio-track="rus",РТР [ru AI]
+http://langamepp.com/chtst/9205A73F1E899597793F341CFB9EB2DEA33693082BBAE946F9EEB6CD7BC5C0ABF36CFA
+#EXTINF:0 audio-track="rus",Русская Ночь (Для взрослых) [ru +3 NT]
+http://langamepp.com/chtst/F6D6FF39A6761F9F4194EDB980337412C7E5CB0E9345634EC1456E6801E2F5C24C064FE829A6A24FFF456A680C1BA4A6266D2EB676C4CF2890143D0751B2A4A9275D2EBC8F2D6DEA6AA783CDDD
+#EXTINF:0 audio-track="rus",Русская Ночь (Для взрослых) [ru AI]
+http://langamepp.com/chtst/381B5156A5E6ED1E26213B21BFEDFFB50928656190D591CFA6F0B8F03E3C7E6582CBE1872A3650CE98F0BCF033C52F01E8A080D975543DA9F7A1EB9F6E6C2F0EE99080D38CBD9F6B474866
+#EXTINF:0 audio-track="rus",Русский Бестеллер [ru LNT]
+http://langamepp.com/chtst/C4FFEF6A750E09B7A2F770222AE43462F5CCDB5D403D75662226F3F3AB35B5B27E2F57BACCDEB8671726F1F3A83481B27F2F54BAC0DF89ECD0821C4C5EB9
+#EXTINF:0 audio-track="rus",Русский Бестселлер [ru +3 NT]
+http://langamepp.com/chtst/0086B8A56CA6C392C7FEB487ECB33CB031B58C925995BF43472F37566D62BD60BA560075D5767242722F35566E62BD60B5560375D776764347A5C6F2C78052C45D
+#EXTINF:0 audio-track="rus",Русский бестселлер [ru AI]
+http://langamepp.com/chtst/B22B1A283924DFDC1B4FFE453433A73483182E1F0C17A30D9B9E7D94B5E226E408FBA2F880F46E0CAE9E7F94B6E226E407FBA1F882F46A0D9B148C30555AFA
+#EXTINF:0 audio-track="rus",Русский Бестселлер [ru DS]
+http://langamepp.com/chtst/B95FD925059CB8CD9B6C54871F9037D2886CED1230AFC41C1BBDD7569E41B602038F61F5BC4C091D2EBDD5569D41B6020C8F62F5BE4C0D1C1B3726F27BE36A
+#EXTINF:0 audio-track="rus",Русский Детектив
+http://langamepp.com/chtst/BC51FAF575D9D19028D0D55C037C90BC8D62CEC240EAAD41A801568D82AD116C06814225CC0965409D01578CB6AC2A6D3E814225C7
+#EXTINF:0 audio-track="rus",Русский детектив [ru +3 NT]
+http://langamepp.com/chtst/DC69E1E10699AEA105022825935FF74FED5AD5D633AAD27085D3ABF4128E769F66B95931BF491A71B0D3AAF5268F4D9E5EB95931B4C2DCD42E314651CE
+#EXTINF:0 audio-track="rus",Русский детектив [ru AI]
+http://langamepp.com/chtst/B0F14426CA16B6F2E68C4FE908DFA5E481C27011FF25CA23665DCC38890E24340A21FCF673C60222535DCD39BD0F1F353221FCF6784DC48787E512
+#EXTINF:0 audio-track="rus",Русский иллюзион [ru +3 NT]
+http://langamepp.com/chtst/4986C64F2074F02577184A0A7741592778B5F27815478CF4F7C9C9DBF690D8F7F3567E9F99A448F5CCC8F1DBF991EEF7F156789F9D2F82505C2B247E2A
+#EXTINF:0 audio-track="rus",Русский иллюзион [ru AI]
+http://langamepp.com/chtst/329D4DFCB304EF99903E82981D277D6603AE79CB8637934810EF01499CF6FCB6884DF52C0AD457492BEE394993F7CAB68A4DF32C0E5F9DECF157DF
+#EXTINF:0 audio-track="rus",Русский Иллюзион [ru DS]
+http://langamepp.com/chtst/AE43B5CEB7A5F32EBD3E38347F915CB29F7081F982968FFF3DEFBBE5FE40DD6214930D1E0E754BFE06EE83E5F141EB6216930B1E0AFE815BD94D65
+#EXTINF:0 audio-track="rus",Русский роман [ru +3 NT]
+http://langamepp.com/chtst/2FA9AEE2AD9D7C3DDBFED6F926535FD41E9A9AD598AE00EC5B2F5528A782DE0495791632144CFCED652E6A299683E28F5DDC85D1C3E921
+#EXTINF:0 audio-track="rus",Русский Роман [ru AI]
+http://langamepp.com/chtst/9615A24DBA957C78D3B4AC5346080575A726967A8FA600A953652F82C7D984A52CC51A9D0344FCA86D641083F6D8B82EE460C324E7
+#EXTINF:0 audio-track="rus",Русский Роман [ru DS]
+http://langamepp.com/chtst/B2B3575F51D39D2CD27325F8C685CC5C8380636864E0E1FD52A2A62947544D8C0863EF8FE8021DFC6CA3992876557107C0C6332C0C
+#EXTINF:0 audio-track="rus",Русский Роман [ru LNT]
+http://langamepp.com/chtst/9A6EA9540325CCD7DA792A20812F9533AB5D9D633616B0065AA8A9F100FE14E320BE1184BAF44C0764A996F031FF2868E81BC53A7778
+#EXTINF:0 audio-track="rus",Русский роман HD
+http://langamepp.com/chtst/E2EC9333C0306092A3858A690A56C5A4D3DFA704F5031C43235409B88B874474583C2BE379E1E0421D5536B9BA8678CC86
+#EXTINF:0 audio-track="rus",Русский экстрим [ru AI]
+http://langamepp.com/chtst/C46EF9C794C59E6E3EC88EC0F723F3DAF55DCDF0A1F6E2BFBE190D1176F2720A7EBE41172D1413BE84190F1175F2730A7CBE459CE6B0FF0763
+#EXTINF:0 audio-track="rus",Рыжий [ru +3 NT]
+http://langamepp.com/chtst/0F860DCFB66D6159F3EBC2FD4187A2053EB539F8835E1D88733A492DF7571AD5B6DD7FBA9D5E0F2DAE
+#EXTINF:0 audio-track="rus",Рыжий [ru AI]
+http://langamepp.com/chtst/F69BCD8A606BF89F34865F2BA95205B8C7A8F9BD5558844EB457D4FB1F82BD684FC0BFFF0102A5
+#EXTINF:0 audio-track="rus",Санкт-Петербург [ru AI]
+http://langamepp.com/chtst/D913888F80E9E973D5AB711633131C29E820BCB8B5DA95A2547BC1C68EC3A6F85B3E5830505C38F1051EA096E3A2CDAA0893583CDB9B9C12BCF6
+#EXTINF:0 audio-track="rus",Санкт-Петербург [ru ZTN]
+http://langamepp.com/chtst/AEE9B30E54ABAD88310CB4DA5FB992389FDA87396198D159B0DC040AE26928E92CC463B1841E7C0AE1B9655A8F0843BB7F6963BD0FD9D8F24562E9
+#EXTINF:0 audio-track="rus",Сарафан [ru +3 NT]
+http://langamepp.com/chtst/CC1AC74D04B0C0D95C31EF8F440BB8F2FD29F37A3183BC08DDE15F5EC4DB082348CA779DB9EBB2AC770281FB19
+#EXTINF:0 audio-track="rus",Сарафан [ru AI]
+http://langamepp.com/chtst/F46B014916AED147BB85211A3FB3520BC558357E239DAD963A5591CBBF63E2DA70BBB199ABF5A332DAEC7C
+#EXTINF:0 audio-track="rus",Сарафан [ru DS]
+http://langamepp.com/chtst/CE1958D2CA19AB264A9AB58FA66D819AFF2A6CE5FF2AD7F7CB4A055E26BD314B4AC9E8027742D9532EE9E8
+#EXTINF:0 audio-track="rus",Сарафан [ru LNT]
+http://langamepp.com/chtst/D882E3EE31B535EC3A560679095885D7E9B1D7D90486493DBB86B6A8898835065C52533E8CEE479956387224
+#EXTINF:0 audio-track="rus",Совершенно Секретно [ru DS]
+http://langamepp.com/chtst/71DDA93BF6546141EF16D09583512F5B40EE9D0CC3671D906EC66E4531819A8AF10C21EB4384DC9152C66E4402819A8BCB0C29EB4385E39152C66ECEF1244B282C
+#EXTINF:0 audio-track="rus",Совершенно секретно [ru ZTN]
+http://langamepp.com/chtst/D4134905C87EF102D4F77CDE4F01B5C0E5207D32FD4D8DD35527C20EFDD1001154C2C1D57DAE4CD26927C20FCED100106EC2C9D57DAF73D26927C2853D74CFB4BA4E
+#EXTINF:0 audio-track="rus",Союз [ru +3 NT]
+http://langamepp.com/chtst/DE5FFCD5B35D16A274E637F73767530BEF6CC8E2866E6A73F5368926B9B7E450AC2AD7E6DD294B
+#EXTINF:0 audio-track="rus",Союз [ru AI]
+http://langamepp.com/chtst/7A9C10421B0144EFF8C0CD47C18308A04BAF24752E32383E791073964F53BFFB08E9712B46
+#EXTINF:0 audio-track="rus",Союз [ru DS]
+http://langamepp.com/chtst/E2047595618B38D5716FCDA8D620B450D33741A254B84404F0BF737958F0030B907111E63C
+#EXTINF:0 audio-track="rus",Союз [ru HLS]
+http://langamepp.com/chtst/BCC492D7C6D7C7BE97940659170EF9F98DF7A6E0F3E4BB6F1644B88899DE4EA2CEB1FABBB58A
+#EXTINF:0 audio-track="rus",Союз [ru LNT]
+http://langamepp.com/chtst/126E8F73F9C7496A3616120D36C65DF2235DBB44CCF435BBB7C6ACDCB816EAA9601BE31D8D9A
+#EXTINF:0 audio-track="rus",Союз [ru ZTN]
+http://langamepp.com/chtst/8BF0CA51C7910F5E2515B73D23B03635BAC3FE66F2A2738FA4C509ECAD60816EF985B025A9CC
+#EXTINF:0 audio-track="rus",Спас
+http://langamepp.com/chtst/1EC5A9178CF281C30894D03E5A2D30E52FF69D20B9C1FD1289446FEEEAFCB1
+#EXTINF:0 audio-track="rus",Спас [ru +3 NT]
+http://langamepp.com/chtst/1DFA36E48B4643B15BFAEE7FAB24B4C92CC902D3BE753F60DA2A51AF1BF535926F8F1DD7E5321E
+#EXTINF:0 audio-track="rus",Спас [ru DS]
+http://langamepp.com/chtst/EA5DE1764F623957F609955137C63654DB6ED5417A51458677D92A818717B70F9828850512
+#EXTINF:0 audio-track="rus",Спас [ru LNT]
+http://langamepp.com/chtst/C06D394CB37CFD0E76EB8D210F42EBF9F15E0D7B864F81DFF73B32F1BF936AA2B2185522C721
+#EXTINF:0 audio-track="rus",спас [ru ZTN]
+http://langamepp.com/chtst/9FCC70EF2EA94625B3DC76EAA2AC3E62AEFF44D81B9A3AF4320CC93A127DBF39EDB90A9B40F4
+#EXTINF:0 audio-track="rus",Спас_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/1977AECCF3ABDB6A96688BA6AA769F4A28449AFBC698A7BB17B834761AA71E153428DDBC87D88447C9B833772AA6259B9AA62C1D727B61
+#EXTINF:0 audio-track="rus",Страна [ru +3 NT]
+http://langamepp.com/chtst/420F3971B97F966C5B0C56FDB89460D2733C0D468C4CEABDDADDD42C3844D002FFDF892ACB0ABD5F35780B
+#EXTINF:0 audio-track="rus",Страна [ru AI]
+http://langamepp.com/chtst/0C0E9EFFBA796950E2F5F68C6B96D6AE3D3DAAC88F4A15816324745DEB46667EB1DE2EA4C80C0839BF
+#EXTINF:0 audio-track="rus",СТС
+http://langamepp.com/chtst/A50F1F5E8FB5CAEAC120E879B5484BC1943C2B69BA86B63B40F16AA834
+#EXTINF:0 audio-track="rus",СТС +3
+http://langamepp.com/chtst/56EAC010632A61451F57D28AEDA8389367D9F42756191D949E86505B6C830B
+#EXTINF:0 audio-track="rus",СТС +4
+http://langamepp.com/chtst/B857F1470CBC31CDDC194791619252B88964C570398F4D1C5DC8C540E0B966
+#EXTINF:0 audio-track="rus",СТС [ru AI]
+http://langamepp.com/chtst/7C13C8E03D29255C81F7E66EA01F01584D20FCD7081A598D002664BF2144732D1D7A95
+#EXTINF:0 audio-track="rus",СТС [ru DS]
+http://langamepp.com/chtst/76F39F83AFD0508BEA971D4B2A6F03A647C0ABB49AE32C5A6B469F9AAB3471D31280C2
+#EXTINF:0 audio-track="rus",СТС [ru LNT]
+http://langamepp.com/chtst/82CC86BFF5AC1B76A302E54321E69B97B3FFB288C09F67A722D36792A0BDE9E2EEA2F2E2
+#EXTINF:0 audio-track="rus",СТС [ru ZTN]
+http://langamepp.com/chtst/D93A1A880B6B14F50231402CA044D323E8092EBF3E58682483E0C2FD211FA156A34E74D5
+#EXTINF:0 audio-track="rus",СТС_-_MPTS_-_Ангарск
+http://langamepp.com/chtst/1059E20505FE7CA90061EC214788B821216AD63230CD007881B06EF0C6D7957E7D2996765AD32379B0B151F1F45808F0908863D5BF
+#EXTINF:0 audio-track="rus",СТС_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/C2D3A9CD3EBDC240EE036D8F4740B257F3E09DFA0B8EBE916FD2EF5EC61F9F08B1A3DDBE61909D9056D2ED5FFD9131864002281D84
+#EXTINF:0 audio-track="rus",СТС Love [ru +3 NT]
+http://langamepp.com/chtst/99945C9F92D848923934B381BC6CA27FA8A768A8A7EB3443B8E531503D00CD09FCCF2EEAB9EB26E664
+#EXTINF:0 audio-track="rus",СТС Love [ru AI]
+http://langamepp.com/chtst/3F4B4C7D090FBDF7122A86596A38B0040E78784A3C3CC12693FB0488EB54DF725A103E086866E0
+#EXTINF:0 audio-track="rus",СТС Love [ru LNT]
+http://langamepp.com/chtst/CD0CA35FE5EBF21E1FA59FDC11415B50FC3F9768D0D88ECF9E741D0D902D3426A857D12A89858643
+#EXTINF:0 audio-track="rus",СТС Иркутск  АС Байкал (Братск)
+http://langamepp.com/chtst/8DA7CD96B68B8DC8B51421204CD12419BC94F9A183B8F11934C5A3F1CD019CC80D777747355A0F1934C49BF0FC00A5C93C777D460F5B371805C49A089C60F5995D171C14670A5D729C
+#EXTINF:0 audio-track="rus",СТС Кузбасс
+http://langamepp.com/chtst/DEC779C3B26BE1D11081AD22C208724FEFF44DF487589D0091502FF343D8C89E5D17CE1303BB510091502C
+#EXTINF:0 audio-track="rus",СТС Мир
+http://langamepp.com/chtst/B040E566CB732F808750A0D322C4ED008173D151FE40535106812202A31451D0089165
+#EXTINF:0 audio-track="rus",СТС Мир [ru +3 NT]
+http://langamepp.com/chtst/8B66C33DD1A40FE125BC03E8C5763775BA55F70AE4977330A46D813944A68BA533B74366A3D124D24BC85E
+#EXTINF:0 audio-track="rus",СТС Прима
+http://langamepp.com/chtst/B61DDB81900A01175BA2EA7D66D77DF2872EEFB6A5397DC6DA7368ACE707C22336CD63512CDAB1
+#EXTINF:0 audio-track="rus",ТБН [ru AI]
+http://langamepp.com/chtst/3D402F0EE43EF00AFBF3F2C06929351F0C731B39D10D8CDB79234310D472476A5C2972
+#EXTINF:0 audio-track="rus",ТВ-3
+http://langamepp.com/chtst/4610A0D61BA2ED7644D8F3AAAF709CED772394E12E9191A7C60841879C
+#EXTINF:0 audio-track="rus",ТВ-3 [ru +3 NT]
+http://langamepp.com/chtst/B0CCFB940AEB9E05DF90C548BAFA680081FFCFA33FD8E2D45D40776589A11A759BFF95E057
+#EXTINF:0 audio-track="rus",ТВ-3 [ru AI]
+http://langamepp.com/chtst/0B08D726AAC49CEE9C8F994CFF3539AF3A3BE3119FF7E03F1E5F2B61CC6E4BDA6A618A
+#EXTINF:0 audio-track="rus",ТВ-3 [ru DS]
+http://langamepp.com/chtst/0134430C20E211FF72D7472CD1AF2DDC3007773B15D16D2EF007F501E2F45FA965471E
+#EXTINF:0 audio-track="rus",ТВ-3 [ru LNT]
+http://langamepp.com/chtst/B8040262C89E51652DEAB12C1FEADB2189373655FDAD2DB4AF3A03012CB1A954D46A763F
+#EXTINF:0 audio-track="rus",ТВ-3 [ru ZTN]
+http://langamepp.com/chtst/1E1F2D3E013E3D731585A0E734CDC3EC2F2C1909340D41A2975512CA0796B199646B4363
+#EXTINF:0 audio-track="rus",ТВ-3_-_MPTS_-_Ангарск
+http://langamepp.com/chtst/D1C64F9964A0FE928AAFBEA9999ACAB8E0F57BAE51938243087F0C84AAC5E7E7BCB63BEA3B8DA1423A7F03792A4A7A695117CE49DE
+#EXTINF:0 audio-track="rus",ТВ-3_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/B9F7F6BA36342D4BB9CD32ED9AF6DA6B88C4C28D0307519A3B1D80C0A9A9F734CA8782C96919729B011CB23D202759BA3B26776A8C
+#EXTINF:0 audio-track="rus",ТВ3 (+4)
+http://langamepp.com/chtst/BC290520C903B253B371FC4C0BC704C48D1A3117FC30CE8231A14E7F23EC30ED
+#EXTINF:0 audio-track="rus",ТВ3 + 1
+http://langamepp.com/chtst/BEFB7EF42FAB40E87972D51368AF7F248FC84AC31A983C39FBA26720439E
+#EXTINF:0 audio-track="rus",ТВ3 +2
+http://langamepp.com/chtst/D88445A187F7F43A68F18773B88B3776E9B77196B2C488EBEA21354093B9
+#EXTINF:0 audio-track="rus",ТВ_Центр_-_MPTS_-_Ангарск
+http://langamepp.com/chtst/86B56BB561AB9DDA1D73ED86226CAAFBB7865F825498E10B9FA35FD9F3EA7A4E5608BA37B02BC2F7421E9DF2513387A45605BB08B1184D6ACCF33C07F2D6
+#EXTINF:0 audio-track="rus",ТВ_Центр_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/F0EF9C78E791B24F8239C33AC5FAB04BC1DCA84FD2A2CE9E00E97165147C60FE20524DFA3611ED62DD4AB34EB6A59D1420574DF8372B63CC53BB12BB1540
+#EXTINF:0 audio-track="rus",Твой Дом [ru +3 NT]
+http://langamepp.com/chtst/B01B0111C69EEBE411D86A3445142F3581283526F3AD97359308D8E4FBC496E504CBBFC17AC599913AEB044018
+#EXTINF:0 audio-track="rus",Твой Дом [ru DS]
+http://langamepp.com/chtst/04CBADEB5C603ADE99FD185EF8C9AAA835F899DC6953460F1B2DAA8E46191378B01B133BE03B48ABFD8E45
+#EXTINF:0 audio-track="rus",ТВ Центр
+http://langamepp.com/chtst/E4ABB9AB49A48F5B7CF98FC10DBEF711D5988D9C7C97F38AFE293D108B6E42C1597A3B7AC9
+#EXTINF:0 audio-track="rus",ТВ Центр [ru +3 NT]
+http://langamepp.com/chtst/89A4FCE60437C49E34DDFC2CA6A6D48AB897C8D13104B84FB60D4EFD2076615A34757E37846CB6EB1FEE9258FB
+#EXTINF:0 audio-track="rus",ТВ Центр [ru AI]
+http://langamepp.com/chtst/518D359B31C4F6AEBD856FCB4366DCCC60BE01AC04F78A7F3F55DD1AC5B6691CEC5CB74AB19F84DBDCEC32
+#EXTINF:0 audio-track="rus",ТВ Центр [ru DS]
+http://langamepp.com/chtst/0BD9B20F1077AD4454AA71FA504584A23AEA86382544D195D67AC32BD6953172B60830DE902CDF3130D92C
+#EXTINF:0 audio-track="rus",ТВ Центр [ru HLS]
+http://langamepp.com/chtst/D3BA3D047E33B23CB82207FB88E3C793E28909334B00CEED3AF2B52A0E3372436E6BBFD5FE68C049D04E74A6
+#EXTINF:0 audio-track="rus",ТВ Центр [ru LNT]
+http://langamepp.com/chtst/BC7AA3CCF1501145FA823F4BC7C3ED9A8D4997FBC4636D9478528D9A4113584A01AB211D710B633096EC4B16
+#EXTINF:0 audio-track="rus",ТВ Центр [ru ZTN]
+http://langamepp.com/chtst/7D2A9FFC5D513815733F10FC22D78FDF4C19ABCB686244C4F1EFA22DA4073A0FC0FB1D2DDD0A4A60094B7EA1
+#EXTINF:0 audio-track="rus",ТВЦ Сибирь
+http://langamepp.com/chtst/5132AB4283BC877D3EC6C8068AB5A00760019F75B68FFBACBC167AD70C6421D7E9E21A923B6D07ACB2
+#EXTINF:0 audio-track="rus",Театр [ru LNT]
+http://langamepp.com/chtst/DF3F033C913B51047A61009D39907C8AEE0C370BA4082DD5F8B1B54D8941FE5B5F647149FD552559
+#EXTINF:0 audio-track="rus",ТелеДом HD [ru LNT]
+http://langamepp.com/chtst/C227CD45E454C3221B8B28A541C9AC20F314F972D167BFF3995B9D75FA1919F076F77395583CA77969FE44CB3594
+#EXTINF:0 audio-track="rus",Телекафе [ru +3 NT]
+http://langamepp.com/chtst/08B05D99EBAE9E66109E03492E7FD3F1398369AEDE9DE2B7924EB69995AF6621B260ED486F7E2B3D62EB287A400B8E
+#EXTINF:0 audio-track="rus",Телекафе [ru AI]
+http://langamepp.com/chtst/A6A0368AF5F9AD1085D5B5C69E61E6A7979302BDC0CAD1C10705001625B153771C70865B7129184BF7A0D4AFC3
+#EXTINF:0 audio-track="rus",Телекафе [ru LNT]
+http://langamepp.com/chtst/114340FDF2DE63027D664BABE51E9C8B207074CAC7ED1FD3FFB6FE7B5ECE295BAB93F02C760ED6590F1327C59143
+#EXTINF:0 audio-track="rus",Телеклуб [ru DS]
+http://langamepp.com/chtst/BFD316B4CCC3C45198791737DAFEDEEC8EE02283F9F0B8801AA9A2E7612E6B3C0503AD654F13750AEA0C734487
+#EXTINF:0 audio-track="rus",Телепутешествия [ru +3 NT]
+http://langamepp.com/chtst/411EE933FD4C357AB28025979FC2225E702DDD04C87F49AB305090472412978EFECF6AE27F9C80AB3A5090461E13A08EF3CE51E27217470F99B34BE3C2
+#EXTINF:0 audio-track="rus",Телепутешествия [ru AI]
+http://langamepp.com/chtst/95381261FBD6B3944FCACB29C8A9150AA40B2656CEE5CF45CD1A7EF97379A0DA2AE991B079060645C71A7EF8497897DA27E8AAB0748DC1E12EA396
+#EXTINF:0 audio-track="rus",Терра [ru AI]
+http://langamepp.com/chtst/C7FE3DC44A733EFCF364939226B6F0BBF6CD09F37F40422D71B42643A667706B77A54FB12B1A63
+#EXTINF:0 audio-track="rus",Техно 24
+http://langamepp.com/chtst/EE021CEAD8CF7E279A495162F2666CB9DF3128DDEDFC02F61899E4B377B6D169503028
+#EXTINF:0 audio-track="rus",Техно 24 [ru +3 NT]
+http://langamepp.com/chtst/65AA7EAF1DBCAC10203FA346F59301E454994A98288FD0C1A2EF16977043BC34DB984AF46FC987234E4BFE
+#EXTINF:0 audio-track="rus",Тивиси
+http://langamepp.com/chtst/961ECE6EED4C968795E7EA874D5640B2A72DFA59D87FEA5617375257FF86F86317CE76
+#EXTINF:0 audio-track="rus",ТКР (Рязань) [ru HLS]
+http://langamepp.com/chtst/00BE621D7B0E2E9B4DD1E24364E327FA318D562A4E3D524ACF015892E4CBF67AD131B2AAABBEFE269C5DCB1816964F9673E3
+#EXTINF:0 audio-track="rus",ТЛУМ HD
+http://langamepp.com/chtst/01F569EF41FF76D6E6605D33B79DE6B730C65DD874CC0A0764B0E6E2344D5ADF65
+#EXTINF:0 audio-track="rus",ТНВ Планета [ru +3 NT]
+http://langamepp.com/chtst/5C48D5D7560372A3D454E638380D33396D7BE1E063300E7256845BE88ADD8CE9E7986507EBD3C772568456634A78180A323C88
+#EXTINF:0 audio-track="rus",ТНВ Планета [ru DS]
+http://langamepp.com/chtst/029C28439B9F1981FF76B4B6149A6E7033AF1C74AEAC65507DA60966A64AD1A0B94C9893264FAC507DA604ED66EF0A035F
+#EXTINF:0 audio-track="rus",ТНТ
+http://langamepp.com/chtst/E243473846B9DC1A0EC25246D0857FD2D370730F738AA0CB8C12EF9752
+#EXTINF:0 audio-track="rus",ТНТ (+4)
+http://langamepp.com/chtst/21A816BC472F3D46A6F2FDBA8C6B2A6F109B228B721C41972422406B0E43015B08
+#EXTINF:0 audio-track="rus",ТНТ +1
+http://langamepp.com/chtst/AE71A7F42A830E3846607E16E6FEE8079F4293C31FB072E9C4B0C3C764D5D9
+#EXTINF:0 audio-track="rus",ТНТ +2
+http://langamepp.com/chtst/A6FEC4ED2E0133D4F3308E809BB8EF4997CDF0DA1B324F0571E033511993DD
+#EXTINF:0 audio-track="rus",ТНТ4
+http://langamepp.com/chtst/29963D531A4B8C60AC0A7692085E99AE18A509642F78F0B12EDACB438A6A
+#EXTINF:0 audio-track="rus",ТНТ4 +2
+http://langamepp.com/chtst/5D5D9B8B5FCF5F52FFEDD29BA5C1E4CE6C6EAFBC6AFC23837D3D6F4A27F5CFFC
+#EXTINF:0 audio-track="rus",ТНТ4 +4
+http://langamepp.com/chtst/582221726DADD219B848ABC0A6456F0369111545589EAEC83A98161124714437
+#EXTINF:0 audio-track="rus",ТНТ4 +7
+http://langamepp.com/chtst/A20A8E01D9ED54D9DA26747FE8584D409339BA36ECDE280858F6C9AE6A6C6677
+#EXTINF:0 audio-track="rus",ТНТ4 [ru +3 NT]
+http://langamepp.com/chtst/7A6FB2E81C8401D4CCAD9572F20476944B5C86DF29B77D054E7D28A370302DE60F44818668D9
+#EXTINF:0 audio-track="rus",ТНТ4 [ru DS]
+http://langamepp.com/chtst/0E0496E8F2EAC1CC10354CF88D9938083F37A2DFC7D9BD1D92E5F1290FAD637A7B60E5B5
+#EXTINF:0 audio-track="rus",ТНТ4 [ru LNT]
+http://langamepp.com/chtst/08EAF0256EF1F93A9E8EAD90922325A139D9C4125BC285EB1C5E104110177ED37D869E5133
+#EXTINF:0 audio-track="rus",ТНТ4 [ru SNN]
+http://langamepp.com/chtst/27BB8919A54AE6B57F32AE0CCBE614D41688BD2E90799A64FDE213DD49D24FA652C8E777F8
+#EXTINF:0 audio-track="rus",ТНТ [ru +3 NT]
+http://langamepp.com/chtst/D104F93FF6F27A94812725134A4AB471E037CD08C3C1064503F798C2C811C604FA37974BAB
+#EXTINF:0 audio-track="rus",ТНТ [ru AI]
+http://langamepp.com/chtst/053D8BAA87715F06A30D136EF42742C5340EBF9DB24223D721DDAEBF767C30B06454D6
+#EXTINF:0 audio-track="rus",ТНТ [ru DS]
+http://langamepp.com/chtst/2C3B04222E7EB6AFA5DBC2EF2577612A1D0830151B4DCA7E270B7F3EA72C135F484859
+#EXTINF:0 audio-track="rus",ТНТ [ru LNT]
+http://langamepp.com/chtst/B4ECD43C5D34420041556E357DB1FAA985DFE00B68073ED1C385D3E4FFEA88DCD882A061
+#EXTINF:0 audio-track="rus",ТНТ [ru ZTN]
+http://langamepp.com/chtst/ECFFCB1A7D81C9235D8C12820373ADB7DDCCFF2D48B2B5F2DF5CAF538128DFC2968BA547
+#EXTINF:0 audio-track="rus",ТНТ_-_MPTS_-_Ангарск
+http://langamepp.com/chtst/5F81F3BCB536BCF78B2B2C08DC27B1C86EB2C78B8005C02609FB91D95E789C9732F187CFEA1BE3273BFB91D86FF70119DF50726C0F
+#EXTINF:0 audio-track="rus",ТНТ_-_SPTS_-_Иркутск
+http://langamepp.com/chtst/267CE3A3FEACC65B38D9DD3B4C8AF3AC174FD794CB9FBA8ABA0960EACED5DEF3550C97D0A181998B80085DEBF65B707DA4AD627344
+#EXTINF:0 audio-track="rus",ТНТ music
+http://langamepp.com/chtst/0CE668C11C25B8A850E5B02C0C62F4323DD55CF62916C479D2350DFD8E0F81416585
+#EXTINF:0 audio-track="rus",ТНТ music [ru +3 NT]
+http://langamepp.com/chtst/DED7D5DC849C37BC7515F8C19FEB6DABEFE4E1EBB1AF4B6DF7C545101D8618D8B7B48EAEF1B704D20148
+#EXTINF:0 audio-track="rus",ТНТ music [ru AI]
+http://langamepp.com/chtst/D1D66DEEFB25964B0A467716A86B4887E0E559D9CE16EA9A8896CAC72A063DF4B8B5369C8E44FF16
+#EXTINF:0 audio-track="rus",ТНТ Music [ru DS]
+http://langamepp.com/chtst/431E63C7BA9B832FB07BF04F665EFB38722D57F08FA8FFFE32AB4D9EE4338E4B2A7D38B5CFFFF072
+#EXTINF:0 audio-track="rus",ТНТ Music [ru LNT]
+http://langamepp.com/chtst/3468262F8DBC7A9802F1AEAB5CF7329F055B1218B88F06498021137ADE9A47EC5D0B7D5DF8D014EC5F
+#EXTINF:0 audio-track="rus",ТНТ БСТ
+http://langamepp.com/chtst/159566CF30EAFEE065EE30CC4C2B048024A652F805D98231E73E8D1DCEFBB5519444E4
+#EXTINF:0 audio-track="rus",ТНТ Скат [ru AI]
+http://langamepp.com/chtst/932AAF20E629B8E81A6793775EC51673A2199B17D31AC43998B72EA6DC1497A329FA1FF16472CA9D7B0ECE
+#EXTINF:0 audio-track="rus",Тонус-ТВ [ru +3 NT]
+http://langamepp.com/chtst/5B7D428B67406CCC2E9C987BC79CFB5A6A4E76BC5273101DAC4C26AB7A4D788BDA509309B7F237BE5BB7AB15B3C1
+#EXTINF:0 audio-track="rus",Тонус-ТВ [ru AI]
+http://langamepp.com/chtst/C6AB7AACD43395EF9A2866F8EE7C6B49F7984E9BE100E93E18F8D82853ADE8984786AB2E0481CE9DEF490FA5
+#EXTINF:0 audio-track="rus",ТРО
+http://langamepp.com/chtst/F9ADD460ED402D1BDCC596A36292FD28C89EE057D87351CA5E141673DC
+#EXTINF:0 audio-track="rus",ТРО [ru AI]
+http://langamepp.com/chtst/3D78D511AB6A004592663D80E3A8C9DC0C4BE1269E597C9410B7BD505DF3BBA95C1188
+#EXTINF:0 audio-track="rus",ТРО [ru DS]
+http://langamepp.com/chtst/559E3D42DE6A5DBB2FF45E91865CBAC364AD0975EB59216AAD25DE413807C8B631ED60
+#EXTINF:0 audio-track="rus",ТТ [ru +3 NT]
+http://langamepp.com/chtst/D48FD47FF9D5C48B3B010C1EA9D5FBFEE5BCE048CCE6B85AB9D08E45DBA0D0CDBAFB89
+#EXTINF:0 audio-track="rus",Тюменское время [ru HLS]
+http://langamepp.com/chtst/73384052A29D0DD1916B6317C71DDA9B420B746597AE710013BAEDC77BCD6F4BCEE9C182184DB30124BBD1C647CD6F4BCFE9CF09D0E865BDE236
+#EXTINF:0 audio-track="rus",Усадьба
+http://langamepp.com/chtst/ACAF1AA584DE30BFDF3CDE8812D986859D9C2E92B1ED4C6E5CED5F58A2093254207FAB7534
+#EXTINF:0 audio-track="rus",Усадьба [ru +3 NT]
+http://langamepp.com/chtst/11C6D7B364E484F550E70D1704E7B3B020F5E38451D7F824D3368CC7B43707619D166663D4BFF6807BD4636359
+#EXTINF:0 audio-track="rus",Усадьба [ru DS]
+http://langamepp.com/chtst/96CD551AAC86DA8BC2B814D4919A5AA2A7FE612D99B5A65A41699504214AEE731A1DE4CA1CDDA8FEA6CB49
+#EXTINF:0 audio-track="rus",Усадьба [ru LNT]
+http://langamepp.com/chtst/613155C516D9BA66C1C77DC5AF307645500261F223EAC6B74216FC151FE0C294EDE1E415A682C813ADA90998
+#EXTINF:0 audio-track="rus",Успех
+http://langamepp.com/chtst/FECB60AA513A3514F249E883E4422545CFF8549D640949C5719869535B9290947B
+#EXTINF:0 audio-track="rus",Успех [ru +3 NT]
+http://langamepp.com/chtst/747A0A8A53C4F0148C6DDA3B9E50809C45493EBD66F78CC50FBC5BEB2180354DF12178FF78F79E60D1
+#EXTINF:0 audio-track="rus",Феникс+ кино
+http://langamepp.com/chtst/1BE0466D1A7B810CC5698FA9ACB4EE202AD3725A2F48FDDD41B93A79116456F0A131C746CAC151B415D45F17
+#EXTINF:0 audio-track="rus",Феникс + Кино [ru DS]
+http://langamepp.com/chtst/2EF8AA82BC9A9648077083A5C00441DC1FCB9EB589A9EA9983A036757DD4F90C94292BA96C2046F0D7CD531B9B7634B85DA5
+#EXTINF:0 audio-track="rus",Футбол [ru +3 NT]
+http://langamepp.com/chtst/E48749FF03CA0BC8339B71DF4F5FFF7ED5B47DC836F97719B74AF20ECD8F4EAE5A57F2A471BF20FB5DEF2C
+#EXTINF:0 audio-track="rus",Футбол [ru AI]
+http://langamepp.com/chtst/57A9001343965C4B07DFF0C7E332A3C8669A342476A5209A830E731661E21218E979BB4831E33D225A
+#EXTINF:0 audio-track="rus",Центр Красноярск
+http://langamepp.com/chtst/B9ECC7BCB6D284EA6DF5C9BD54C93BAB88DFF38B83E1F83BEB257C6DE918B97A393C7D6D3602343BEC25746DEA18B47A393D466C0C
+#EXTINF:0 audio-track="rus",Че
+http://langamepp.com/chtst/723BBFB6D11B01D8FAF1A0DE2343A6DD43088B81E4287D097D2115
+#EXTINF:0 audio-track="rus",Че +7
+http://langamepp.com/chtst/306D99E63F1ED0AD139A6A6863A513D5015EADD10A2DAC7C944ADF4354
+#EXTINF:0 audio-track="rus",Че [ru +3 NT]
+http://langamepp.com/chtst/E0D28BB1ED8C8AE87E2AC6A16D6C7E9DD1E1BF86D8BFF639F9FA73FA1F1955AE8EA6D6
+#EXTINF:0 audio-track="rus",Че [ru AI]
+http://langamepp.com/chtst/D91884183654C549EE2FB151D4C527B4E82BB02F0367B99869FF040AA6B046DD84
+#EXTINF:0 audio-track="rus",Че [ru DS]
+http://langamepp.com/chtst/97B266853FF06DBD1A335E879FDD2578A68152B20AC3116C9DE3EBDCEDA8410BCA
+#EXTINF:0 audio-track="rus",Че [ru LNT]
+http://langamepp.com/chtst/F5A9902BFD5674EC85263D5AEB640E82C49AA41CC865083D02F68801991162EC81F4
+#EXTINF:0 audio-track="rus",Че [ru ZTN]
+http://langamepp.com/chtst/177407566474137EA77106464E2BBE432647336151476FAF20A1B31D3C5EC4377929
+#EXTINF:0 audio-track="rus",Че Красноярск
+http://langamepp.com/chtst/D44F6ED1A5E3BD2A09FB84F45F937676E57C5AE690D0C1FB8E2B3124E542F6A6649EEF01183303FB862A0425DE43CC
+#EXTINF:0 audio-track="rus",Черноморская ТРК [ru HLS]
+http://langamepp.com/chtst/077ECC6CF2DFEA9A51F0E09F1B9FE3EF364DF85BC7EC964BD620554E9B4F5E3FB9AE70BC4C0E6A4BD0205A4FAB4E6C3E85AF4CBC488498EF399C93C2
+#EXTINF:0 audio-track="rus",Шансон ТВ [ru +3 NT]
+http://langamepp.com/chtst/EE51C193347EBD3D794231D9D5A84FDCDF62F5A4014DC1ECF19281096879CE0C50817C42B6AE0F660B371AEABBDC12
+#EXTINF:0 audio-track="rus",Шансон ТВ [ru DS]
+http://langamepp.com/chtst/261C4818FB33B24C2393EC3F32CF2E20172F7C2FCE00CE9DAB435CEF8F1EAFF098CCF5C979E3001751E6884C6F
+#EXTINF:0 audio-track="rus",Шансон ТВ [ru LNT]
+http://langamepp.com/chtst/20EFB3556E7092E7B2C4C0876C10649211DC87625B43EE363A147057D1C1E5429E3F0E84ECA020BCC0B1ACE9184D
+#EXTINF:0 audio-track="rus",Эхо Москвы [ru LNT]
+http://langamepp.com/chtst/2CACAA27DF5D7403F06042222F70424F1D9F9E10EA6E08D27DB1C7F291A0FE9F927D2BF7658DC6D27B3B3057431E3612
+#EXTINF:0 audio-track="rus",Ю [ru +3 NT]
+http://langamepp.com/chtst/60F5A4CE6537B518FB769F678603F9B251C690F95004C9C9752DED12AD3097C63D
+#EXTINF:0 audio-track="rus",Ю [ru AI]
+http://langamepp.com/chtst/B0A3D98F004D92F0ADD412DC45542CA58190EDB8357EEE21238F60A9243D71
+#EXTINF:0 audio-track="rus",ю [ru LNT]
+http://langamepp.com/chtst/49D073AF0728C7029E6669246A62D61A78E34798321BBBD3103D1B51060CA247
+#EXTINF:0 audio-track="rus",Ю [ru ZTN]
+http://langamepp.com/chtst/06B0A906FD3CF7AB100987555EB3FAA737839D31C80F8B7A9E52F52024C794FA
+#EXTINF:0 audio-track="rus",Ювелирочка [ru +3 NT]
+http://langamepp.com/chtst/846D568B961D8E3484F759EE5A2F0860B55E62BCA32EF2E50A27EB3EEFFFB3B03CBCD65B28CC09E43E27E9B5285A2353EA190B
+#EXTINF:0 audio-track="rus",ювилирочка [ru LNT]
+http://langamepp.com/chtst/DFB166DDED5D88FE670F53C5C34E6C47EE8252EAD86EF42FE9DFE1157B9ED7976760E60D538C0F2EDDDFE39EB13B0029ABEC
+#EXTINF:0 audio-track="rus",Ю магазин
+http://langamepp.com/chtst/BBC3D251E060866458DF52B20E5A12EE8AF0E666D553FAB5D60FEE62BE8AA13E0B13658158B03B
+#EXTINF:0 audio-track="rus",Юмор [ru DS]
+http://langamepp.com/chtst/0C78CBF9D653F73D624B0225996E6C543D4BFFCEE3608BECEC9BBEF527BFEC0F7E0DAF8A8B
+#EXTINF:0 audio-track="rus",Юмор BOX
+http://langamepp.com/chtst/313FA6129F2C76F70BC9A91923BB072F000C9225AA1F0A26851915C99D6A874D5E47
+#EXTINF:0 audio-track="rus",Юмор BOX [ru +3 NT]
+http://langamepp.com/chtst/34D2290A252047886B49AD04B71A59E905E11D3D10133B59E59911D409CBD98B5BAA7278500B74E61F14
+#EXTINF:0 audio-track="rus",Юмор Box [ru HLS]
+http://langamepp.com/chtst/59FFFBF82B71F0363A994F5E55578D8968CCCFCF1E428CE7B449F38EEB860DEB3687A08A5E199C4567
+#EXTINF:0 audio-track="rus",Ю ТВ (+3)
+http://langamepp.com/chtst/29B6934FD7DAD742238447DA9EA0C3F71885A778E2E9AB93AD55C50A2C88E8C400
+#EXTINF:0 audio-track="rus",Ю ТВ (+4)
+http://langamepp.com/chtst/9FBEF0CA30E0006A794FC8CEA65657D0AE8DC4FD05D37CBBF79E4A1E147E7CE4B6
+#EXTINF:0 audio-track="rus",Ю ТВ +2
+http://langamepp.com/chtst/0CEA1FE3C4F626E77A6DC2190D8510AC3DD92BD4F1C55A36F4BC40C9BFAE22
